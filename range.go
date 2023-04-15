@@ -89,9 +89,10 @@ type Key [2]int
 
 // Table represents a table like is shown in the book.
 type Table struct {
-	cols int
-	rows int
-	grid map[Key]rune
+	cols   int
+	rows   int
+	grid   map[Key]rune
+	lookup map[rune][]Key
 }
 
 // GenTable generates a table using the given range, skip, and offset.
@@ -99,7 +100,11 @@ func (o *OTRange) GenTable(skip, offset int) (*Table, error) {
 	words := strings.Split(rawOT, "\n")[o.StartWordPos-1 : o.EndWordPos]
 
 	var count, col int
-	t := &Table{grid: map[Key]rune{}, cols: skip}
+	t := &Table{
+		cols:   skip,
+		grid:   map[Key]rune{},
+		lookup: map[rune][]Key{},
+	}
 	for _, word := range words {
 		// log.Printf("count=%v: word=%q", count, word)
 		for _, r := range word {
@@ -110,6 +115,8 @@ func (o *OTRange) GenTable(skip, offset int) (*Table, error) {
 
 			k := Key{col, t.rows}
 			t.grid[k] = r
+			t.lookup[r] = append(t.lookup[r], k)
+
 			col++
 			if col >= skip {
 				col = 0
