@@ -26,5 +26,3 @@ func must(err error) {
 		log.Fatal(err)
 	}
 }
-
-// 22 x 25 = 550
