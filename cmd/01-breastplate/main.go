@@ -5,18 +5,20 @@
 package main
 
 import (
+	"fmt"
 	"log"
-	"os"
-	"strings"
+
+	codes "github.com/gmlewis/bible-codes"
 )
 
 func main() {
-	buf, err := os.ReadFile("raw-ot.txt")
+	otRange, err := codes.NewOTRange("Numbers 4:11", "Numbers 4:20")
 	must(err)
 
-	words := strings.Split(strings.TrimSpace(string(buf)), "\n")
+	table, err := otRange.GenTable(22, 48)
+	must(err)
 
-	log.Printf("Got %v bytes, %v words", len(buf), len(words))
+	fmt.Printf("table:\n%v", table)
 }
 
 func must(err error) {
@@ -24,3 +26,5 @@ func must(err error) {
 		log.Fatal(err)
 	}
 }
+
+// 22 x 25 = 550

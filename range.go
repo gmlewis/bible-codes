@@ -4,6 +4,7 @@ import (
 	_ "embed"
 	"errors"
 	"fmt"
+	"log"
 	"strconv"
 	"strings"
 )
@@ -15,10 +16,13 @@ const (
 //go:embed LGNT-OT-Data.txt
 var otData string
 
+//go:embed raw-ot.txt
+var rawOT string
+
 // OTRange represents an inclusive range of text from the Old Testament in Hebrew.
 type OTRange struct {
-	StartWordPos int
-	EndWordPos   int
+	StartWordPos int // 1-indexed
+	EndWordPos   int // 1-indexed
 }
 
 // NewOTRange parses start and end locations in the Old Testament and returns a new OTRange.
@@ -77,4 +81,58 @@ func getOTWordPos(loc string, findLast bool) (int, error) {
 	}
 
 	return col, nil
+}
+
+// Key represents a (col,row)/(x,y) position in the table.
+// Upper right is (0,0) and reads right to left.
+type Key [2]int
+
+// Table represents a table like is shown in the book.
+type Table struct {
+	cols int
+	rows int
+	grid map[Key]rune
+}
+
+// GenTable generates a table using the given range, skip, and offset.
+func (o *OTRange) GenTable(skip, offset int) (*Table, error) {
+	words := strings.Split(rawOT, "\n")[o.StartWordPos-1 : o.EndWordPos]
+
+	var count, col int
+	t := &Table{grid: map[Key]rune{}, cols: skip}
+	for _, word := range words {
+		// log.Printf("count=%v: word=%q", count, word)
+		for _, r := range word {
+			count++
+			if count <= offset {
+				continue
+			}
+
+			k := Key{col, t.rows}
+			t.grid[k] = r
+			col++
+			if col >= skip {
+				col = 0
+				t.rows++
+			}
+		}
+	}
+	log.Printf("GenTable(%v,%v): got %v words, %v runes, and %v grid runes", skip, offset, len(words), count, len(t.grid))
+
+	return t, nil
+}
+
+// String draws a text representation of the Table.
+func (t *Table) String() string {
+	var lines []string
+	for row := 0; row < t.rows; row++ {
+		var line string
+		for col := 0; col < t.cols; col++ {
+			// k := Key{t.cols - col - 1, row} // reverse
+			k := Key{col, row} // reverse
+			line += string(t.grid[k])
+		}
+		lines = append(lines, line)
+	}
+	return strings.Join(lines, "\n")
 }
