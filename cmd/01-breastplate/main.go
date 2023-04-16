@@ -5,7 +5,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 
 	codes "github.com/gmlewis/bible-codes"
@@ -18,7 +17,16 @@ func main() {
 	table, err := otRange.GenTable(22, 48)
 	must(err)
 
-	fmt.Printf("table:\n%v", table)
+	// fmt.Printf("table:\n%v", table)
+
+	for english, word := range words {
+		w, err := table.Find(word)
+		if err != nil {
+			log.Printf("%q: %v", english, err)
+			continue
+		}
+		log.Printf("Found %q - %q: %v", english, word, w)
+	}
 }
 
 func must(err error) {
