@@ -153,15 +153,12 @@ func (t *Table) Find(word string) ([]*Match, error) {
 	return results, nil
 }
 
-func reverseRunes(rs []rune) []rune {
-	result := make([]rune, len(rs))
-	for i, r := range rs {
-		result[len(rs)-i-1] = r
-	}
-	return result
-}
-
 func (t *Table) findMatchesWithDelta(wordRunes []rune, delta Key, resultCh chan<- *Match) {
+	dbgDelta := Key{0, 1}
+	if string(wordRunes) == "החושן" && delta == dbgDelta { // DEBUG
+		log.Printf("findMatchesWithDelta(%q, delta=%v)", string(wordRunes), delta)
+	}
+
 	var wg sync.WaitGroup
 	for pos := range t.lookup[wordRunes[0]] {
 		wg.Add(1)
@@ -174,6 +171,12 @@ func (t *Table) findMatchesWithDelta(wordRunes []rune, delta Key, resultCh chan<
 }
 
 func (t *Table) findWordWithPosAndDelta(wordRunes []rune, pos, delta Key, resultCh chan<- *Match) {
+	// dbgK, dbgDelta := Key{21, 7}, Key{0, 1}
+	// dbgK := Key{21, 7}
+	// if string(wordRunes) == "החושן" && pos == dbgK { // && delta == dbgDelta { // DEBUG
+	// 	log.Printf("findWordWithPosAndDelta(%q, pos=%v, delta=%v)", string(wordRunes), pos, delta)
+	// }
+
 	runeKeys := []Key{pos}
 	for i, r := range wordRunes {
 		if i == 0 {
@@ -242,9 +245,9 @@ func (t *Table) fewestDeltaPairs(wordRunes []rune) (map[Key]bool, error) {
 
 		product := len(keys) * len(lastLocations)
 		if product < lowestProduct {
-			// log.Printf("fewestDeltaPairs: %q rune %q : %v * %v = new lowestProduct: %v", wordRunes, r, len(keys), len(lastLocations), product)
 			locs1, locs2 = lastLocations, keys
 			lowestProduct = product
+			// log.Printf("fewestDeltaPairs: %q rune %q\n: %v * %v = new lowestProduct: %v\nlocs1 := %#v\nlocs2 := %#v", wordRunes, r, len(keys), len(lastLocations), lowestProduct, locs1, locs2)
 		}
 		lastLocations = keys
 	}
@@ -260,6 +263,14 @@ func pairDeltas(last, next keyPositionMapT) map[Key]bool {
 			delta := Key{k2[0] - k1[0], k2[1] - k1[1]}
 			result[delta] = true
 		}
+	}
+	return result
+}
+
+func reverseRunes(rs []rune) []rune {
+	result := make([]rune, len(rs))
+	for i, r := range rs {
+		result[len(rs)-i-1] = r
 	}
 	return result
 }
