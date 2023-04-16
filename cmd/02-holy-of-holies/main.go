@@ -1,7 +1,7 @@
 // -*- compile-command: "go run main.go"; -*-
 
 // 02-holy-of-holies attempts to reproduce the results of the second table
-// in the book on page 20. It uses Genesis 48:1-11 with a skip of 24.
+// in the book on page 20. It uses Genesis 47:31-48:11 with a skip of 24.
 //
 // There are a few minor differences, see comments below.
 package main
@@ -14,10 +14,10 @@ import (
 )
 
 func main() {
-	otRange, err := codes.NewOTRange("Genesis 48:1", "Genesis 48:11")
+	otRange, err := codes.NewOTRange("Genesis 47:31", "Genesis 48:11")
 	must(err)
 
-	table, err := otRange.GenTable(24, 14+24*4)
+	table, err := otRange.GenTable(24, 13)
 	must(err)
 
 	fmt.Printf("table:\n%v\n\n", table)
@@ -47,7 +47,43 @@ func must(err error) {
 }
 
 var words = map[string]string{
+	// https://context.reverso.net/translation/english-hebrew/Holy+of+Holies#%D7%A7%D7%93%D7%A9+%D7%94%D7%A7%D7%93%D7%A9%D7%99%D7%9D
+	"Holiness":           "קדש",
+	"The Holy of Holies": "הקדשים",
+
+	// "The Breastplate": "חשכ", // website could not find this word but is within the table
+
+	// https://context.reverso.net/translation/english-hebrew/commandment#%D7%9E%D7%A6%D7%95%D7%95%D7%94
+	// "Commandment": "מצווה",
+	// "Commandment": "םצווה", // website could not find this word but is within the table
+
+	// "Ephod": "אפוד", // https://context.reverso.net/translation/english-hebrew/ephod#%D7%90%D7%A4%D7%95%D7%93
+	// "Ephod": "אפד", // website could not find this word but is within the table
+
+	// https://context.reverso.net/translation/english-hebrew/Uzziah#%D7%A2%D7%96%D7%99%D7%94
+	"Uzziah": "עזיה",
+
+	// https://context.reverso.net/translation/english-hebrew/temple#%D7%94%D7%99%D7%9B%D7%9C
+	// "Temple, Sanctuary": "היכל",
+	// "Temple, Sanctuary": "היךל", // website could not find this word but is within the table
+
+	// https://context.reverso.net/translation/english-hebrew/bethlehem#%D7%91%D7%99%D7%AA+%D7%9C%D7%97%D7%9D
+	"Bethlehem": "בית לחם",
+
+	// https://context.reverso.net/translation/english-hebrew/covenant#%D7%91%D7%A8%D7%99%D7%AA
+	"Covenant": "ברית",
+
+	// https://context.reverso.net/translation/english-hebrew/utterance#%D7%90%D7%9E%D7%99%D7%A8%D7%94
+	"Utterance": "אמירה",
+
+	// https://context.reverso.net/translation/english-hebrew/priest#%D7%9B%D7%95%D7%9E%D7%A8
+	// "Priest": "כומר",
+	// "Priest": "כוהנ", // website could not find this word but is within the table
+
+	// Successful matches from 01-breastplate:
+
 	// https://context.reverso.net/translation/english-hebrew/breastplate
+	// "The Breastplate": "חשכ", // website could not find this word but is within the table
 	// not found: "The Breastplate (a)": "החושן",
 	// not found: "The Breastplate (b)": "שריון החזה",
 	// not found: "The Breastplate (c)": "חושן",
@@ -58,59 +94,18 @@ var words = map[string]string{
 	"Obtaining a judgement": "חשן",
 	// not found: "The Breastplate (h)": "שריון",
 
-	// "Mediator": "מתווך", // https://context.reverso.net/translation/english-hebrew/mediator#%D7%9E%D7%AA%D7%95%D7%95%D7%9A
-	// "Mediator": "מתווכ", // website could not find this word but is within the table
-
-	// "Hidden, Mysterious": "תעלומה", // https://context.reverso.net/translation/english-hebrew/mysterious#%D7%AA%D7%A2%D7%9C%D7%95%D7%9E%D7%94
-	// "Hidden, Mysterious": "עלומ", // website could not find this word but is within the table
-
 	// https://context.reverso.net/translation/english-hebrew/circumcision#%D7%9E%D7%99%D7%9C%D7%94
 	"Circumcision": "מילה",
 
 	// https://context.reverso.net/translation/hebrew-english/%D7%94%D7%96%D7%94%D7%91
 	"Gold": "הזהב",
 
-	// "Shalom, Peace": "שלום", // https://context.reverso.net/translation/english-hebrew/shalom#%D7%A9%D7%9C%D7%95%D7%9D
-	// "Shalom, Peace": "שלומ", // website could not find this word but is within the table
-
-	// https://context.reverso.net/translation/english-hebrew/tabernacle#%D7%9E%D7%A9%D7%9B%D7%9F
-	"Tabernacle": "משכן",
-
-	// https://context.reverso.net/translation/english-hebrew/prophet#%D7%A0%D7%91%D7%99%D7%90
-	// https://context.reverso.net/translation/hebrew-english/%D7%A0%D7%91%D7%90%D7%99
-	// not found: "Prophet": "נביא", // Could not find same word as book for "Prophet", but instead, found:
-	"Predict": "נבאי", // Which is the same Hebrew word that the book has for "Prophet", but has a different definition according to the website, which is also extremely cool.
-
-	// https://context.reverso.net/translation/english-hebrew/Holy+of+Holies#%D7%A7%D7%93%D7%A9+%D7%94%D7%A7%D7%93%D7%A9%D7%99%D7%9D
-	"Holy of Holies": "קדש הקדשים",
-
-	// https://context.reverso.net/translation/english-hebrew/Yahusha
-	"Yahusha": "יהושע",
-
 	// https://context.reverso.net/translation/english-hebrew/onyx#%D7%A9%D7%95%D7%94%D7%9D
 	"Onyx": "שוהם",
-
-	// https://context.reverso.net/translation/english-hebrew/ephod#%D7%90%D7%A4%D7%95%D7%93
-	"Ephod": "אפוד",
 
 	// https://context.reverso.net/translation/english-hebrew/stones#%D7%90%D7%91%D7%A0%D7%99
 	"Stones": "אבני",
 
-	// https://context.reverso.net/translation/english-hebrew/eleazar#%D7%90%D7%9C%D7%A2%D7%96%D7%A8
-	"Eleazar": "אלעזר",
-
-	// https://context.reverso.net/translation/english-hebrew/Aaron#%D7%90%D7%94%D7%A8%D7%9F
-	"Aaron": "אהרן",
-
 	// https://context.reverso.net/translation/hebrew-english/%D7%94%D7%A7%D7%93%D7%A9
 	"Consecration": "הקדש", // sanctuary, endowment, asylum, refuge, Holy
-
-	// https://context.reverso.net/translation/english-hebrew/authentic#%D7%90%D7%9E%D7%99%D7%AA%D7%99
-	"Authentic, True": "אמיתי",
-
-	// https://context.reverso.net/translation/english-hebrew/faith#%D7%90%D7%9E%D7%95%D7%A0%D7%94
-	"Faith": "אמונה",
-
-	// "Trumpet Call": "תרועת",	// https://context.reverso.net/translation/hebrew-english/%D7%AA%D7%A8%D7%95%D7%A2%D7%AA
-	"Fanfare": "תרועה", // https://context.reverso.net/translation/hebrew-english/%D7%AA%D7%A8%D7%95%D7%A2%D7%94
 }
