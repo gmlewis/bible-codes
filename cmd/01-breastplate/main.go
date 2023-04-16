@@ -22,10 +22,14 @@ func main() {
 	for english, word := range words {
 		w, err := table.Find(word)
 		if err != nil {
-			log.Printf("%q: %v", english, err)
+			log.Printf("ERROR: %q: %v", english, err)
 			continue
 		}
-		log.Printf("Found %q - %q: %v", english, word, w)
+		if len(w) == 0 {
+			log.Printf("WARNING: no matches found for %q - %q", english, word)
+			continue
+		}
+		log.Printf("Found %v matches for: %q - %q", len(w), english, word)
 	}
 }
 

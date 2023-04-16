@@ -148,7 +148,7 @@ func (t *Table) Find(word string) ([]*Match, error) {
 		results = append(results, result)
 	}
 
-	log.Printf("%q: got %v matches", word, len(results))
+	// log.Printf("%q: got %v matches", word, len(results))
 
 	return results, nil
 }
@@ -191,7 +191,7 @@ func (t *Table) findWordWithPosAndDelta(wordRunes []rune, pos, delta Key, result
 func (t *Table) findWordRunesInOriginalText(wordRunes []rune, resultCh chan<- *Match) {
 	var offset int
 	for offset < len(t.originalText) {
-		log.Printf("Searching for %q within %q at offset=%v", string(wordRunes), string(t.originalText[offset:]), offset)
+		// log.Printf("Searching for %q within %q at offset=%v", string(wordRunes), string(t.originalText[offset:]), offset)
 		pos := runeIndex(string(t.originalText[offset:]), string(wordRunes))
 		if pos < 0 {
 			return
@@ -201,7 +201,7 @@ func (t *Table) findWordRunesInOriginalText(wordRunes []rune, resultCh chan<- *M
 
 		resultCh <- &Match{RuneKeys: runeKeys} // Leave Match.Delta as Key[0,0] since a delta doesn't make sense.
 		offset += (pos + len(wordRunes))
-		log.Printf("found pos=%v, new offset=%v, len(%q)=%v, len(originalText)=%v", pos, offset, string(wordRunes), len(wordRunes), len(t.originalText))
+		// log.Printf("found pos=%v, new offset=%v, len(%q)=%v, len(originalText)=%v", pos, offset, string(wordRunes), len(wordRunes), len(t.originalText))
 	}
 }
 
