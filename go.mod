@@ -12,6 +12,7 @@ require (
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/go-fonts/latin-modern v0.3.0 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/tdewolff/canvas v0.0.0-20230414135858-a434f5e1a878 // indirect
 	github.com/tdewolff/minify/v2 v2.12.4 // indirect
 	github.com/tdewolff/parse/v2 v2.6.5 // indirect

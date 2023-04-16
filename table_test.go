@@ -2,10 +2,12 @@ package codes
 
 import (
 	"testing"
+
+	"github.com/google/go-cmp/cmp"
 )
 
 const (
-	holyOfHolies = "קודש הקודשים" // "Holy of Holies"
+	holyOfHolies = "קדש הקדשים" // "Holy of Holies"
 )
 
 func getTable(t *testing.T) *Table {
@@ -32,7 +34,17 @@ func TestFind(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	t.Errorf("table.Find = %v", got)
+	if want := 1; len(got) != want {
+		t.Fatalf("table.Find found %v matches, want %v", len(got), want)
+	}
+
+	want := []*Match{{RuneKeys: []Key{
+		{18, 21}, {19, 21}, {20, 21}, {21, 21},
+		{0, 22}, {1, 22}, {2, 22}, {3, 22}, {4, 22},
+	}}}
+	if diff := cmp.Diff(want, got); diff != "" {
+		t.Errorf("table.Find mismatch (-want +got):\n%v", diff)
+	}
 }
 
 func TestFewestDeltaPairs(t *testing.T) {
@@ -43,7 +55,7 @@ func TestFewestDeltaPairs(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	if got, want := len(deltas), 331; got != want {
+	if got, want := len(deltas), 271; got != want {
 		t.Errorf("fewestDeltaPairs(%q) = %v, want %v", holyOfHolies, got, want)
 	}
 }

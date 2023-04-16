@@ -23,10 +23,11 @@ type lookupT map[rune]keyPositionMapT
 
 // Table represents a table like is shown in the book.
 type Table struct {
-	cols   int
-	rows   int
-	grid   map[Key]rune
-	lookup lookupT
+	originalText []rune
+	cols         int
+	rows         int
+	grid         map[Key]rune
+	lookup       lookupT
 }
 
 // GenTable generates a table using the given range, skip, and offset.
@@ -53,6 +54,7 @@ func (o *OTRange) GenTable(skip, offset int) (*Table, error) {
 				t.lookup[r] = keyPositionMapT{}
 			}
 			t.lookup[r][k] = struct{}{}
+			t.originalText = append(t.originalText, r)
 
 			col++
 			if col >= skip {
@@ -61,6 +63,7 @@ func (o *OTRange) GenTable(skip, offset int) (*Table, error) {
 			}
 		}
 	}
+
 	log.Printf("GenTable(%v,%v): got %v words, %v runes, and %v grid runes", skip, offset, len(words), count, len(t.grid))
 
 	return t, nil
@@ -110,8 +113,6 @@ func (t *Table) Find(word string) ([]*Match, error) {
 		return nil, err
 	}
 
-	log.Printf("%q: got %v deltas", word, len(deltas))
-
 	var wg sync.WaitGroup
 	resultCh := make(chan *Match, 10)
 	for delta := range deltas {
@@ -121,6 +122,21 @@ func (t *Table) Find(word string) ([]*Match, error) {
 			t.findMatchesWithDelta(wordRunes, delta, resultCh)
 		}(delta)
 	}
+
+	// Also find all occurrences within original text.
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		t.findWordRunesInOriginalText(wordRunes, resultCh)
+	}()
+
+	// Also find all occurrences of reversed word within originalText.
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		reversedRunes := reverseRunes(wordRunes)
+		t.findWordRunesInOriginalText(reversedRunes, resultCh)
+	}()
 
 	go func() {
 		wg.Wait()
@@ -132,10 +148,79 @@ func (t *Table) Find(word string) ([]*Match, error) {
 		results = append(results, result)
 	}
 
+	log.Printf("%q: got %v matches", word, len(results))
+
 	return results, nil
 }
 
+func reverseRunes(rs []rune) []rune {
+	result := make([]rune, len(rs))
+	for i, r := range rs {
+		result[len(rs)-i-1] = r
+	}
+	return result
+}
+
 func (t *Table) findMatchesWithDelta(wordRunes []rune, delta Key, resultCh chan<- *Match) {
+	var wg sync.WaitGroup
+	for pos := range t.lookup[wordRunes[0]] {
+		wg.Add(1)
+		go func(pos Key) {
+			defer wg.Done()
+			t.findWordWithPosAndDelta(wordRunes, pos, delta, resultCh)
+		}(pos)
+	}
+	wg.Wait()
+}
+
+func (t *Table) findWordWithPosAndDelta(wordRunes []rune, pos, delta Key, resultCh chan<- *Match) {
+	runeKeys := []Key{pos}
+	for i, r := range wordRunes {
+		if i == 0 {
+			continue
+		}
+		pos[0], pos[1] = pos[0]+delta[0], pos[1]+delta[1]
+		if _, ok := t.lookup[r][pos]; !ok {
+			return
+		}
+		runeKeys = append(runeKeys, pos)
+	}
+	resultCh <- &Match{Delta: delta, RuneKeys: runeKeys}
+}
+
+func (t *Table) findWordRunesInOriginalText(wordRunes []rune, resultCh chan<- *Match) {
+	var offset int
+	for offset < len(t.originalText) {
+		log.Printf("Searching for %q within %q at offset=%v", string(wordRunes), string(t.originalText[offset:]), offset)
+		pos := runeIndex(string(t.originalText[offset:]), string(wordRunes))
+		if pos < 0 {
+			return
+		}
+
+		runeKeys := t.runeKeysFromOrigText(offset+pos, len(wordRunes))
+
+		resultCh <- &Match{RuneKeys: runeKeys} // Leave Match.Delta as Key[0,0] since a delta doesn't make sense.
+		offset += (pos + len(wordRunes))
+		log.Printf("found pos=%v, new offset=%v, len(%q)=%v, len(originalText)=%v", pos, offset, string(wordRunes), len(wordRunes), len(t.originalText))
+	}
+}
+
+func (t *Table) runeKeysFromOrigText(offset, n int) []Key {
+	result := make([]Key, n)
+	for i := 0; i < n; i++ {
+		pos := offset + i
+		result[i] = Key{pos % t.cols, pos / t.cols}
+	}
+	return result
+}
+
+func runeIndex(haystack, needle string) int {
+	pos := strings.Index(haystack, needle)
+	if pos < 0 {
+		return pos
+	}
+	skipStr := haystack[:pos]
+	return len([]rune(skipStr))
 }
 
 func (t *Table) fewestDeltaPairs(wordRunes []rune) (map[Key]bool, error) {

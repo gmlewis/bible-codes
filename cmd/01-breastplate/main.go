@@ -54,8 +54,8 @@ var words = map[string]string{
 	"Prophet": "נביא", // Could not find same word as book for "Prophet", but instead, found:
 	// https://context.reverso.net/translation/hebrew-english/%D7%A0%D7%91%D7%90%D7%99
 	"Predict": "נבאי", // Which is the same Hebrew word as the book, but different definition, also extremely cool.
-	// https://context.reverso.net/translation/english-hebrew/Holy+of+Holies#%D7%A7%D7%95%D7%93%D7%A9+%D7%94%D7%A7%D7%95%D7%93%D7%A9%D7%99%D7%9D
-	"Holy of Holies": "קודש הקודשים",
+	// https://context.reverso.net/translation/english-hebrew/Holy+of+Holies#%D7%A7%D7%93%D7%A9+%D7%94%D7%A7%D7%93%D7%A9%D7%99%D7%9D
+	"Holy of Holies": "קדש הקדשים",
 	// https://context.reverso.net/translation/english-hebrew/Yahusha
 	"Yahusha": "יהושע",
 	// https://context.reverso.net/translation/english-hebrew/onyx#%D7%A9%D7%95%D7%94%D7%9D
