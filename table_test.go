@@ -37,7 +37,8 @@ func TestFind(t *testing.T) {
 
 func TestFewestDeltaPairs(t *testing.T) {
 	table := getTable(t)
-	deltas, err := table.fewestDeltaPairs(holyOfHolies)
+	wordRunes := stripWhitespace(holyOfHolies)
+	deltas, err := table.fewestDeltaPairs(wordRunes)
 	if err != nil {
 		t.Fatal(err)
 	}
