@@ -1,7 +1,7 @@
 // -*- compile-command: "go run main.go"; -*-
 
-// 01-breastplate attempts to reproduce the results of the first table
-// in the book on page 18. It uses Numbers 4:11-20 with a skip of 22.
+// 02-holy-of-holies attempts to reproduce the results of the second table
+// in the book on page 20. It uses Genesis 48:1-11 with a skip of 24.
 //
 // There are a few minor differences, see comments below.
 package main
@@ -14,10 +14,10 @@ import (
 )
 
 func main() {
-	otRange, err := codes.NewOTRange("Numbers 4:11", "Numbers 4:20")
+	otRange, err := codes.NewOTRange("Genesis 48:1", "Genesis 48:11")
 	must(err)
 
-	table, err := otRange.GenTable(22, 48)
+	table, err := otRange.GenTable(24, 14+24*4)
 	must(err)
 
 	fmt.Printf("table:\n%v\n\n", table)
