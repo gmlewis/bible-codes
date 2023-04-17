@@ -9,8 +9,10 @@ package main
 import (
 	"fmt"
 	"log"
+	"sync"
 
 	codes "github.com/gmlewis/bible-codes"
+	"github.com/gmlewis/bible-codes/strongs"
 )
 
 func main() {
@@ -22,15 +24,18 @@ func main() {
 
 	fmt.Printf("table:\n%v\n\n", table)
 
-	for english, word := range words {
+	var wg sync.WaitGroup
+	f := func(word string, entry *strongs.Entry) {
+		defer wg.Done()
+		english := entry.English()
 		w, err := table.Find(word)
 		if err != nil {
-			log.Printf("ERROR: %q: %v", english, err)
-			continue
+			// log.Printf("ERROR: %q: %v", english, err)
+			return
 		}
 		if len(w) == 0 {
-			log.Printf("WARNING: no matches found for %q - %q", english, word)
-			continue
+			// log.Printf("WARNING: no matches found for %q - %q", english, word)
+			return
 		}
 		label := english
 		if len(w) > 1 {
@@ -38,6 +43,15 @@ func main() {
 		}
 		fmt.Printf("Found: %q - %q\n", label, word)
 	}
+
+	for word, entry := range strongs.Hebrew {
+		wg.Add(1)
+		go f(word, entry)
+	}
+
+	wg.Wait()
+
+	log.Printf("Done.")
 }
 
 func must(err error) {

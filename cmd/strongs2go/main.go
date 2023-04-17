@@ -77,7 +77,7 @@ func processEntry(htmlStr string, seen map[string]bool) {
 	var stripped []rune
 	for _, r := range word {
 		switch r {
-		case 'ָ', 'ַ', 'ֵ', 'ֲ', 'ּ', 'ֹ', 'ֶ', 'ִ', '־', 'ׁ', 'ֱ', 'ְ', 'ֳ': // Hebrew diacritics
+		case 'ָ', 'ַ', 'ֵ', 'ֲ', 'ּ', 'ֹ', 'ֶ', 'ִ', '־', 'ׁ', 'ֱ', 'ְ', 'ֳ', 'ׂ', 'ֻ': // Hebrew diacritics
 			continue
 		}
 		// log.Printf("r=%q", r)
