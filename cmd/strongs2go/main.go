@@ -20,6 +20,10 @@ import (
 	"strings"
 )
 
+const (
+	minLength = 5
+)
+
 func main() {
 	flag.Parse()
 
@@ -81,12 +85,14 @@ func processEntry(htmlStr string, seen map[string]bool) {
 			continue
 		}
 		// log.Printf("r=%q", r)
-		wordRuneLen++
+		if r != ' ' {
+			wordRuneLen++
+		}
 		stripped = append(stripped, r)
 	}
 	// log.Printf("%q length=%v", stripped, wordRuneLen)
 
-	if wordRuneLen < 3 {
+	if wordRuneLen < minLength {
 		fmt.Printf("\t// %q: // TOO SHORT // &Entry{Num: %v, Word: %q, Desc: %q},\n", string(stripped), strongNum, word, title)
 		return
 	}
