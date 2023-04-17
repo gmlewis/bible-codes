@@ -7,6 +7,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"log"
 	"sync"
@@ -15,7 +16,13 @@ import (
 	"github.com/gmlewis/bible-codes/strongs"
 )
 
+var (
+	minLength = flag.Int("minlength", 5, "Minimum length of word to consider from dictionary")
+)
+
 func main() {
+	flag.Parse()
+
 	otRange, err := codes.NewOTRange("Genesis 47:31", "Genesis 48:11")
 	must(err)
 
@@ -44,7 +51,8 @@ func main() {
 		fmt.Printf("Found: %q - %q\n", label, word)
 	}
 
-	for word, entry := range strongs.Hebrew {
+	log.Printf("Filtering dictionary to words with minimum length of %v ...", *minLength)
+	for word, entry := range strongs.FilterByLength(strongs.Hebrew, *minLength) {
 		wg.Add(1)
 		go f(word, entry)
 	}

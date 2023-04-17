@@ -20,10 +20,6 @@ import (
 	"strings"
 )
 
-const (
-	minLength = 5
-)
-
 func main() {
 	flag.Parse()
 
@@ -92,17 +88,17 @@ func processEntry(htmlStr string, seen map[string]bool) {
 	}
 	// log.Printf("%q length=%v", stripped, wordRuneLen)
 
-	if wordRuneLen < minLength {
-		fmt.Printf("\t// %q: // TOO SHORT // &Entry{Num: %v, Word: %q, Desc: %q},\n", string(stripped), strongNum, word, title)
-		return
-	}
+	// if wordRuneLen < minLength {
+	// 	fmt.Printf("\t// %q: // TOO SHORT // &Entry{Num: %v, Word: %q, Length: %v, Desc: %q},\n", string(stripped), strongNum, word, wordRuneLen, title)
+	// 	return
+	// }
 	if seen[string(stripped)] {
-		fmt.Printf("\t// %q: // DUP - SEE ABOVE // &Entry{Num: %v, Word: %q, Desc: %q},\n", string(stripped), strongNum, word, title)
+		fmt.Printf("\t// %q: // DUP - SEE ABOVE // &Entry{Num: %v, Word: %q, Length: %v, Desc: %q},\n", string(stripped), strongNum, word, wordRuneLen, title)
 		return
 	}
 	seen[string(stripped)] = true
 
-	fmt.Printf("\t%q: &Entry{Num: %v, Word: %q, Desc: %q},\n", string(stripped), strongNum, word, title)
+	fmt.Printf("\t%q: &Entry{Num: %v, Word: %q, Length: %v, Desc: %q},\n", string(stripped), strongNum, word, wordRuneLen, title)
 }
 
 func printHeader(htmlStr string) {
