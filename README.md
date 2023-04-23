@@ -33,6 +33,6 @@ In case that website becomes unavailable, and with permission from
 Renee Moses (the author), I wanted to make her PDF
 files available for all to read here in this repo:
 
-* [RAPTURE PUZZLE (May 28, 2023)](RAPTURE PUZZLE (May 28, 2023).pdf)
-* [Rapture Puzzle Summary](Rapture Puzzle Summary.pdf)
-* [This Is My Story](This Is My Story.pdf)
+* [RAPTURE PUZZLE (May 28, 2023)](RAPTURE%20PUZZLE%20(May%2028%2C%202023).pdf)
+* [Rapture Puzzle Summary](Rapture%20Puzzle%20Summary.pdf)
+* [This Is My Story](This%20Is%20My%20Story.pdf)
