@@ -3,8 +3,13 @@
 This is an attempt to first reproduce the findings made in this very interesting book:
 https://www.amazon.com/gp/product/B09M83QHD5
 
-The Bible text and data is provided by this amazing website:
+The Hebrew and Greek Bible text and data is provided by this amazing website:
 https://livinggreeknt.org/
+
+The English Bible text has been proven by https://www.youtube.com/@TruthisChrist
+(and others) to be the perfect Word of God in the English language only
+in the King James Bible translation (which is in the public domain). The text
+file `kjv.txt` was provided by this repo: https://www.o-bible.com/
 
 ## Processing
 
@@ -16,7 +21,7 @@ cut -f8 LGNT-OT-Data.txt | tail -n +2 > raw-ot.txt
 
 ## Summary
 
-Unfortunately, I was unable to duplicate the findings in the above book
+Unfortunately, I was unable to duplicate the findings in the book
 as you can also verify by running:
 
 ```bash
