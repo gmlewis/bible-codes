@@ -56,7 +56,7 @@ func printDiffs(v1words []string, v2 []*kjv.Verse) {
 			totalWordDiffs += wordDiffs
 		}
 	}
-	fmt.Printf("\nFound %v total word differences and %v total verse differences\n",
+	fmt.Printf("\nFound %v total word differences in %v verses.\n",
 		totalWordDiffs, totalVerseDiffs)
 }
 
@@ -70,16 +70,47 @@ func verseDiff(v1 []string, verse *kjv.Verse) ([]string, int) {
 	var wordDiffs int
 	v1words := make([]string, 0, len(verse.Words))
 	diffCarets := make([]string, 0, len(verse.Words))
-	for _, w := range verse.Words {
+	for i := 0; i < len(verse.Words); i++ {
+		w2 := verse.Words[i]
+		var nextWord1, nextWord2 string
+		if len(v1) > 1 {
+			nextWord1 = v1[1]
+		}
+		if i+1 < len(verse.Words) {
+			nextWord2 = verse.Words[i+1]
+		}
+
 		v1words = append(v1words, v1[0])
 		w1 := v1[0]
 		v1 = v1[1:]
-		if w1 != w {
-			wordDiffs++
-			diffCarets = append(diffCarets, strings.Repeat("^", len(w)))
+		if w1 == w2 {
+			diffCarets = append(diffCarets, strings.Repeat(" ", len(w2)))
 			continue
 		}
-		diffCarets = append(diffCarets, strings.Repeat(" ", len(w)))
+
+		if i+1 < len(verse.Words) && w1 == w2+nextWord2 { // Case 1 - Genesis 10:15 - 1 word == 2 words
+			wordDiffs++
+			i++ // advance past nextWord2
+			diffCarets = append(diffCarets, strings.Repeat("^", len(w2)+len(nextWord2)+1))
+			continue
+		}
+
+		if len(v1) > 1 && w1+nextWord1 == w2 { // Case 2 - Genesis 19:22 - 2 words == 1 word
+			wordDiffs++
+			v1 = v1[1:] // advance past nextWord1
+			diffCarets = append(diffCarets, strings.Repeat("^", len(w2)))
+			continue
+		}
+
+		if len(v1) > 1 && nextWord1 == w2 { // Case 3 - 1 John 2:23 - missing word
+			wordDiffs++
+			diffCarets = append(diffCarets, strings.Repeat("^", len(w1)))
+			v1 = v1[1:] // advance past nextWord1
+			continue
+		}
+
+		wordDiffs++
+		diffCarets = append(diffCarets, strings.Repeat("^", len(w2)))
 	}
 
 	if wordDiffs > 0 {
