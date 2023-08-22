@@ -16,7 +16,7 @@ import (
 
 var (
 	lookFor    = flag.String("lookfor", "rapture", "Word to look for")
-	searchBook = flag.String("search", "Revelation", "Which book to search")
+	searchBook = flag.String("search", "Revelation", "Which book to search ('all' for all books)")
 )
 
 func main() {
@@ -24,14 +24,33 @@ func main() {
 
 	verses, err := kjv.GetVerses()
 	must(err)
-
 	log.Printf("Got %v verses", len(verses))
-	verses = enum.Filter(verses, filterBook(*searchBook))
-	log.Printf("Got %v verses from the book of %q", len(verses), *searchBook)
+
+	if *searchBook == "all" {
+		processedBooks := map[string]bool{}
+		for _, verse := range verses {
+			book := verse.Book
+			if processedBooks[book] {
+				continue
+			}
+			processedBooks[book] = true
+			log.Printf("Searching book %q ...", book)
+			process(book, verses)
+		}
+	} else {
+		process(*searchBook, verses)
+	}
+
+	log.Printf("Done.")
+}
+
+func process(book string, verses []*kjv.Verse) {
+	verses = enum.Filter(verses, filterBook(book))
+	log.Printf("Got %v verses from the book of %q", len(verses), book)
 	words := enum.FlatMap(verses, verse2words)
-	log.Printf("Got %v words from the book of %q", len(words), *searchBook)
+	log.Printf("Got %v words from the book of %q", len(words), book)
 	runes := strings.ToLower(strings.Join(words, ""))
-	log.Printf("Got %v runes from the book of %q", len(runes), *searchBook)
+	log.Printf("Got %v runes from the book of %q", len(runes), book)
 
 	var wg sync.WaitGroup
 	for skip := 2; skip < len(runes)/len(*lookFor); skip++ {
@@ -43,7 +62,6 @@ func main() {
 	}
 
 	wg.Wait()
-	log.Printf("Done.")
 }
 
 func searchWithSkip(runes []rune, skip int) {
