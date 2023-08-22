@@ -39,7 +39,7 @@ func main() {
 				continue
 			}
 			processedBooks[book] = true
-			log.Printf("Searching book %q ...", book)
+			log.Printf("Searching book %q (%v of 66)...", book, len(processedBooks))
 			numRunes := process(book, verses)
 			if fewestRunes == 0 || numRunes < fewestRunes {
 				fewestRunes = numRunes

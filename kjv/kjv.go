@@ -128,7 +128,7 @@ var bookLookup = map[string]string{
 	"Luke":  "Luke",
 	"John":  "John",
 	"Acts":  "Acts",
-	"Rom":   "Romams",
+	"Rom":   "Romans",
 	"1Cor":  "1 Corinthians",
 	"2Cor":  "2 Corinthians",
 	"Gal":   "Galatians",
