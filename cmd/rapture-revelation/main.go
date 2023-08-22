@@ -1,7 +1,7 @@
 // -*- compile-command: "go run main.go"; -*-
 
-// rapture-revelation searches for the word "rapture" in the book
-// of Revelation using different skip codes and reports findings.
+// rapture-revelation searches for any series of letters in any book (or all books)
+// of the KJV using different skip codes and reports findings.
 package main
 
 import (
@@ -15,7 +15,11 @@ import (
 )
 
 var (
-	lookFor    = flag.String("lookfor", "rapture", "Word to look for")
+	startOffset = flag.Int("offset", 0, "Starting offset to use")
+	startSkip   = flag.Int("skip", 2, "Starting skip to use")
+
+	lookFor    = flag.String("lookfor", "firstfruitsrapture", "Sequence of letters to look for (lower case)")
+	removePunc = flag.Bool("removepunc", false, "Remove apostrophes and dashes")
 	searchBook = flag.String("search", "Revelation", "Which book to search ('all' for all books)")
 )
 
@@ -27,6 +31,7 @@ func main() {
 	log.Printf("Got %v verses", len(verses))
 
 	if *searchBook == "all" {
+		var fewestRunes int
 		processedBooks := map[string]bool{}
 		for _, verse := range verses {
 			book := verse.Book
@@ -35,8 +40,17 @@ func main() {
 			}
 			processedBooks[book] = true
 			log.Printf("Searching book %q ...", book)
-			process(book, verses)
+			numRunes := process(book, verses)
+			if fewestRunes == 0 || numRunes < fewestRunes {
+				fewestRunes = numRunes
+			}
 		}
+
+		words := enum.FlatMap(verses, verse2words)
+		log.Printf("Got %v words from all books", len(words))
+		runes := words2runes(words)
+		log.Printf("Got %v runes from all books", len(runes))
+		processRunes(runes, fewestRunes/len(*lookFor))
 	} else {
 		process(*searchBook, verses)
 	}
@@ -44,19 +58,44 @@ func main() {
 	log.Printf("Done.")
 }
 
-func process(book string, verses []*kjv.Verse) {
+func words2runes(words []string) []rune {
+	s := strings.Join(words, "")
+	if *removePunc {
+		s = strings.Replace(s, "'", "", -1)
+		s = strings.Replace(s, "-", "", -1)
+	}
+	s = strings.ToLower(s)
+	return []rune(s)
+}
+
+func process(book string, verses []*kjv.Verse) int {
 	verses = enum.Filter(verses, filterBook(book))
 	log.Printf("Got %v verses from the book of %q", len(verses), book)
 	words := enum.FlatMap(verses, verse2words)
 	log.Printf("Got %v words from the book of %q", len(words), book)
-	runes := strings.ToLower(strings.Join(words, ""))
+	runes := words2runes(words)
 	log.Printf("Got %v runes from the book of %q", len(runes), book)
 
+	processRunes([]rune(runes), *startSkip)
+
+	return len(runes)
+}
+
+func processRunes(runes []rune, startSkip int) {
+	reversed := make([]rune, len(runes))
+	for i, r := range runes {
+		reversed[len(runes)-i-1] = r
+	}
+
 	var wg sync.WaitGroup
-	for skip := 2; skip < len(runes)/len(*lookFor); skip++ {
-		wg.Add(1)
+	for skip := startSkip; skip < len(runes)/len(*lookFor); skip++ {
+		wg.Add(2)
 		go func(skip int) {
-			searchWithSkip([]rune(runes), skip)
+			searchWithSkip(runes, skip, false)
+			wg.Done()
+		}(skip)
+		go func(skip int) {
+			searchWithSkip(reversed, skip, true)
 			wg.Done()
 		}(skip)
 	}
@@ -64,12 +103,12 @@ func process(book string, verses []*kjv.Verse) {
 	wg.Wait()
 }
 
-func searchWithSkip(runes []rune, skip int) {
+func searchWithSkip(runes []rune, skip int, reversed bool) {
 	var wg sync.WaitGroup
-	for offset := 0; offset < skip; offset++ {
+	for offset := *startOffset; offset < skip; offset++ {
 		wg.Add(1)
 		go func(offset int) {
-			searchWithOffsetAndSkip(runes, offset, skip)
+			searchWithOffsetAndSkip(runes, offset, skip, reversed)
 			wg.Done()
 		}(offset)
 	}
@@ -77,7 +116,7 @@ func searchWithSkip(runes []rune, skip int) {
 	wg.Wait()
 }
 
-func searchWithOffsetAndSkip(runes []rune, offset, skip int) {
+func searchWithOffsetAndSkip(runes []rune, offset, skip int, reversed bool) {
 	puz := make([]rune, 0, 1+len(runes)/skip)
 	for i := offset; i < len(runes); i += skip {
 		puz = append(puz, runes[i])
@@ -86,12 +125,14 @@ func searchWithOffsetAndSkip(runes []rune, offset, skip int) {
 	if count == 0 {
 		return
 	}
-	log.Printf("offset=%v, skip=%v, count=%v:\n%v", offset, skip, count, string(puz))
+	var isReversed string
+	if reversed {
+		isReversed = " (reversed)"
+	}
+	log.Printf("offset=%v, skip=%v, count=%v%v:\n%v", offset, skip, count, isReversed, string(puz))
 }
 
-func verse2words(verse *kjv.Verse) []string {
-	return verse.Words
-}
+func verse2words(verse *kjv.Verse) []string { return verse.Words }
 
 func filterBook(book string) enum.FilterFunc[*kjv.Verse] {
 	return func(verse *kjv.Verse) bool { return verse.Book == book }
