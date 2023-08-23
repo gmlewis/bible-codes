@@ -19,6 +19,7 @@ var (
 	startSkip   = flag.Int("skip", 2, "Starting skip to use")
 
 	lookFor    = flag.String("lookfor", "firstfruitsrapture", "Sequence of letters to look for (lower case)")
+	maxWorkers = flag.Int("maxworkers", 1000, "Max number of concurrent goroutine workes to use")
 	removePunc = flag.Bool("removepunc", false, "Remove apostrophes and dashes")
 	searchBook = flag.String("search", "Revelation", "Which book to search ('all' for all books)")
 )
@@ -87,33 +88,26 @@ func processRunes(runes []rune, startSkip int) {
 		reversed[len(runes)-i-1] = r
 	}
 
+	ch := make(chan struct{}, *maxWorkers)
 	var wg sync.WaitGroup
 	for skip := startSkip; skip < len(runes)/len(*lookFor); skip++ {
-		wg.Add(2)
-		go func(skip int) {
-			searchWithSkip(runes, skip, false)
-			wg.Done()
-		}(skip)
-		go func(skip int) {
-			searchWithSkip(reversed, skip, true)
-			wg.Done()
-		}(skip)
+		searchWithSkip(runes, skip, false, wg, ch)
+		searchWithSkip(reversed, skip, true, wg, ch)
 	}
 
 	wg.Wait()
 }
 
-func searchWithSkip(runes []rune, skip int, reversed bool) {
-	var wg sync.WaitGroup
+func searchWithSkip(runes []rune, skip int, reversed bool, wg sync.WaitGroup, ch chan struct{}) {
 	for offset := *startOffset; offset < skip; offset++ {
 		wg.Add(1)
+		ch <- struct{}{}
 		go func(offset int) {
 			searchWithOffsetAndSkip(runes, offset, skip, reversed)
+			<-ch
 			wg.Done()
 		}(offset)
 	}
-
-	wg.Wait()
 }
 
 func searchWithOffsetAndSkip(runes []rune, offset, skip int, reversed bool) {
