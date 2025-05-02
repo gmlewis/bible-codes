@@ -1,6 +1,6 @@
 # bible-codes
 
-This is an attempt to first reproduce the findings made in this very interesting book:
+This is a failed attempt to first reproduce the findings made in this very interesting book:
 https://www.amazon.com/gp/product/B09M83QHD5
 
 The Hebrew and Greek Bible text and data is provided by this amazing website:
@@ -32,12 +32,9 @@ $ go run cmd/02-holy-of-holies/main.go
 ```
 
 However, during the course of my investigations, I came across another
-website that strongly resonated with me: https://www.rapturepuzzle.com/
+website that strongly resonated with me: https://www.eyesupandopen.org/
 
-In case that website becomes unavailable, and with permission from
-Renee Moses (the author), I wanted to make her PDF
-files available for all to read here in this repo:
+In case that website becomes unavailable,
+I wanted to make his PDF file available for all to read here in this repo:
 
-* [RAPTURE PUZZLE (May 28, 2023)](RAPTURE%20PUZZLE%20(May%2028%2C%202023).pdf)
-* [Rapture Puzzle Summary](Rapture%20Puzzle%20Summary.pdf)
-* [This Is My Story](This%20Is%20My%20Story.pdf)
+* [The LITTLE BOOK of Revelation Chapter 10](TheLittleBook.pdf)
