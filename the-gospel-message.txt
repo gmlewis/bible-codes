@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+exec go run "$(dirname "$(realpath "$0")")/cmd/verses/main.go" "$(realpath "$0")"
+Rom5:8
+John14:6
+Acts4:12
+Acts2:21
+Rom10:9-10
+Eph2:8
