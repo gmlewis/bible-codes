@@ -1,4 +1,5 @@
 ‫.חישמה עושי ,יתימאה חישמה לש ויבא אוהש ,רתויב הובגה לאה הוהי תא םיללהמ םלוכ‬
+
 ALL PRAISE TO YAHWEH THE MOST HIGH GOD, WHO IS THE FATHER OF THE TRUE MESSIAH, YESHUA HAMASHIACH.
 THE
 Everlasting Gospel
@@ -9,7 +10,8 @@ Received By William Alexander Brooks The Voice of One Crying in the Wilderness
 Addendum
 from JANUARY 22, 2025 – MARCH 20, 2025
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -36,7 +38,8 @@ TO THE 144,000: HEAR MY CALL! ..................................................
 
 2
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -68,7 +71,8 @@ JUDGMENT ON MYSTERY BABYLON (USA) WATCHMAN, AWAKE! .............................
 HAVE I NOT JUSTIFIED YOU? .............................................................. 159
 3
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -100,7 +104,8 @@ BEHOLD! THE RESTITUTION OF ALL THINGS IS NEAR! .................................
 THE RISING OF THE UNHOLY THREE! ........................................................ 219
 4
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -133,7 +138,8 @@ THE GATHERING OF THE FAITHFUL IN CHRIST! .......................................
 O’ ISRAEL! WHICH LAMB WILL YOU CHOOSE? ................................................. 361
 5
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -164,7 +170,8 @@ A FINAL CALL BEFORE FINALITY FALLS ON THE JUDGED ...............................
 
 6
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -178,7 +185,8 @@ May you all be blessed and may Yahweh’s grace and mercy rest on you all in ete
 
 7
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -194,7 +202,8 @@ But now I shall reveal as much as you are ready to receive. For the little book 
 
 8
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -210,7 +219,8 @@ My people, hear my words! Are not the acids in the stomach a type of my workings
 
 9
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -222,7 +232,8 @@ Prophetic Message Given By J. Leland Earls 1923-1991, sometime during the height
 
 10
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -236,7 +247,8 @@ Please note that in all of these prophetic messages, I have never changed anythi
 
 11
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -254,7 +266,8 @@ You Satans showed the children of men all the wicked smitings of spirits and dem
 
 12
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -269,7 +282,8 @@ By sleight of hand and great destruction, you have cleverly hidden away your tec
 
 13
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -286,7 +300,8 @@ But you, oh slithering one, are powerless in my gaze, and you can do nothing to 
 
 14
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -298,7 +313,8 @@ I, Yahweh, the great eternal God, have sent these words by my servant, and by my
 
 15
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -319,7 +335,8 @@ Sometime toward the end of 2023, I had something spectacular happen. Many times 
 
 16
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -340,7 +357,8 @@ The calling and ministries on my life have been fulfilled. Other men labored, an
 
 17
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -353,7 +371,8 @@ Personally, I am not worthy to compare myself to any of these great men of God a
 
 18
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -371,7 +390,8 @@ That great city, even that nation of many United States, will be utterly destroy
 
 19
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -386,7 +406,8 @@ They will rise offering peace, safety, and false godliness. They will outlaw any
 
 20
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -402,7 +423,8 @@ For the beast from the earth will they crown king of the lands of promise, and h
 
 21
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -417,7 +439,8 @@ And the beast and false prophet will both be taken alive and cast into the lake 
 
 22
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -437,7 +460,8 @@ I am he whom Yahweh has sent for salvation of all who believe, and my time has 
 
 23
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -455,7 +479,8 @@ In the Garden of Eden, Satan managed to corrupt the seed of Adam, condemning Ada
 
 24
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -472,7 +497,8 @@ And so Enoch the scribe describes the fate of these giants as such, for Yahweh s
 
 25
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -487,7 +513,8 @@ And so the tribes of post-flood giants, even the abominable Canaanite tribes, ar
 
 26
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -502,7 +529,8 @@ Some of those who were scattered were orphans and taken from their families eith
 
 27
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -526,7 +554,8 @@ Behold! I tell you these things not to give you an exhaustive history lesson but
 
 28
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -545,7 +574,8 @@ The witness of the Hebrews stands in mediation between us: For if the blood of b
 
 29
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -562,7 +592,8 @@ Understand that there is nothing lacking in my sacrifice, and you are secure in 
 
 30
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -577,7 +608,8 @@ And you will follow me wherever I go, and you are the first fruits bought from m
 
 31
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -587,7 +619,8 @@ dwell in New Jerusalem, even that holy city created by Yahweh himself. And Yahwe
 
 32
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -605,7 +638,8 @@ I am still calling natural man to righteousness, but natural man instead prefers
 
 33
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -624,7 +658,8 @@ For Scripture states that he that believes on me, Yeshua HaMashiach, shall not o
 
 34
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -640,7 +675,8 @@ Yet, most of the world will believe the lies and will wonder after the beast, sa
 
 35
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -657,7 +693,8 @@ Have great hope for my coming; for I will come and will break forth from the ski
 
 36
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -678,7 +715,8 @@ Behold the day of the Lord is about to break across the earth in calamity and ju
 
 37
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -696,7 +734,8 @@ For the servant is not greater than his master, and I am calling you to works wh
 
 38
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -713,7 +752,8 @@ So as you go to command the impossible, know that you will command much by the s
 
 39
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -730,7 +770,8 @@ I will teach you all things, and you will know how to do the works I am sending 
 
 40
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -751,7 +792,8 @@ I am the lamb of God, even the perfect Passover.
 
 41
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -770,7 +812,8 @@ And so they will leave the earth, and so the world will see, and many will wonde
 
 42
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -788,7 +831,8 @@ And so my Bride will appear at my judgment seat, and some will suffer loss, some
 
 43
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -806,7 +850,8 @@ But the false prophet, even the beast from the earth, will cause all, both small
 
 44
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -821,7 +866,8 @@ And so at the end of the first 42 months the abomination of desolation will take
 
 45
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -841,7 +887,8 @@ I am calling you; only ignore not my call!
 
 46
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -860,7 +907,8 @@ Understand, my tribes and my people, that the times of the Gentiles are at a clo
 
 47
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -875,7 +923,8 @@ And so I am come to provoke jealousy in your hearts for me, Yeshua HaMashiach, a
 
 48
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -893,7 +942,8 @@ And so now comes the time to graft the natural branches back into the olive tree
 
 49
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -909,7 +959,8 @@ Do not let yourselves be tempted by their false manna that will require the mark
 
 50
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -931,7 +982,8 @@ I, even I, Yeshua HaMashiach, have sent these words for those whom I am calling.
 
 51
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -950,7 +1002,8 @@ Behold, a thing I will tell you before it happens, for prophecies are about to b
 
 52
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -965,7 +1018,8 @@ When I shared this with my wife a day or two later, we were on our front porch. 
 
 53
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -977,7 +1031,8 @@ The rainbow is the sign given at the Noahic covenant that Yahweh made with Noah 
 
 54
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -996,7 +1051,8 @@ Fear not, my Bride, for God does not judge as man judges, for man is unjust and 
 
 55
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1018,7 +1074,8 @@ I, Yeshua HaMashiach, have sent these Words.
 
 56
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1026,7 +1083,8 @@ The BITTER SWEET
 
 57
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1044,7 +1102,8 @@ For I have given men wives that they may be lacking nothing, wives for companion
 
 58
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1061,7 +1120,8 @@ For when you could have had peace for all eternity, even an eternal life of full
 
 59
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1081,7 +1141,8 @@ I, Yahweh, the great eternal God, have sent the words I have sent, and I have se
 
 60
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1098,7 +1159,8 @@ For I am your intercessor, and you were purchased by my sacrifice as the perfect
 
 61
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1114,7 +1176,8 @@ For those who have run the race, even the courses of service I set for them, wil
 
 62
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1131,7 +1194,8 @@ I am coming for you, sooner than you imagine.
 
 63
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1141,7 +1205,8 @@ I am your intercessor. I am and so too shall you be, for you will see me as I am
 
 64
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1158,7 +1223,8 @@ I speak to their current state and present rule, for they have not yet been full
 
 65
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1174,7 +1240,8 @@ I have spoken to you in many ways, and in my many works have I sent my prophets 
 
 66
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1191,7 +1258,8 @@ At the time of their revealing they will throw off their disguises of lowly civi
 
 67
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1211,7 +1279,8 @@ I am come to speak of the words that John the Revelator was given.
 
 68
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1221,7 +1290,8 @@ I am that I am, for the great I AM has sent me. Behold, I, even Christ Jesus hav
 
 69
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1237,7 +1307,8 @@ For the prince of this world is judged, and his judgment will be fulfilled and c
 
 70
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1252,7 +1323,8 @@ To reject my sacrifice is to reject eternal life and to reject God fully. Theref
 
 71
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1268,7 +1340,8 @@ To the murderer, I say: Immediately stop your murderous violence of those who ar
 
 72
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1283,7 +1356,8 @@ There is so little time remaining, and Jacob’s trouble is about to break forth
 
 73
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1300,7 +1374,8 @@ I am Lord of Lords and King of Kings.
 
 74
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1310,7 +1385,8 @@ I am the Lamb of God who takes away the sins of the world. I am here to save you
 
 75
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1325,7 +1401,8 @@ For even the great and eternal God, even our Father, even Yahweh himself (who is
 
 76
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1338,7 +1415,8 @@ For the old man of red earth is perishing, and both Judean and Gentile alike wil
 
 77
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1352,7 +1430,8 @@ In every spirit in every man is this potential to manifest power from on high! B
 
 78
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1374,7 +1453,8 @@ I am he who sends you in this last time.
 
 79
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1391,7 +1471,8 @@ Behold! I send some of you in the ministry of Paul as stewards of my mysteries a
 
 80
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1406,7 +1487,8 @@ I am calling you, my Bride, and I am calling you into ministries you never dream
 
 81
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1421,7 +1503,8 @@ My faithful Bride, I love you, and you are my joy and rejoicing. I smile over yo
 
 82
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1431,7 +1514,8 @@ I am coming to you in great power. I am sending you in great power. I am calling
 
 83
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1448,7 +1532,8 @@ Oh, that you had read my words with understanding! Oh, that you would remember m
 
 84
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1462,7 +1547,8 @@ Do you not understand that those controlled by antichrist spirits present anothe
 
 85
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1478,7 +1564,8 @@ Have you not read these words? Are you arrogant enough to think that either Yahw
 
 86
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1493,7 +1580,8 @@ Who authorized you to change my words, even the Word of the Lord that I have giv
 
 87
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1512,7 +1600,8 @@ I am he that walks among the seven lampstands and the seven angels.
 
 88
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1525,7 +1614,8 @@ I, the Lord Jesus Christ, have sent these words and have become the voice of one
 
 89
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1541,7 +1631,8 @@ Woe to you, apostate shepherds, I will repay you to the uttermost for all of you
 
 90
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1555,7 +1646,8 @@ You desire to be entertained, for entertainment is your desire, and entertainmen
 
 91
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1570,7 +1662,8 @@ To my faithful Bride, who have listened to my voice and followed my ways: To you
 
 92
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1595,7 +1688,8 @@ I am Yeshua HaMashiach.
 
 93
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1611,7 +1705,8 @@ Rejoice in your future, my children, for I have given you a future and a holy pu
 
 94
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1626,7 +1721,8 @@ First, understand that I have called you; I have saved you in my spirit of power
 
 95
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1639,7 +1735,8 @@ Understand that I will snatch you away into the heavens, for I have prepared a p
 
 96
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1656,7 +1753,8 @@ I am coming to catch away my Bride!
 
 97
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1668,7 +1766,8 @@ into the heavens. I am he who will rule in righteousness on the earth, and my Br
 
 98
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1683,7 +1782,8 @@ I know the counterfeit is convincing to some of you, for some of you do not trul
 
 99
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1696,7 +1796,8 @@ These evil sons of Satan stealthily mingled witchcraft into my doctrines and ach
 
 100
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1711,7 +1812,8 @@ For many of you think you will be gathered to me when you live these lies and wh
 
 101
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1731,7 +1833,8 @@ I am he who is coming for my Bride, for my appearing is at hand. Ready yourselve
 
 102
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1747,7 +1850,8 @@ But understand that you are no marvel and there are no surprises in you, for you
 You will continue your works filling up your sins to the fullest and filling eternity to the fullest with your own punishment and torment, for my anger is fierce against you, and you will join your fathers in the fire. For you are the tares amongst the wheat, and I will root you out to the uttermost; for my Father, even Yahweh, has declared that you will never have root nor inheritance, for your seed is of the evil one, and you are all murderers and liars. For what did I tell your fathers in Judea these many Jubilees past? You are of your father the devil, and the lusts of your father ye will do: he was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaks a lie, he speaks of his own: for he is a liar, and the father of it.
 103
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1762,7 +1866,8 @@ You have followed the Satans who tried to destroy Yahweh’s creation, even to t
 
 104
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1776,7 +1881,8 @@ My Bride, you are heirs of salvation in me, Jesus Christ. You have been called i
 
 105
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1797,7 +1903,8 @@ I am coming!
 
 106
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1813,7 +1920,8 @@ My little children, you are the children of the living God, even Yahweh, for in 
 So who shall separate you from the love of God? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? Nay, you are more than conquerors in me, Christ Jesus, and my love is being brought to full consummation in you, my Bride, for the times are at hand and soon you will know. My Father’s love is unconquerable, for he is unconquerable, for God is love, and love is Yahweh’s very nature for God is love. One of Satan’s many deceptions he employs to lead you astray is to portray love as weak, noncommitted, self-serving and futile: For these are the ways of natural man.
 107
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1827,7 +1935,8 @@ I need you to get really quiet in your mind and heart and let my voice calm your
 
 108
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1842,7 +1951,8 @@ My children, I have judged you righteous in me, and Yahweh has acquitted you of 
 
 109
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1864,7 +1974,8 @@ Stand at the ready, my Bride, for the times of restoration are at hand, and my a
 
 110
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1880,7 +1991,8 @@ I didn’t call you to fall into mischief, my children, not even you, my Laodice
 
 111
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1894,7 +2006,8 @@ And so Romans declares: But now the righteousness of God without the Law is mani
 
 112
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1908,7 +2021,8 @@ I am he who has fulfilled the Mosaic law, and its precepts are kept in obedience
 
 113
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1922,7 +2036,8 @@ My children, I do not condemn the law; I only point out the obvious that because
 
 114
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1944,7 +2059,8 @@ My name has been translated in all languages, and in all languages has my name b
 
 115
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1961,7 +2077,8 @@ Understand: they have deceived you with their lies, and they placed these lies t
 
 116
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1976,7 +2093,8 @@ Understand: I explain all of this in the letters I sent to my churches in times 
 
 117
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -1990,7 +2108,8 @@ Please hear the words of Christ Jesus, my children, for I will teach the willing
 
 118
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2006,7 +2125,8 @@ So I ask you, what does the letter to the Ephesians have to say? For behold, the
 
 119
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2022,7 +2142,8 @@ There is the mystery in Romans, considering Israel’s blindness in part. There 
 
 120
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2043,7 +2164,8 @@ I am coming for you so very soon, and I long to see you all where we will be fa
 
 121
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2059,7 +2181,8 @@ Know, my little ones, that the words in my Word of God are true, accurate, and r
 
 122
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2073,7 +2196,8 @@ The sons of God are the watchers in this context, angels who were charged to hel
 
 123
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2089,7 +2213,8 @@ Canaan found what the watchers left behind, and he used their fallen-angel knowl
 
 124
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2104,7 +2229,8 @@ Ever since Genesis 3:15 there has been a seed war between God and Satan and Sata
 
 125
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2120,7 +2246,8 @@ Stand for me and speak for me, for time is almost up. Will you be one of the one
 
 126
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2138,7 +2265,8 @@ I am the firstfruits from among the dead.
 
 127
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2153,7 +2281,8 @@ Behold! It is the glory of God to conceal a thing: but the honor of Kings is to 
 
 128
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2167,7 +2296,8 @@ I will tell you: A mystery is a thing kept secret but prophesied of that is reve
 
 129
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2183,7 +2313,8 @@ Yet, there will be one more resurrection. And I saw a great white throne, and hi
 
 130
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2205,7 +2336,8 @@ I am he that is the Alpha and Omega, for I am the beginning and the end, and be
 
 131
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2215,7 +2347,8 @@ you think, so be ready to meet me or fall away. Whosoever calls on the name of t
 
 132
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2234,7 +2367,8 @@ Come out of her, my people, as I have NOT provided a political solution, and I h
 
 133
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2250,7 +2384,8 @@ Come to me in repentance, and sit in sackcloth and ashes, that I may know the si
 
 134
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2266,7 +2401,8 @@ You think that perverting my ways and removing my boundaries is a light thing, b
 
 135
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2283,7 +2419,8 @@ Therefore, I will inflict their evil hearts’ desires and all their evil works 
 
 136
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2294,7 +2431,8 @@ For Reference: Isaiah 13:1 from the Septuagint: I give command, and I bring them
 
 137
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2311,7 +2449,8 @@ You have been led astray by good words and fair speeches and have fallen for a v
 
 138
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2326,7 +2465,8 @@ But you, oh, modern Christian, you lukewarm children of mine, you think you know
 
 139
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2341,7 +2481,8 @@ Satan wants a world without you, my children, but so many of you foolishly give 
 
 140
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2355,7 +2496,8 @@ I will cast the beast and false prophet alive in the lake burning with fire and 
 
 141
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2376,7 +2518,8 @@ I am Yeshua HaMashiach. also known as Jesus Christ. and ιησου χριστο
 
 142
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2388,7 +2531,8 @@ Very soon you will see me face to face, my Bride, and you will know as you are k
 
 143
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2405,7 +2549,8 @@ Why do you disallow sections of Scripture, counting them unholy because of your 
 
 144
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2422,7 +2567,8 @@ Why do you allow false brethren and Judaizers into your midst to spy out the lib
 
 145
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2438,7 +2584,8 @@ Have I not plainly stated: Behold! I show you a mystery, we shall not all sleep,
 
 146
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2453,7 +2600,8 @@ Know that I love you dearly and desire your full heart over your works. Come to 
 
 147
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2463,7 +2611,8 @@ I am able to save Jacob and I will do just that as a remnant shall be saved. I 
 
 148
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2481,7 +2630,8 @@ Know that the evil spirits brag over my children they are able to capture. Why d
 
 149
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2497,7 +2647,8 @@ But you are his children, so give ear to my words and endure chastisement, and h
 
 150
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2517,7 +2668,8 @@ Come to me, for I am he that walks among the seven lampstands and he that will p
 
 151
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2534,7 +2686,8 @@ Behold, my children! The world will know that I love you and that you are mine, 
 
 152
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2548,7 +2701,8 @@ Seek my lost sheep; call them, for there are many yet to save in these final sec
 
 153
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2559,7 +2713,8 @@ brethren at one time, and seen and handled by many, for a spirit has not flesh a
 
 154
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2579,7 +2734,8 @@ Oh, you worthless, toothless dragon; you ancient serpent: your time has come and
 
 155
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2595,7 +2751,8 @@ For you have denied your neighbor, and there is no fear of the Lord in your hear
 
 156
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2610,7 +2767,8 @@ There is no truth in him, and Satan himself will control his reins. There will b
 
 157
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2625,7 +2783,8 @@ life and to drink of the rivers of living waters, and you will never hunger or t
 
 158
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2642,7 +2801,8 @@ Take not your place among the faithless, as I have given you abounding reasons f
 
 159
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2657,7 +2817,8 @@ There is no pleasure in the coming destruction that will soon overtake your worl
 
 160
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2672,7 +2833,8 @@ Yea, I tell you these things before they happen, not that you would stand there 
 
 161
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2682,7 +2844,8 @@ I am the Son of David and I will rule the earth from his throne. I am the root
 
 162
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2700,7 +2863,8 @@ Oh, you wicked ones who sit and gloat, thinking you have great victory. I will d
 
 163
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2715,7 +2879,8 @@ I have no pleasure in your judgment, and my Father desires you to live before hi
 
 164
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2725,7 +2890,8 @@ The Spirit and the Bride says, come! I am calling you at this last minute. I am
 
 165
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2742,7 +2908,8 @@ Yea, many evil men have joined Satan for greedy gain, and they have their portio
 
 166
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2764,7 +2931,8 @@ I am the eternal high priest forever after the order of Melchizedek.
 
 167
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2782,7 +2950,8 @@ The wrath of the Lamb is about to be delivered upon you, and the birth pangs are
 
 168
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2797,7 +2966,8 @@ Focus on me, commune with me; I am nearer than your next breath. Know, my chosen
 
 169
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2807,7 +2977,8 @@ I am your living Lord and savior, Jesus Christ. I am the righteous judge who w
 
 170
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2824,7 +2995,8 @@ Yet, the coming evil one, with his lying signs and wonders, will betray you, and
 
 171
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2838,7 +3010,8 @@ As events unfold in front of your eyes, know that these same events will acceler
 
 172
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2855,7 +3028,8 @@ As you have ministered to others in my name, have I not ministered to you? Give 
 
 173
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2871,7 +3045,8 @@ Therefore, you will seek a place at their table, only to discover there is no pl
 
 174
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2892,7 +3067,8 @@ Those who have accepted my grace and have been faithful will rule with me in my 
 
 175
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2909,7 +3085,8 @@ You have mistakenly assumed my long-suffering and patience for weakness and negl
 
 176
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2926,7 +3103,8 @@ I am the lamb who was slain from the foundation of the world, and in me is life
 
 177
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2947,7 +3125,8 @@ I am the true shepherd who shepherds that flock my Father has given me.
 
 178
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2967,7 +3146,8 @@ And with my judgment is great reward, and many works will survive that are gold,
 
 179
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2982,7 +3162,8 @@ My little children, it is the last hour of the last time in this age of grace. I
 
 180
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -2993,7 +3174,8 @@ all things in heaven and earth into my mighty hands.
 
 181
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3020,7 +3202,8 @@ I am the son of God come in the flesh.
 
 182
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3040,7 +3223,8 @@ Hear my rebuke and accept my chastisement because your Father deals with you as 
 
 183
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3052,7 +3236,8 @@ I will utterly destroy their seats of power, I will utterly decimate all their p
 
 184
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3070,7 +3255,8 @@ Take up a lamentation for the people of your once great nation who reject my voi
 
 185
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3084,7 +3270,8 @@ Fear not, my people and my faithful ones. I will snatch you from the midst in th
 
 186
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3099,7 +3286,8 @@ Declare me Lord! Fear not, my little children, as it is the last times and a gre
 
 187
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3120,7 +3308,8 @@ I was crucified for your sins and truly, no man took my life, but I willingly la
 
 188
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3133,7 +3322,8 @@ Be patient and continue to labor for me. For soon you will be home with me, and 
 
 189
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3151,7 +3341,8 @@ For I am he, the Son of Man who was crucified under Pontius Pilate, who died for
 
 190
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3164,7 +3355,8 @@ All that the Father has given to me, I shall present to him, and I desire to pre
 
 191
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3180,7 +3372,8 @@ Verily, judgment is upon your nation, and though I would set you apart for a peo
 
 192
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3194,7 +3387,8 @@ I am the righteous Shepherd who has lost none given. I am all of these and much
 
 193
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3213,7 +3407,8 @@ My people, be ye not partakers of her sins, plagues, judgment, and calamity. I w
 Repent! Confess your sins to me, Christ Jesus! Have you not read that the unrighteous shall not inherit the Kingdom of God? Do you desire your reward to be stripped and given to another? Think not that you will enter into my presence in a state of willful disobedience; has not my Father declared, “I am holy, so be ye holy?” Run to me and submit yourselves to my salvation, for I am Lord of Lords and King of Kings, and the days of pleading with a stiff-necked generation are coming to a close.
 194
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3230,7 +3425,8 @@ I have showed you great mercy, great long-suffering, great abounding grace, yet 
 
 195
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3247,7 +3443,8 @@ I am the eternal Lord, and there is salvation in none other but me!
 
 196
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3265,7 +3462,8 @@ Repent, oh, my children! Confess your sins to me and even the sins of your fathe
 
 197
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3286,7 +3484,8 @@ ACTS
 
 198
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3297,7 +3496,8 @@ The BITTER SWEET
 
 199
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3320,7 +3520,8 @@ The voice of the bridegroom and the bride shall no longer be heard because I wil
 
 200
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3334,7 +3535,8 @@ Night approaches where no man can work. Prophesies shall cease, tongues shall ce
 
 201
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3356,7 +3558,8 @@ ACTS
 
 202
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3367,7 +3570,8 @@ The BITTER SWEET
 
 203
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3383,7 +3587,8 @@ To all, I say: Return to me with your whole heart; repent with your entire being
 
 204
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3402,7 +3607,8 @@ You do not understand my ways, for my ways are the ways of Yahweh, and I am the 
 
 205
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3419,7 +3625,8 @@ Confess and repent from your sins and do so now, you have no time! Make me, Jesu
 
 206
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3435,7 +3642,8 @@ I Yeshua HaMashiach have sent these words by my servant, and by my servant have 
 
 207
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3454,7 +3662,8 @@ Behold! All world leaders work together behind the scenes, and they all serve Sa
 
 208
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3468,7 +3677,8 @@ Behold! The enemy comes and the order of events follows: The restrainer will res
 
 209
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3481,7 +3691,8 @@ I will appear suddenly, are you ready my Bride?
 
 210
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3496,7 +3707,8 @@ So faint not my Children, for my promises are yea and amen and I will snatch my 
 
 211
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3511,7 +3723,8 @@ Come to me with an open heart and I will lovingly show you your shortcomings so 
 
 212
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3531,7 +3744,8 @@ I am coming for you, my Bride, are you ready?
 
 213
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3546,7 +3760,8 @@ For those who live apostate lives and for those who pretend to live for Christ i
 
 214
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3561,7 +3776,8 @@ And they will seal 12,000 from each tribe listed: Judah, Reuben, Gad, Asher, Nap
 
 215
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3578,7 +3794,8 @@ Behold! I will part the heavens above and shake the earth beneath, and I will ga
 
 216
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3594,7 +3811,8 @@ So there is nothing to fear in your future my called, chosen, and faithful, and 
 
 217
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3607,7 +3825,8 @@ Kiss the Son lest he be angry, and you perish from the way, when his wrath is ki
 
 218
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3622,7 +3841,8 @@ The sea represents Gentile nations. The false Noahide laws already states that C
 
 219
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3636,7 +3856,8 @@ The beast from the sea, even he whose name is translated into English from Hebre
 
 220
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3657,7 +3878,8 @@ Look to the skies my faithful Church for I am approaching and will take you into
 
 221
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3673,7 +3895,8 @@ Behold! The times of the Gentiles are at an end and the wild olive tree that was
 
 222
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3688,7 +3911,8 @@ Are you so blind to your world, and so deaf of hearing that you no longer hear m
 
 223
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3706,7 +3930,8 @@ But no, you believe the lies of the dragon, for Barabbas speaks as a dragon, but
 
 224
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3721,7 +3946,8 @@ Hear me and hear me well all who would reject the voice of Yeshua HaMashiach, ev
 
 225
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3731,7 +3957,8 @@ of Lords and King of Kings, and I will utterly destroy the fallen ones. All who 
 
 226
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3746,7 +3973,8 @@ Behold! The time has come for the completion and full redemption of you, my love
 
 227
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3761,7 +3989,8 @@ Since you sacrifice children to Moloch, since you adore your abominable Baphomet
 
 228
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3776,7 +4005,8 @@ IF ANY MAN WORSHIP THE BEAST AND HIS IMAGE, AND RECEIVE HIS MARK IN HIS FOREHEAD
 
 229
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3792,7 +4022,8 @@ And I saw a new heaven, and a new earth: for the first heaven, and the first ear
 
 230
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3805,7 +4036,8 @@ treasures are the priceless treasures that are the sons of God into glorious per
 
 231
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3822,7 +4054,8 @@ Come to me and confess even the sins you have caused yourselves to forget and aw
 
 232
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3837,7 +4070,8 @@ But instead of repentance, instead of coming to me, Jesus the Nazarene in humili
 
 233
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3853,7 +4087,8 @@ You have unknowingly given your unborn to further the beast system, and the fall
 
 234
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3869,7 +4104,8 @@ Behold! I, even Yeshua HaMashiach will raise to life all the lost innocents and 
 
 235
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3891,7 +4127,8 @@ Time is up!
 
 236
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3909,7 +4146,8 @@ Hear my words, Secret Babylon’s judgment is already underway. The ten horns ha
 
 237
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3924,7 +4162,8 @@ Theirs is an everlasting testimony, and they will declare the everlasting gospel
 
 238
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3940,7 +4179,8 @@ The world that now is will never be again, and the rising kingdom of the Dragon 
 
 239
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3956,7 +4196,8 @@ For the finality of their choice is irrevocable. And their plagues and sores and
 
 240
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3972,7 +4213,8 @@ My 144,000 will descend on Mount Sion and I will lead them. They will take those
 
 241
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -3993,7 +4235,8 @@ I am he whom the Great I AM has sent for the salvation of Israel, for a remnant
 
 242
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4010,7 +4253,8 @@ And so the knowledge of good and evil has corrupted all who have eaten ever sinc
 
 243
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4026,7 +4270,8 @@ They will invade many lands and will consume all they find. They will feed on th
 
 244
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4040,7 +4285,8 @@ And since the days of Noah, even after the flood, nine tenths of the disembodied
 
 245
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4056,7 +4302,8 @@ For I am the refiner who stokes the fires of purification that I may purify the 
 
 246
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4076,7 +4323,8 @@ I Yeshua HaMashiach have spoken and sent these words and so they are recorded an
 
 247
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4093,7 +4341,8 @@ My little children, understand that I will be made manifest any moment now as my
 
 248
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4108,7 +4357,8 @@ For in whatever language my name is called, I Jesus the Nazarene, even Yeshua Ha
 
 249
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4123,7 +4373,8 @@ For they will continue and even commit worse sins than Secret Babylon, and they 
 
 250
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4138,7 +4389,8 @@ Suddenly, in one hour will her destruction fall suddenly and they will not escap
 
 251
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4152,7 +4404,8 @@ From secret Babylon were their “revolutionary” leaders trained in secret for
 
 252
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4173,7 +4426,8 @@ Hear my voice my children and heed my call and learn of me and accept my wisdom.
 
 253
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4189,7 +4443,8 @@ Behold! On that day I will bring my warriors for so is their inheritance, even a
 
 254
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4205,7 +4460,8 @@ Yet so many have used my grace and mercy as a license to sin, even relishing and
 
 255
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4220,7 +4476,8 @@ And so as it is written so has it been accomplished my faithful, and so is the N
 
 256
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4235,7 +4492,8 @@ And so I ask you, did the New Testament of Christ Jesus erase the Old Testament 
 
 257
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4255,7 +4513,8 @@ Keep yourselves pure my faithful, and don’t allow your hands to get dirty! Con
 
 258
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4271,7 +4530,8 @@ For the birth pangs are non-stop now, and there are multitudes of signs above an
 
 259
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4286,7 +4546,8 @@ And so I ask you yet again, my little ones, Is God a man that he should lie? Am 
 
 260
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4300,7 +4561,8 @@ So come out from among them and be ye separate in ALL things and in all of your 
 
 261
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4316,7 +4578,8 @@ There is no time remaining for Secret Babylon to repent and there is no more tim
 
 262
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4338,7 +4601,8 @@ And so I encourage you my loves to faint not and remain steadfast until the very
 
 263
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4353,7 +4617,8 @@ And so covenants and promises of old will be fulfilled, even all covenants for a
 
 264
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4368,7 +4633,8 @@ And so these fallen angels taught fallen man how to destroy himself through the 
 
 265
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4383,7 +4649,8 @@ And so the children fell into bondage in Egypt after the children of promise wen
 
 266
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4397,7 +4664,8 @@ So in the fullness of times I, Jesus the Nazarene, was born of a woman according
 
 267
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4412,7 +4680,8 @@ Understand that you are the temple of the living God, my faithful Church and I h
 
 268
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4435,7 +4704,8 @@ So I give you to understand that the fulfillment of all things is here and is al
 
 269
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4445,7 +4715,8 @@ For there yet remains a rest to God’s people. And so as my age of grace comes 
 
 270
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4462,7 +4733,8 @@ Understand, oh you of little faith, that my prophets speak in unison, and they s
 
 271
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4478,7 +4750,8 @@ And so understand what is currently underway and understand the times you live, 
 
 272
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4494,7 +4767,8 @@ Her once great cites that were examples of hard work and production and the abun
 
 273
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4509,7 +4783,8 @@ And so the world that now is, will be suddenly replaced with the ashes of ruins 
 
 274
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4524,7 +4799,8 @@ For their judgment lingers not, and all the kings of the earth have joined the t
 
 275
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4541,7 +4817,8 @@ I am the Word of God made flesh who dwells amongst you I am he who sits with b
 
 276
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4554,7 +4831,8 @@ Blessed are all they who put their trust in me, even Yeshua HaMashiach and all w
 
 277
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4569,7 +4847,8 @@ I am coming for you, my loves, and the times are now. I have waited an entire ag
 
 278
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4584,7 +4863,8 @@ For now is the time that Yahweh has chosen to begin to fully reveal himself to h
 
 279
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4600,7 +4880,8 @@ Stay at the ready and do not leave your posts and continue to watch for me. Do n
 
 280
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4617,7 +4898,8 @@ Yet, so was the son of God manifested that I might destroy the works of the Devi
 
 281
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4632,7 +4914,8 @@ Woe to the inhabitants of the earth. Woe, woe, much woe to the inhabitants of th
 
 282
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4648,7 +4931,8 @@ Understand what has happened, my people, and remember my words. The mangy shephe
 
 283
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4664,7 +4948,8 @@ And so the spider moves them across its web and positions them at the ready. The
 
 284
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4681,7 +4966,8 @@ I am speaking to the faithful and I ask your hearts in full obedience to my wor
 
 285
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4697,7 +4983,8 @@ I counsel all who hear these words to listen fully to my instruction and underst
 
 286
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4713,7 +5000,8 @@ Hear me, and hear me well; war is here, and Secret Babylon is chained for destru
 
 287
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4727,7 +5015,8 @@ And so they will rise. The third world war will be fomented amongst those who bo
 
 288
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4743,7 +5032,8 @@ The Dragon, the beast from the sea, and the beast from the earth will lead a coa
 
 289
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4758,7 +5048,8 @@ But when has Yahweh ever left heirs of salvation to eternal destruction, and I d
 
 290
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4773,7 +5064,8 @@ I am Yeshua HaMashiach, and I have sent these Word by my servant, and by my serv
 
 291
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4786,7 +5078,8 @@ I am Yeshua HaMashiach, the great King of Kings and Lord of Lords, so hear my Wo
 
 292
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4800,7 +5093,8 @@ And so four of the chief angels of the heavens, even Michael, Uriel, Raphael, an
 
 293
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4813,7 +5107,8 @@ And so Canaan, Noah’s grandson that Noah cursed on account of his wickedness, 
 
 294
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4828,7 +5123,8 @@ And so it is that the Satans and the watchers have readied themselves, and they 
 
 295
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4843,7 +5139,8 @@ Behold! They are already making themselves known, and their objects and orbs are
 
 296
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4858,7 +5155,8 @@ The times are now!
 
 297
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4873,7 +5171,8 @@ And so it is forevermore that there is no more need of sacrifice for sin, becaus
 
 298
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4887,7 +5186,8 @@ So understand the coming deception that is already come over the earth. For Sata
 
 299
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4901,7 +5201,8 @@ Behold, I show you a riddle that will impart wisdom to the wise and will keep th
 
 300
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4915,7 +5216,8 @@ And so will they lead astray the world, who will wonder after them, saying, who 
 
 301
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4931,7 +5233,8 @@ And so is your hope, my loves, that you may endure to the end. And yours is an e
 
 302
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4946,7 +5249,8 @@ Behold, the times are now!
 
 303
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4962,7 +5266,8 @@ And so things to come are as follows, and some events occur simultaneously and o
 
 304
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4976,7 +5281,8 @@ Out of the ashes of war will their final empire rise, even from the ashes of the
 
 305
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -4992,7 +5298,8 @@ And they will complete their temple and the trap will be set, for what fowler se
 
 306
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5009,7 +5316,8 @@ And the third angel will pour out his vial, causing the rivers and streams to be
 
 307
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5027,7 +5335,8 @@ And at the end of my thousand-year reign Satan will be loosed out of his prison 
 
 308
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5043,7 +5352,8 @@ And so is your hope, my loves, that you may endure to the end, and yours is an e
 
 309
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5057,7 +5367,8 @@ Behold! The times are now!
 
 310
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5073,7 +5384,8 @@ Truly, truly there are many false ministers who have sown lies amongst my congre
 
 311
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5088,7 +5400,8 @@ Understand what I gave Paul to write to the Colossians: Now I rejoice in my suff
 
 312
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5103,7 +5416,8 @@ Fear not, for I am with you: be not afraid, for I am your God: I will strengthen
 
 313
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5118,7 +5432,8 @@ I command and encourage you, my children, to take my love to this sick and dying
 
 314
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5135,7 +5450,8 @@ I, Yeshua HaMashiach, have sent these words by my servant, and by my servant hav
 
 315
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5151,7 +5467,8 @@ Yet, so many of you let your hearts trouble you needlessly that the seal of God 
 
 316
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5165,7 +5482,8 @@ Therefore, the sons of God will approach my judgment seat that I may judge their
 
 317
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5180,7 +5498,8 @@ Therefore, I have paved a mighty way for all who come to me fully to overcome fu
 
 318
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5196,7 +5515,8 @@ Understand that my appearing is not the same as my second coming and is a myster
 
 319
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5211,7 +5531,8 @@ Understand my loves, (even all those who love not your lives to the end) even yo
 
 320
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5228,7 +5549,8 @@ I am he who has sent my words by my servant that I have raised from his youth an
 
 321
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5246,7 +5568,8 @@ And so I ask you my bride, and so I ask you my body, and so I ask my faithful in
 
 322
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5263,7 +5586,8 @@ Therefore, mind the things of the spirit! Do not allow the fiery darts of the wi
 
 323
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5280,7 +5604,8 @@ Understand that you all will be rewarded greatly for your faithful works of serv
 
 324
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5304,7 +5629,8 @@ And it is I, Yeshua HaMashiach who has sent the words of the everlasting gospel 
 
 325
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5314,7 +5640,8 @@ all who are heirs of eternal life and these words will be preserved through the 
 
 326
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5331,7 +5658,8 @@ Therefore, El Shaddai sends them strong delusion, that they should believe lies 
 
 327
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5346,7 +5674,8 @@ And so the spider has woven its web around the world in great deception, blackma
 
 328
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5362,7 +5691,8 @@ So understand it is impossible to violate theLaw of Moses when a person walks by
 
 329
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5377,7 +5707,8 @@ And I saw heaven opened, and behold a white horse, and he that sat upon him was 
 
 330
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5397,7 +5728,8 @@ Yet so shall it come to pass my loves so understand what I will yet accomplish: 
 
 331
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5414,7 +5746,8 @@ I am he who has been sent by Yahweh himself for the fulfillment of all things a
 
 332
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5433,7 +5766,8 @@ And I have entered into many covenants with my chosen people, which covenants th
 
 333
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5449,7 +5783,8 @@ On the other hand you have eternal life and peace given by my own hand, even the
 
 334
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5466,7 +5801,8 @@ I AM h e who will be all in all. And I will give them to eat of the tree of lif
 
 335
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5482,7 +5818,8 @@ Yea and amen, and Amen, and AMEN! It will be done!
 
 336
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5500,7 +5837,8 @@ O’ Israel, how you have broken Yahweh’s heart in your disobedience and my he
 
 337
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5515,7 +5853,8 @@ So understand he with whom you have to do because I AM a God of many covenants, 
 
 338
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5544,7 +5883,8 @@ O’ Israel, will you remain faithless and disobedient? Will you forever join yo
 
 339
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5560,7 +5900,8 @@ So understand that the Synagogue of Satan has a form of godliness in their outer
 
 340
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5577,7 +5918,8 @@ So take up a lamentation, O’ Israel for those of you who stubbornly refuse my 
 
 341
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5596,7 +5938,8 @@ I AM t he Living God who is calling you, O’ Israel, even so that all who are 
 
 342
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5610,7 +5953,8 @@ The times are now.
 
 343
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5627,7 +5971,8 @@ And so I tell you my faithful, even as I told Simon Peter at the hour of my sacr
 
 344
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5642,7 +5987,8 @@ Yet, understand during my age of grace I instructed my Church to pray for their 
 
 345
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5657,7 +6003,8 @@ And they are sent by the spider who has invaded the lands, and it is the spider 
 
 346
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5672,7 +6019,8 @@ And so I give you to understand that Yahweh has given the final trumpet to sound
 
 347
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5694,7 +6042,8 @@ The faithful in Christ will stand at their Lord’s judgment seat and receive fo
 
 348
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5711,7 +6060,8 @@ And so the great eternal God says, Yea and Amen!
 
 349
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5730,7 +6080,8 @@ And Esau does mask and hide himself amongst Israel, even pretending they are Isr
 
 350
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5747,7 +6098,8 @@ Yet so it is Israel that your enemies lust for your destruction because they do 
 
 351
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5762,7 +6114,8 @@ Yet, many in Secret Babylon who pretended that Jesus Christ is their Lord have n
 
 352
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5778,7 +6131,8 @@ And, also understand that many who are party to their crimes and who are tares l
 
 353
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5797,7 +6151,8 @@ So I implore you O’ Israel to obey the voice of YHVH even your Elohim who was 
 
 354
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5813,7 +6168,8 @@ I AM that I AM and I AM YHVH so obey my eternal voice and come to The Father of 
 
 355
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5832,7 +6188,8 @@ Even all who have pleasure in unrighteousness and who are willing to reject Jesu
 
 356
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5848,7 +6205,8 @@ And this was so because Esau exerted his evil influence over the people so they 
 
 357
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5868,7 +6226,8 @@ For my age of grace and mercy has come to a close, although grace and mercy are 
 
 358
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5884,7 +6243,8 @@ I am he who will now turn to Israel to redeem them from the earth as their kinsm
 
 359
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5897,7 +6257,8 @@ Look! Watch! Listen! Are you ready my loves? The day is upon you.
 
 360
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5917,7 +6278,8 @@ Whereas Moses was the mediator of the first Testament (engraved by my finger on 
 
 361
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5934,7 +6296,8 @@ And in my eternal wisdom I sent Jesus the Nazarene to Israel, even when Judea wa
 
 362
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5950,7 +6313,8 @@ So I give you to understand in your partial blindness that you have stumbled at 
 
 363
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5966,7 +6330,8 @@ And yet so will the trap be set in the land to permanently ensnare Jacob and Bar
 
 364
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5982,7 +6347,8 @@ Yet, as the unholy three rise so too will my two witnesses, and they will prophe
 
 365
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -5998,7 +6364,8 @@ I AM h e who sends these Words by the voice of one crying in the wilderness, wh
 
 366
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6012,7 +6379,8 @@ I AM E lohim of the living, YHVH of Hosts your Elohim.
 
 367
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6028,7 +6396,8 @@ And so is my eternal commandment, that ye love one another, as I have loved you.
 
 368
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6043,7 +6412,8 @@ Because, I am he who was given for the salvation of Jacob, even the promised see
 
 369
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6058,7 +6428,8 @@ And wherefore was I rejected? Even Pontius Pilate who was Prefect of Judea at th
 
 370
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6073,7 +6444,8 @@ And so it is that I turn to my kinsman once again even as I turn away from the n
 
 371
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6088,7 +6460,8 @@ So hear my Words O’ Israel and understand the choice you have to make and unde
 
 372
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6103,7 +6476,8 @@ Which lamb will you choose, O Israel?
 
 373
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6120,7 +6494,8 @@ Because the faithful in Christ will be taken into the heavens, and the lukewarm 
 
 374
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6135,7 +6510,8 @@ Because Yahweh has made me a life giving spirit, and after the flesh am I known 
 
 375
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6149,7 +6525,8 @@ And yet in their hate for all things pertaining to Christ Jesus they will cause 
 
 376
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6164,7 +6541,8 @@ And so as it is written of them and so shall it be fulfilled by my mighty hand, 
 
 377
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6179,7 +6557,8 @@ And my two prophets, even my two candlesticks will rise and prophecy many things
 
 378
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6196,7 +6575,8 @@ I am he who brings the full wrath of the lamb and I will exact my wrath on all t
 
 379
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6214,7 +6594,8 @@ O’ Israel, separate yourselves fully from the ways of Esau and return to the h
 
 380
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6233,7 +6614,8 @@ I am The Lion of the Tribe of Judah!
 
 381
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6249,7 +6631,8 @@ And so it is that Moses lives in Yeshua HaMashiach, and I am he whom Moses comma
 
 382
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6264,7 +6647,8 @@ Therefore, depart from those who lie to you and separate yourselves from that bl
 
 383
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6279,7 +6663,8 @@ And in that ever burning lake of punishment that burns the hottest flames of tor
 
 384
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6297,7 +6682,8 @@ Because it is by my new covenant that I ratified in my own blood, wherewith is n
 
 385
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6315,7 +6701,8 @@ I am he who has sent my holy Words by my messenger and servant and by my messen
 
 386
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6328,7 +6715,8 @@ Behold! The salvation of Israel is at hand and the lamb sings in unison with the
 
 387
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6344,7 +6732,8 @@ And of the people that will remain after the coming destruction of Secret Babylo
 
 388
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6359,7 +6748,8 @@ And so the beast from the earth will rise seemingly from the dead and with many 
 
 389
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6374,7 +6764,8 @@ Yet the fallen ones have always had the same goals in mind and their plans and p
 
 390
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6389,7 +6780,8 @@ As his temple is built and finished amongst great fanfare and many blasphemous a
 
 391
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6404,7 +6796,8 @@ Therefore, I will come to the aid of Israel, even those who are from Jacob who w
 
 392
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6421,7 +6814,8 @@ I am the Lion of the Tribe of Judah and in righteousness I do come to judge and
 
 393
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6439,7 +6833,8 @@ Shalom! O’ Israel, accept my offer of peace given by Yahweh in the face of Yes
 I love you my countrymen, therefore, rest in the works of Yeshua HaMashiach in whom Moses is alive and well that you may rest from your own works and celebrate many Sabbaths and feasts in my holy kingdom, of whose time has come. Truly, truly the times are now!
 394
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6455,7 +6850,8 @@ Yet so are the ways of the natural spider created for Yahweh’s purposes, excep
 
 395
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6470,7 +6866,8 @@ And as the people were scattered from Babylon so too was the spurious knowledge 
 
 396
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6485,7 +6882,8 @@ Even so because wheat bows in obedience while tares stand erect in evil defiance
 
 397
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6499,7 +6897,8 @@ Even a great web of debt because the spider thrives and has made itself rich wit
 
 398
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6513,7 +6912,8 @@ And yet the spiders ways are ways of blackmail, and extortion, and murder, and c
 
 399
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6533,7 +6933,8 @@ And it is I, Yeshua HaMashiach who does declare the fullness of times for the ea
 
 400
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6549,7 +6950,8 @@ Selah!
 
 401
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6565,7 +6967,8 @@ Yet, in my grace and mercy and sacrifice of myself on Golgotha when I presented 
 
 402
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6579,7 +6982,8 @@ And so it is written of Yeshua HaMashiach, that by my life and obedience Adam co
 For Yahweh also bears us record: for after that he had said before, This is the Testament that I will make
 403
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6597,7 +7001,8 @@ I am Christ Jesus, and I have sent my Words by my messenger and servant and by 
 
 404
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6612,7 +7017,8 @@ Wherefore, I give you to understand, O’ Israel, the penalty of Moses is paid f
 
 405
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6622,7 +7028,8 @@ Therefore, O’ Israel, hear my Words and understand my love for you and that I 
 
 406
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6638,7 +7045,8 @@ Therefore, hear the words of Yeshua HaMashiach and understand the world you live
 
 407
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6654,7 +7062,8 @@ Because their technologies are that which has been done before, and now is, and 
 
 408
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6669,7 +7078,8 @@ And as they rise from the ashes of war they will openly align themselves with th
 
 409
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6685,7 +7095,8 @@ This rejection will be final and no forgiveness will they have because they coun
 
 410
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6704,7 +7115,8 @@ Wherefore, O’ Israel, repudiate their technologies and do not become further e
 
 411
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6715,7 +7127,8 @@ I love you my countrymen, and I truly do fight for you and will deliver you to t
 
 412
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6731,7 +7144,8 @@ Yet, the faithful in Christ will be gathered as written in scripture to their ev
 
 413
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6747,7 +7161,8 @@ And a great multitude, even the faithful in Christ, will disappear suddenly and 
 
 414
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6763,7 +7178,8 @@ So will the end of Satans kingdom be, my countrymen, even a time of separations 
 
 415
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6779,7 +7195,8 @@ Therefore, understand what is written and what the Spirit of Yahweh expressly de
 
 416
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6795,7 +7212,8 @@ So it will be that those who have taken the serpents bite and given themselves o
 
 417
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6813,7 +7231,8 @@ Therefore, come to me in obedience and submit yourselves in love to the voice of
 
 418
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6827,7 +7246,8 @@ Behold! The times for consummation and fulfillment are now, therefore, standfast
 
 419
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6844,7 +7264,8 @@ For your own sakes, I beg you to come out of this world and all its ungodly atti
 
 420
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6859,7 +7280,8 @@ So, I ask all of you who know my voice, even you who are called by name, and who
 
 421
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6874,7 +7296,8 @@ These are the times you live, my little ones, and these are the times you must c
 
 422
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6890,7 +7313,8 @@ So I give you to understand: no matter whatever entity causes changes in heaven 
 
 423
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6905,7 +7329,8 @@ Do not fall for their deceptions my loves and do not succumb to strong delusion 
 
 424
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6920,7 +7345,8 @@ Understand my love for you my church, my body, and even my bride and know that I
 
 425
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6939,7 +7365,8 @@ I am coming so soon for the faithful in Christ, and truly their times have come
 
 426
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6951,7 +7378,8 @@ The times are now. Selah!
 
 427
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6968,7 +7396,8 @@ And so the serpent did approach the mother of all the living in the Garden of Ed
 
 428
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6983,7 +7412,8 @@ So the women taken by the sons of God, (even the fallen watchers) did conceive a
 
 429
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -6998,7 +7428,8 @@ Understand, O’ natural man, even you who would hatefully reject your creator, 
 
 430
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7017,7 +7448,8 @@ To those who arrogantly think the stand for me but are taken in lies: Why do you
 
 431
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7033,7 +7465,8 @@ Who is it amongst you that should hide away as cowards in your homes? Who is it 
 
 432
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7050,7 +7483,8 @@ I am he in whom the lamb of God and the Lion of the tribe of Judah are united f
 
 433
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7069,7 +7503,8 @@ Behold! I am coming for you my loves and I will recreate you in righteousness an
 
 434
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7085,7 +7520,8 @@ And so the fallen ones have spread their lies over the face of my creation with 
 
 435
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7099,7 +7535,8 @@ Therefore, understand that your Jesuit indoctrinators have caused blindness to f
 
 436
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7114,7 +7551,8 @@ So understand that those from that great harlot, even your Jesuit indoctrinators
 
 437
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7129,7 +7567,8 @@ Yet, so it is written that Shem remained faithful to Noah, because Ham forsook t
 
 438
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7144,7 +7583,8 @@ So the responsibilities and orders of Priest, King, and Prophet all passed throu
 
 439
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7166,7 +7606,8 @@ For the Law made nothing perfect, but the bringing in of a better hope made perf
 
 440
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7178,7 +7619,8 @@ Selah!
 
 441
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7193,7 +7635,8 @@ And so was the birth of my Church and so are the promises concerning it, that tr
 
 442
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7207,7 +7650,8 @@ Therefore, understand that Yahweh is an all consuming fire, and I am Christ Jesu
 
 443
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7221,7 +7665,8 @@ Even though, at the time of this writing the great gathering of the faithful in 
 
 444
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7234,7 +7679,8 @@ Nevertheless, so will it be that the beast from the sea, the beast from the eart
 
 445
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7249,7 +7695,8 @@ Nevertheless, the fallen ones continue in their insanity and madness as they see
 
 446
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7264,7 +7711,8 @@ They will use their technologies to keep natural man chained to his coming judgm
 
 447
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7284,7 +7732,8 @@ Therefore, understand that in like fashion as my two olive trees will become one
 
 448
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7294,7 +7743,8 @@ from Adam become one new man, even a new creation fashioned after their eternal 
 
 449
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7311,7 +7761,8 @@ Yet, so many have been blinded to the truth of these Words by lying dispensation
 
 450
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7326,7 +7777,8 @@ Yet, so it is, that I allowed the fallen ones to cover my creation in their lies
 
 451
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7340,7 +7792,8 @@ Understand that all who seek to violate the natural boundaries and orders of my 
 
 452
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7354,7 +7807,8 @@ Yet, Noah continued alive through the flood, even saved alive on the Ark with hi
 
 453
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7368,7 +7822,8 @@ Therefore, I, Yahweh, The Great I AM, do declare and announce the rise of my two
 
 454
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7385,7 +7840,8 @@ Therefore, understand the nature of their message and the things they will revea
 
 455
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7400,7 +7856,8 @@ Therefore, understand the Words of The Everlasting God of Righteousness and my j
 
 456
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7416,7 +7873,8 @@ Then will the full wrath of Yahweh be poured out in full fury from the vials in 
 
 457
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7434,7 +7892,8 @@ The Little Book of Revelation Ch. 10 | The Bitter Sweet
 
 458
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7454,7 +7913,8 @@ Yet so is the world you live and the times that have overtaken the earth in grea
 
 459
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7469,7 +7929,8 @@ Yet, as this righteous work is brought to full completion, so too will there be 
 
 460
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7487,7 +7948,8 @@ Therefore, understand the times you live and prepare yourselves my loves. Contin
 
 461
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7506,7 +7968,8 @@ I am the Everlasting Lord and King of Righteousness Himself: who will appear sud
 
 462
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7525,7 +7988,8 @@ Selah!
 
 463
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7541,7 +8005,8 @@ Therefore, understand that all who live godly will suffer persecution in one for
 Wherefore, understand that you are saved from wrath, and you are saved from all wrath. So understand that the wrath of the Lamb is not intended for the obedient, but to begin final judgment on the fallen ones and all who fully join or remain with them, and to bring final salvation to the disobedient and stubborn who will obey The Everlasting Gospel in their times of distress and calamity because they ignored my warnings in the times of warning that is now at an end, and in warnings place, declarations now stand!! Yet, all the faithful in Christ, even all those who are adopted fully as eternal Sons of Yahweh and are now grafted into the natural Olive tree of The Israel of God where all fullness does dwell are not subject to the wrath of the Lamb, and neither the wrath of Yahweh, Selah!
 464
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7555,7 +8020,8 @@ And I WILL present the obedient, without spot nor blemish, nor stain, nor any su
 
 465
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7570,7 +8036,8 @@ Therefore, I command you to have faith in your Everlasting Lord and allow The Ev
 
 466
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7588,7 +8055,8 @@ Ready yourselves, my Bride, and come fully to me in full repentance and depart f
 
 467
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7604,7 +8072,8 @@ Yeshua HaMashiach, The Everlasting Lord of Righteousness.
 
 468
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7620,7 +8089,8 @@ Nevertheless, those who refuse my invitation and all those who have altered them
 
 469
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7635,7 +8105,8 @@ Because, I do come to snatch you away into the heavens, even where you will marv
 
 470
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7650,7 +8121,8 @@ Great shaking and total war will destroy many nations and cities and towns and t
 
 471
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7664,7 +8136,8 @@ Behold, I am near. Therefore, watch in all earnest expectation because the faith
 
 472
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7680,7 +8153,8 @@ Therefore, I give you to understand my loves to stand firm for me and continue t
 
 473
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7696,7 +8170,8 @@ Yeah, of a truth, I counsel one and all to continue to come out of your sins and
 
 474
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7709,7 +8184,8 @@ And so it is that I come to give you understanding of the times you live and I d
 Therefore, I do come to declare these Words fulfilled in your ears this very day, and that so suddenly and unexpected now the faithful in Christ will be taken and redeemed and changed and glorified and rewarded forevermore. So understand the sudden fulfillment that is so suddenly to come. Do not give ear to the date
 475
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7732,7 +8208,8 @@ Yeshua HaMashiach: The Everlasting Lord of Righteousness.
 
 476
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7750,7 +8227,8 @@ Truly, of a great and eternal truth, I have created them powerful and glorious a
 
 477
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7767,7 +8245,8 @@ Therefore should you desire to escape your own judgment and eternal destruction,
 
 478
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7782,7 +8261,8 @@ Yet, you, O' fallen man, would sit in your unrighteous ways, even utterly overco
 
 479
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
@@ -7796,7 +8276,8 @@ And in your hard-hearted ways of unrighteousness you have even lost your ears an
 
 480
 
-THE
+<div style="page-break-after: always;"></div>
+THE
 Everlasting Gospel
 
 The LITTLE BOOK of Revelation Chapter 10
