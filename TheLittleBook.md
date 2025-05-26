@@ -325,10 +325,10 @@ The Testimony of Jesus Is the Spirit of Prophecy. (Explanation of “In the Work
 JUNE 4, 2024
 Behold, I show you the mystery of the little book. For the book has been given, and the spirit of prophecy is the testimony of Jesus. My testimony of Jesus began in my life when the Lord Jesus Christ called me into ministry and service in 1996 when I was living in New York City. I had answered the Lord’s call to repentance by attending a home Bible study group and was a student in one of their classes. One evening I was sitting in a diner in Long Island City with a good friend of mine, and he asked me to turn in my Bible to John 4, and he began to read the following as I read along:
 JOHN
-4:35 Say not ye, There are yet four months, and then cometh harvest? Behold, I say unto you, lift up your eyes, and look on the fields; for they are white already to harvest.
-4:36	And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.
+4:35 Say not ye, There are yet four months, and then cometh harvest? Behold, I say unto you, lift up your eyes, and look on the fields; for they are white already to harvest.
+4:36 And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.
 4:37 And herein is that saying true, One soweth, and another reapeth.
-4:38	I sent you to reap that whereon ye bestowed no labor: other men labored, and ye are entered into their labors.
+4:38 I sent you to reap that whereon ye bestowed no labor: other men labored, and ye are entered into their labors.
 As my friend read these verses, the words seemed to leap off the page and amplified straight into the depths of my soul. A fire was kindled in my heart, and so the Lord commissioned me into his service in 1996. I literally dropped my entire life and everything I was doing to go into ministry. I became leadership in a smaller mega church, and later, when I found out just how corrupt they really were, I hit the exits never to return in 2008. I struggled for a few years as I tried to walk for Christ, but my sins were holding me back. In 2013 my life fell apart and I self-destructed, and it was a slow-motion train wreck that had been in the making for some time. And so the Lord took me into serious chastisement and scourged me many times over until I returned to sanity on July 7, 2020, when I fully repented of my sins.
 The Lord prepared me for this journey by granting me many visions, signs, miracles, several healings, and I have cast out many spirits by the Lord’s direction, and much confirmation has the Lord given me to the genuineness of my ministries and calling. And so I am restored to my Lord, restored to Yahweh, restored to my wife and son and my eternal reward.
 Sometime toward the end of 2023, I had something spectacular happen. Many times I will sleep with scripture playing on my TV and soundbar. This particular evening, I went to sleep with the Old Testament playing very softly. I was startled out of sleep in the middle of the night when my soundbar, which had been very quiet, became very loud for no reason out of the blue. Nobody had turned the volume up, and the remote was lying untouched on my nightstand next to my bed. The following verses from Ezekiel played while I sat there in disbelief:
@@ -343,12 +343,12 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 EZEKIEL
-3:17	Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.
-3:18	When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.
-3:19	Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
-3:20	Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
-3:21 Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.
-3:22	And the hand of the LORD was there upon me
+3:17 Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.
+3:18 When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand.
+3:19 Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
+3:20 Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
+3:21 Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.
+3:22 And the hand of the LORD was there upon me
 And so it has been. Even though at the time I didn’t understand that the Lord was sending me as an endtimes prophet, I would soon find out.
 On March 2, 2024, I began typing prophetic messages in what the Lord described to me as the works of John the Baptist. This continued from March 2 until April 5, 2024, and during that time I received 20 prophetic messages. All of the messages centered around judgment on Mystery Babylon, calling the saints to repentance, and announcing the soon appearing of Jesus Christ himself, as he will appear in the air at any time now for the faithful in his Church. I actually thought the prophecy on April 5 was the last one. I was wrong. The next prophetic message occurred on April 10, 2024, and the Lord told me he was sending me in the work of Peter to feed and care for the flock.
 The nature and content of the messages changed from that point, though they still contain elements from the first twenty, and many of these messages interrelate one to another. On April 21, 2024, the nature and content of the messages shifted again, and the Lord told me he was sending me in the work of the Apostle Paul as a steward of God’s mysteries. And so the content of the messages shifted again and are built on the previous messages and interrelate. These messages continued along the same lines until May 16, 2024, when the content shifted once more. I was told I was being sent in the works of John the Revelator (a term I’ve never heard or used), and on May 16 those prophecies began.
@@ -450,13 +450,13 @@ Christ a thousand years.
 And so my angel will descend from the heavens, having the key to the bottomless pit and a great chain with which he will bind Satan in the bottomless pit for a thousand years and set the seal so that he should deceive the nations no more for a thousand years. At the end of my thousand-year reign, Satan will be loosed from the abyss for a little season.
 He will go out to deceive the nations in the four quarters of the earth, Gog and Magog to gather them together as the sand of the sea, and he will attack the camp of saints and surround the holy city, and fire will come down from Yahweh and will utterly consume them. And the devil that deceived them will be bound and cast alive into that great lake of fire, which burns with brimstone in the hottest flames of blue. And there will be great recompense of evil and great justice will be served on the Satan’s own head, his fallen angels, and all who joined their rebellion; and never again will they arise, and they will be utterly forgotten; and never again will they come to mind.
 Then Yahweh will make a new heaven and a new earth, and he will make his abode among men, and in peace and harmony will it be forevermore, and never again will there be a time of trouble, and they shall never again sin, neither through pride nor ungodliness, and all their days will be blessed.
-I am the resurrected Nazarene who died to sin once and who dies no more.
-I am Yeshua, even your true Messiah, whom Yahweh has sent to fulfill the promises made to the Fathers.
-I am he whose eyes are a flame of fire ,and on my head many crowns.
-I am Lord of Lords and King of Kings, and in righteousness I come to judge and make war.
-I am he who will direct and lead my 144,000, and they will sing a new song that no man can learn.
-I am he who will defeat Satan’s kingdom, and I will bruise his head.
-I am he whom Yahweh has sent for salvation of all who believe, and my time has come. Behold! Judgment comes and the times are now.
+I am the resurrected Nazarene who died to sin once and who dies no more.
+I am Yeshua, even your true Messiah, whom Yahweh has sent to fulfill the promises made to the Fathers.
+I am he whose eyes are a flame of fire ,and on my head many crowns.
+I am Lord of Lords and King of Kings, and in righteousness I come to judge and make war.
+I am he who will direct and lead my 144,000, and they will sing a new song that no man can learn.
+I am he who will defeat Satan’s kingdom, and I will bruise his head.
+I am he whom Yahweh has sent for salvation of all who believe, and my time has come. Behold! Judgment comes and the times are now.
 
 23
 
@@ -882,7 +882,7 @@ I am calling you, oh Israel.
 I am coming to destroy Satan’s kingdom, for he is no king.
 I am a merciful Lord and a merciful King.
 I am the fullness of the Godhead bodily.
-I am coming with a multitude of kings and priests, and they will rule from my throne, and they will rule in righteousness.
+I am coming with a multitude of kings and priests, and they will rule from my throne, and they will rule in righteousness.
 I am calling you; only ignore not my call!
 
 46
@@ -977,7 +977,7 @@ I am he who will lead my people to green pastures by my shepherds, for I am the 
 I am he who will fulfill the promises made to the fathers, for so am I sent.
 I am he that will crush the head of the Satans, for the princes of this world will pay.
 I am he that will rule from the throne of David, for my kingdom has no end.
-I am he who is coming in the clouds, and I will come to my own nation and will take my rule, and I will not be stopped.
+I am he who is coming in the clouds, and I will come to my own nation and will take my rule, and I will not be stopped.
 I, even I, Yeshua HaMashiach, have sent these words for those whom I am calling. So hear my words in obedience, and know that I will liberate the land and the entire earth and will rule in righteousness. So hear my call, for I am coming to you and will teach you my ways and will guide you into all truth. So reject not my writings, for the oracles of God will be returned to Israel, and the earth will know that there is a God in Israel, even Yahweh, the great eternal God, for there is none else, and there is none like Him. Shalom! Shalom! So be in peace and be well, for I will heal you all to the uttermost who put their faith in Yeshua HaMashiach.
 
 51
@@ -1135,7 +1135,7 @@ I am El Shaddai, God Almighty.
 I am Jehovah Jireh.
 I am the great Elohim, the God of Israel.
 I am he that sent his only begotten son to redeem those who would be redeemed.
-I am he that has raised Christ Jesus from the dead and given him a name above every name, that every knee should bow and every tongue will confess.
+I am he that has raised Christ Jesus from the dead and given him a name above every name, that every knee should bow and every tongue will confess.
 I AM the Great I AM, and my wrath is soon to be fulfilled, and there is none greater, and I have spoken.
 I, Yahweh, the great eternal God, have sent the words I have sent, and I have sent these words. I have sent my son, Yeshua HaMashiach, and he has sent his words to the faithful. Time is up.
 
@@ -1273,7 +1273,7 @@ My little ones, I leave you with wisdom to ponder, and these are no longer myste
 I am the Word of God made flesh, and I dwell within you.
 I am calling you to your home in the heavens so very soon.
 I am the Lamb without spot and blemish.
-I am the high priest forever after the order of Melchizedek. I am the true Messiah, even Yeshua HaMashiach.
+I am the high priest forever after the order of Melchizedek. I am the true Messiah, even Yeshua HaMashiach.
 I am coming to execute judgment upon all.
 I am come to speak of the words that John the Revelator was given.
 
@@ -1760,8 +1760,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am the Lion of the Tribe of Judah and the world is about to understand. I am he that is given preeminence in heaven and earth, for my name is greater than all names except
-Yahweh. I am the Son of God come in the flesh for the sins of mankind, and I was raised the third day and received
+I am the Lion of the Tribe of Judah and the world is about to understand. I am he that is given preeminence in heaven and earth, for my name is greater than all names except
+Yahweh. I am the Son of God come in the flesh for the sins of mankind, and I was raised the third day and received
 into the heavens. I am he who will rule in righteousness on the earth, and my Bride will rule with me. I am he who has called you to glory and virtue, so faint not! I am Look for my appearing! ‫ סופתא ךתוא רחא ךכ‬(etfos otha ahar kah - I’ll catch you later)
 
 98
@@ -1826,9 +1826,9 @@ I am he that walks amongst the seven lampstands, so return to me, lest I take yo
 I am the good shepherd who gave himself for the flock.
 I am he that will rule the earth from David’s throne and will smite the nations with a rod of iron.
 I am he who is worthy to take the book and break the seals.
-I am he who commands the angel ascending from the east, having the seal of the living God, for they will seal my 144,000, even the servants of the living God.
-I am he who will stand on Mount Zion with my 144,000, and they will sing a new song that no man can learn.
-I am Lord of Lords and King of Kings, and I do come to make war on the kings of the earth, for their time has come.
+I am he who commands the angel ascending from the east, having the seal of the living God, for they will seal my 144,000, even the servants of the living God.
+I am he who will stand on Mount Zion with my 144,000, and they will sing a new song that no man can learn.
+I am Lord of Lords and King of Kings, and I do come to make war on the kings of the earth, for their time has come.
 I am he who is coming for my Bride, for my appearing is at hand. Ready yourselves, my Bride!
 
 102
@@ -1896,7 +1896,7 @@ I am the Lamb of God!
 I am coming to execute wrath on all of Satan’s kingdom, and they will not escape.
 I am the savior of the World!
 I am Christ Jesus and vengeance is mine and I will repay!
-I am the one who will wound the serpent’s head, for God Almighty has declared it! I am about to be revealed in the clouds for my Bride, whom I will snatch away.
+I am the one who will wound the serpent’s head, for God Almighty has declared it! I am about to be revealed in the clouds for my Bride, whom I will snatch away.
 I am he who is coming on a white horse.
 I am who is called faithful and true, and in righteousness I will judge and make war.
 I am coming!
@@ -1966,10 +1966,10 @@ I am of the Father and of the same nature and same spirit.
 I am the righteousness of God, and I have made you the righteousness of God.
 I am he that is justified in his ways.
 I am sinless, and I have justified you in me, Christ Jesus.
-I am he who is always and forevermore sanctified, for mine is the Kingdom of God, and I have sanctified you by the spirit of sonship.
-I am he who gave his last drop of blood on the cross that I might cleanse you of all sin, for there is no sin in the spirit of sonship I have given you.
-I am your intercessor.
-I am your advocate.
+I am he who is always and forevermore sanctified, for mine is the Kingdom of God, and I have sanctified you by the spirit of sonship.
+I am he who gave his last drop of blood on the cross that I might cleanse you of all sin, for there is no sin in the spirit of sonship I have given you.
+I am your intercessor.
+I am your advocate.
 Stand at the ready, my Bride, for the times of restoration are at hand, and my appearing is nearer than you think.
 
 110
@@ -2045,16 +2045,16 @@ The BITTER SWEET
 
 his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ (by grace ye are saved), And hath raised us up together, and made us sit together in heavenly places in Christ Jesus. You should understand that the law of Moses is simply not your covenant, for yours is the new covenant ratified in my blood and paid for by my suffering.
 So be obedient to the Faith, my people, and be lukewarm no longer. Choose life in me, Jesus Christ, for so were you called. Do the many mighty works I have given you, even in this last minute. I need you to understand that without me, you can do nothing, and you keep all aspects of Torah by faith in me. Furthermore, the sacred-named Judaizers have saturated my church, placing undue burdens on those who seek salvation and those who are mine. My Father gave me a name above every name, that at the name of Jesus Christ should every knee bow. Do you think I would place an undue burden on the nations who speak many languages to use my name, Yeshua HaMashiach, in Hebrew only? Hear me and hear me well, for I am coming, and I will deal with the disobedient and those who would trouble you.
-I am Jesus the Nazarene.
-I am Jesus Christ.
-I am Christ Jesus.
-I am Jesucristo – Spanish.
-I am Иисус Христос (Iisus Khristos) – Russian.
-I am Gesù Cristo – Italian.
-I am Ісус Христос (Isus Khrystos) – Ukranian.
-I am UJesu Kristu – Zulu.
-I am Iesu Keriso – Somoan.
-I am Ġesu K.ristu – Maltese.
+I am Jesus the Nazarene.
+I am Jesus Christ.
+I am Christ Jesus.
+I am Jesucristo – Spanish.
+I am Иисус Христос (Iisus Khristos) – Russian.
+I am Gesù Cristo – Italian.
+I am Ісус Христос (Isus Khrystos) – Ukranian.
+I am UJesu Kristu – Zulu.
+I am Iesu Keriso – Somoan.
+I am Ġesu K.ristu – Maltese.
 My name has been translated in all languages, and in all languages has my name been translated, and my name is sacred in all languages always and forevermore! There is no speech nor language, where their voice is not heard. Am I, Yeshua HaMashiach, not greater than the stars? I am.
 
 115
@@ -2150,17 +2150,17 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 of my bride, which some call rapture, and that is in Corinthians (and elsewhere); for in a moment, in the twinkling of an eye, the last trump shall sound, and its sounding is upon you. Then there is the mystery of a husband and wife becoming one flesh, and this is a great mystery: but I speak concerning Christ and the church, and you may find that in Ephesians. For I will take blindness from Israel when they turn their hearts to me. For I will gather my Bride to me, for I am the Bridegroom. I am he to whom you will be married, that we may forever be one in me and in my Father, for God is all in all. My heart rests on you, my children, and soon you will see me face to face; and make no mistake, I am calling you to me, my wise virgins, and I am coming for you so very soon, and I long to see you all where we will be face to face, and you will know, even as you are known.
-I am he who has sealed you for full redemption in the power of my holy spirit. I am the fulfillment of the law.
-I am the Lord Jesus Christ who shepherds the flock.
-I am the Bridegroom to my Bride and you are living the great mystery of God.
-I am the good Shepherd.
-I am the Faithful Lord and my Words are true.
-I am the head of my Body who does many mighty works for my people.
-I am Lord of Lords.
-I am the Bridegroom.
-I am he to whom you will be married that we may forever be one in me and in my Father, for God is all in all.
-I am calling you to me, my wise virgins.
-I am coming for you so very soon, and I long to see you all where we will be face to face, and you will know, even as you are known.
+I am he who has sealed you for full redemption in the power of my holy spirit. I am the fulfillment of the law.
+I am the Lord Jesus Christ who shepherds the flock.
+I am the Bridegroom to my Bride and you are living the great mystery of God.
+I am the good Shepherd.
+I am the Faithful Lord and my Words are true.
+I am the head of my Body who does many mighty works for my people.
+I am Lord of Lords.
+I am the Bridegroom.
+I am he to whom you will be married that we may forever be one in me and in my Father, for God is all in all.
+I am calling you to me, my wise virgins.
+I am coming for you so very soon, and I long to see you all where we will be face to face, and you will know, even as you are known.
 
 121
 
@@ -2255,13 +2255,13 @@ The BITTER SWEET
 
 manifest in the flesh, justified in the Spirit, seen of Angels, preached unto the Gentiles, believed on in the world, received up into glory.
 My children, I am the Word made flesh, and I and my Father are one. In the same manner, become one with us by your obedience to me, for very soon you will be like me and be received up into glory, for I am the firstfruits from among the dead, and I will present you a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. Time is almost out, so do not hesitate. Work with me in these final minutes, and do not hesitate to open your mouths. I will bring them to you, so do my works and cease from your own. I will do many mighty works by your hands, only doubt not!
-I am the promised seed of the woman.
-I am the promised seed sent by God.
-I am still calling my children to stand for me and to minister for me. I am sending you, my children, to gather the sheep that remain.
-I am saving the true Israel, for she is cast out among the nations, and you all are the true Israel of God!
-I am sent to all nations that I may save some.
-I am the Word made flesh and me and my Father are one.
-I am the firstfruits from among the dead.
+I am the promised seed of the woman.
+I am the promised seed sent by God.
+I am still calling my children to stand for me and to minister for me. I am sending you, my children, to gather the sheep that remain.
+I am saving the true Israel, for she is cast out among the nations, and you all are the true Israel of God!
+I am sent to all nations that I may save some.
+I am the Word made flesh and me and my Father are one.
+I am the firstfruits from among the dead.
 
 127
 
@@ -2325,14 +2325,14 @@ Why do you not understand that the gathering together of my Church to meet me in
 Yet, there are several examples of God taking people into the heavens for specific purposes. Enoch departed. Elijah departed. I departed into the heavens while my apostles watched in awe. Philip was departed from one place to another as the Father took him for my purposes. And so shall my bride be gathered to me in the clouds to be taken into the heavens to be married to me and to serve my redeeming purposes.
 Do you not understand that my Bride will be kings and priests before my God and Father and will rule with me in my coming kingdom and will forever be with me? Why are you so slow to believe my words? Have you been enchanted and led astray by the wayward shepherds? Still, many of you will become a self-fulfilling prophecy and will seal yourselves to the falling away by apostatizing from my precepts, particularly the doctrine of my Church being gathered to me. Shame on you who group this doctrine to false prophets in recent history, declaring a false, secret rapture that is tied to other false doctrines of dispensations.
 Understand that there are ages in God’s timeline and not dispensations, and they are not the same concept. Study to show yourselves approved, and quit being so intellectually lazy. Quit relying on and reading everyone else’s interpretation of what is written, and live by it is written: For you need not that any man should teach you. Yet, many of you will scoff and refuse my counsel. Except this thing will not be done in secret and Satan will launch a great deception to cover this event because it will be known worldwide. Great shaking will occur, and the entire world will change from the world you have known, and that man of sin will be revealed and rise from the ashes left behind by the four horseman. It is time to ready yourselves, my Bride, and do so quickly, for behold my appearing is at hand!
-I am the son of Man prophesied of by Enoch, whom God took into the heavens.
-I am he who was transfigured and spoke with Moses and Elijah about my departing, and God took Elijah into the heavens in his time.
-I am he who was taken into a cloud as I was received into the heavens until the times of restitution.
-I am he who sent Philip to the Ethiopian eunuch before God took him to another place on earth.
-I am he who caught Paul away to the third heaven and showed him unspeakable things that he was not free to share.
-I am he who will descend from the heavens with a great shout to gather my Bride to meet me in the air.
-I am he who will raise my two witnesses to life after they are dead for three and a half days, and I till take them into the heavens.
-I am he that is the Alpha and Omega, for I am the beginning and the end, and behold! I come sooner than
+I am the son of Man prophesied of by Enoch, whom God took into the heavens.
+I am he who was transfigured and spoke with Moses and Elijah about my departing, and God took Elijah into the heavens in his time.
+I am he who was taken into a cloud as I was received into the heavens until the times of restitution.
+I am he who sent Philip to the Ethiopian eunuch before God took him to another place on earth.
+I am he who caught Paul away to the third heaven and showed him unspeakable things that he was not free to share.
+I am he who will descend from the heavens with a great shout to gather my Bride to meet me in the air.
+I am he who will raise my two witnesses to life after they are dead for three and a half days, and I till take them into the heavens.
+I am he that is the Alpha and Omega, for I am the beginning and the end, and behold! I come sooner than
 
 131
 
@@ -2508,13 +2508,13 @@ Search out my pure word, and have faith that I am capable to provide honest tran
 Will you reject my words, my people? Will you choose to discredit the messengers I have sent? For I have sent many! Many of you will persist in your insanity, not even taking the time to verify the words of this prophecy, and you will do so to your own detriment and loss of reward. As soon as the restrainer is removed and my Bride is taken, they will move with great haste to kill everything and anyone who is Christian. They will purge Christianity from the earth if they could, and they will persecute and martyr my saints in many ways, and those who call on the name of the Lord shall be saved.
 Turn to me now, and cleanse your hearts from their lying words. You have heaped words of death and destruction to yourselves in complete ignorance of your own history. I challenge you to study the history of the books I didn’t write that you elevate above my own words. Study who the authors really were, for they authored great lies into their books, for you will know them by their fruits. Many of these books have been made the standard in your seminaries; search it out, for it is true! If you will be diligent in these matters and hold to me, then I will lead you into all truth, and you will finally understand the mystery of Godliness of which you are. But even the great mystery has been cheapened in your minds and hearts by their lies; that great mystery is one new man taken from Judean and Gentile alike, where there is no more wall of separation, for that wall is done away in me.
 Many of you cling to an Old Testament verse taken out of context: ignorantly thinking that you must support genocidal maniacs to be blessed by me. I bless those who have been called by my name, and though I cause it to rain on the righteous and unrighteous alike, all blessings are in me, Christ Jesus your Lord, the true Lord of Lords and true King of Kings. Therefore, turn to me in repentance, for you have taken the lies of Jezebel as gospel truth, and you have heaped wrath to yourselves in so doing; for I will even give my children according to their works, though I will not judge you by your sins.
-I am the Lamb of God chosen before the foundation of the World.
-I am a warrior King sent by Yahweh.
-I am he whom the heavens must receive until the times of restitution of all things.
-I am he who was baptized by John the Baptist when the spirit descended like a dove to the sound of my Father’s own voice.
-I am he who came to my own and who was rejected, a man of sorrows who paid the highest price for you all.
-I am greater than all except my Father, Yahweh.
-I am Yeshua HaMashiach. also known as Jesus Christ. and ιησου χριστου in Greek and in many other
+I am the Lamb of God chosen before the foundation of the World.
+I am a warrior King sent by Yahweh.
+I am he whom the heavens must receive until the times of restitution of all things.
+I am he who was baptized by John the Baptist when the spirit descended like a dove to the sound of my Father’s own voice.
+I am he who came to my own and who was rejected, a man of sorrows who paid the highest price for you all.
+I am greater than all except my Father, Yahweh.
+I am Yeshua HaMashiach. also known as Jesus Christ. and ιησου χριστου in Greek and in many other
 
 142
 
@@ -2607,7 +2607,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am able to save Jacob and I will do just that as a remnant shall be saved. I am the high priest forever after the order of Melchizedek. I am the perfect Passover. I am the lamb of God. I am the Lord who died for you, even Yeshua HaMashiach.
+I am able to save Jacob and I will do just that as a remnant shall be saved. I am the high priest forever after the order of Melchizedek. I am the perfect Passover. I am the lamb of God. I am the Lord who died for you, even Yeshua HaMashiach.
 
 148
 
@@ -2654,13 +2654,13 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am holy, so be ye holy.
-I am he that justifies my children.
-I am he that sanctifies my children.
-I am he that makes my children righteous in me.
-I am he that redeems my children in my grace and mercy.
-I am he that washes you clean in my sinless blood.
-I am the righteous judge.
+I am holy, so be ye holy.
+I am he that justifies my children.
+I am he that sanctifies my children.
+I am he that makes my children righteous in me.
+I am he that redeems my children in my grace and mercy.
+I am he that washes you clean in my sinless blood.
+I am the righteous judge.
 Time is short, my children, and your courses will very soon be finished. Think not that unrighteousness will enter my kingdom, or that you will stand before me in your sins and carry off reward. Only those who overcome will stand with me. You will be saved, but why would you want to suffer the loss of the greatness I have prepared for you, for you cannot even comprehend what you are sacrificing for your own lusts.
 Come to me, for I am rich in mercy.
 Come to me, for my grace will sustain you.
@@ -2708,8 +2708,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he that endured to his last breath, striving against sin with my own sinless blood. I am he that was raised the third day and ascended to my Father. I am he that walked amongst my disciples and apostles for forty days, even seen above five hundred
-brethren at one time, and seen and handled by many, for a spirit has not flesh and blood. I am he that was taken up, while they watched me, into the clouds. I am he whose brightness is brighter than the sun, for I reflect my Father’s glory. I am about to reveal great glory in you. I am with you always, even until the end of the age.
+I am he that endured to his last breath, striving against sin with my own sinless blood. I am he that was raised the third day and ascended to my Father. I am he that walked amongst my disciples and apostles for forty days, even seen above five hundred
+brethren at one time, and seen and handled by many, for a spirit has not flesh and blood. I am he that was taken up, while they watched me, into the clouds. I am he whose brightness is brighter than the sun, for I reflect my Father’s glory. I am about to reveal great glory in you. I am with you always, even until the end of the age.
 
 154
 
@@ -2776,9 +2776,9 @@ The BITTER SWEET
 
 final judgment, yea, the great white throne judgment will break forth on them all, and they will be without remedy. I tell you these things to give you hope and prepare my people, for the Great Mystery of God will even be brought to consummation.
 
-I am the way, the truth, and the life. I am the King of Kings and Lord of Lords. I am he that is worthy to open the seals, and the times are here. I am he who tries the reins of my chosen ones so that I may purify you and cleanse you in my atoning blood. I am the Son of God come in the flesh, crucified, and resurrected the third day, seen by many, and received
-into the heavens before their very eyes. I am the son of David, and I will gather the remnant of Jacob under my arms of comfort and strength. I am he that will fulfill all of my Father’s will. I am about to make my enemies my footstool, and woe to those who oppose me, for great is the wrath of
-the Lamb. I am he who will subjugate my Father’s creation and give all things into his hand, that God may be all in all. I am he whose kingdom is for everlasting to everlasting, and I will give to my chosen to eat from the tree of
+I am the way, the truth, and the life. I am the King of Kings and Lord of Lords. I am he that is worthy to open the seals, and the times are here. I am he who tries the reins of my chosen ones so that I may purify you and cleanse you in my atoning blood. I am the Son of God come in the flesh, crucified, and resurrected the third day, seen by many, and received
+into the heavens before their very eyes. I am the son of David, and I will gather the remnant of Jacob under my arms of comfort and strength. I am he that will fulfill all of my Father’s will. I am about to make my enemies my footstool, and woe to those who oppose me, for great is the wrath of
+the Lamb. I am he who will subjugate my Father’s creation and give all things into his hand, that God may be all in all. I am he whose kingdom is for everlasting to everlasting, and I will give to my chosen to eat from the tree of
 life and to drink of the rivers of living waters, and you will never hunger or thirst again, and I will wipe all tears away from your eyes. I, the Lord, have spoken it, and I will make it so. The time is here, so watch for my appearing, as nothing can stop my mighty hand.
 
 158
@@ -2840,7 +2840,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am the Son of David and I will rule the earth from his throne. I am the root of Jesse; hear my voice! I am the Son of Man; fear not and look to me. I am the Son of God, yea, the only begotten of the Father. I am the righteous judge who judges in holiness and righteousness. I am the lamb of God chosen from among the flock, without spot and without blemish. I am the door of the sheep, and no ravenous wolves may enter. I am the bread of life; whoever eats thereof shall never hunger. I am the lamb of God who is worthy to open the seals that bind the scroll.
+I am the Son of David and I will rule the earth from his throne. I am the root of Jesse; hear my voice! I am the Son of Man; fear not and look to me. I am the Son of God, yea, the only begotten of the Father. I am the righteous judge who judges in holiness and righteousness. I am the lamb of God chosen from among the flock, without spot and without blemish. I am the door of the sheep, and no ravenous wolves may enter. I am the bread of life; whoever eats thereof shall never hunger. I am the lamb of God who is worthy to open the seals that bind the scroll.
 
 162
 
@@ -2886,7 +2886,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-The Spirit and the Bride says, come! I am calling you at this last minute. I am calling you back to me. I am your eternal hope who has created you anew in my new birth that I have poured out onto you. I am the high priest forever after the order of Melchizedek. I am right here to strengthen you in your weakness. I am calling with my last breath before the last grain of sand drops, and it is almost here. I am that I am, and the Great I AM has sent me.
+The Spirit and the Bride says, come! I am calling you at this last minute. I am calling you back to me. I am your eternal hope who has created you anew in my new birth that I have poured out onto you. I am the high priest forever after the order of Melchizedek. I am right here to strengthen you in your weakness. I am calling with my last breath before the last grain of sand drops, and it is almost here. I am that I am, and the Great I AM has sent me.
 
 165
 
@@ -2919,15 +2919,15 @@ Every idle word spoken has been written down. There is no secret that can be kep
 I will repay, and I will take vengeance and establish justice for the wronged. I have a sharp two-edged sword proceeding from my mouth, and nothing and nobody can stop me, as I am King of Kings and Lord of Lords. Who can separate you from the love of God that is in me? I did not pay for your sins and give you life eternal to unleash wrath and condemnation on you, my faithful. Nothing and nobody can separate us, and soon you will look on my Father and me with your own eyes. Though you have built great trust and faith in me, never having seen me with your own eyes, soon you will see, and you will know as you are known. Who is he that troubles you? Will he not come to nothing and his evil works returned to him double? Evil men have treasured up great wrath, yea, great wrath for abusing my Father’s creation, and I will repay, saith the Lord.
 Stand before me and continue to separate yourself from this evil, dying world and allow my atoning work to wash over you, cleansing you to the uttermost. Behold! I make all things new, and your sins and iniquities I will remember no more. So come out of your own works and take up my works, for in so doing you will bring wholeness to your own souls. Fear not the wicked! For soon their works will disperse as dust before a great wind, and I will make all things clean and new. There is great reward for my faithful and chosen; and soon, yea, very soon you will reap the rewards for your works if you faint not.
 Stand for me to the very end, as he who loses his life in me shall find life and will reap great joy and salvation and rejoicing forevermore before my Father. I have made you kings and priests before my Father, as I am the eternal high priest forever after the order of Melchizedek. Stand firm in my grace and know that very soon the door shall close, just as God shut Noah and his treasures inside the Ark. So too will I assemble you unto myself in the heavens. There is an open door that no man can open or close, and I will receive you to myself, my Bride. So watch for me as time is nearly up.
-I am the faithful Lord.
-I am the way, the truth, and the life. I am the head of the body.
-I am the bridegroom to the bride, and I say come!
-I am he who dies no more, for it is impossible that death should hold me.
-I am he who has called you to glory, virtue, and truth.
-I am the Lord Jesus Christ, the son of God manifest in the flesh who has died for your sins.
-I am he that has been resurrected the third day to die no more.
-I am he that God has received into the heavens as my apostles and disciples watched me go into the clouds.
-I am the eternal high priest forever after the order of Melchizedek.
+I am the faithful Lord.
+I am the way, the truth, and the life. I am the head of the body.
+I am the bridegroom to the bride, and I say come!
+I am he who dies no more, for it is impossible that death should hold me.
+I am he who has called you to glory, virtue, and truth.
+I am the Lord Jesus Christ, the son of God manifest in the flesh who has died for your sins.
+I am he that has been resurrected the third day to die no more.
+I am he that God has received into the heavens as my apostles and disciples watched me go into the clouds.
+I am the eternal high priest forever after the order of Melchizedek.
 
 167
 
@@ -2973,7 +2973,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am your living Lord and savior, Jesus Christ. I am the righteous judge who weighs all in the balance. I am the root of Jesse who will sit on the throne of David in my approaching Kingdom. I am the son of God who came in the flesh and was crucified for your sins, taking your place in judgment. I am the son of man prophesied of old. I am he that walks amongst the seven lampstands. I am the light of the world. I am the bread of life. I am he from whose belly flows rivers of living waters. I am he who has made you anew and created you afresh. Remain steadfast, my faithful, for your redemption is nearer than you imagine.
+I am your living Lord and savior, Jesus Christ. I am the righteous judge who weighs all in the balance. I am the root of Jesse who will sit on the throne of David in my approaching Kingdom. I am the son of God who came in the flesh and was crucified for your sins, taking your place in judgment. I am the son of man prophesied of old. I am he that walks amongst the seven lampstands. I am the light of the world. I am the bread of life. I am he from whose belly flows rivers of living waters. I am he who has made you anew and created you afresh. Remain steadfast, my faithful, for your redemption is nearer than you imagine.
 
 170
 
@@ -3057,12 +3057,12 @@ You have been warned, and though I still seek to deliver you from your destructi
 You will experience great famine, great war, great destruction. The red armies will pursue, torment, and destroy many of you; and it will come to pass that you will be surrounded by dangers and destruction. He who is not taken captive into torment and eventual death will fall by the sword; he who does not fall by the sword will meet the wild beasts, who will kill many; he who does not perish by the wild beasts will succumb to famine, and the ways of death shall be multiplied on the land.
 Great tribulation, calamity, destruction will come to you instantly, and mighty waves of the sea will come upon your nation. A mighty nation shall you never be again, yet a remnant will still be saved. Whosoever calls on the name of the Lord shall be saved, but he who loves his life to the end will have his part in the lake of fire, and you will share in Satan’s torment and punishment because you have held to his dying world to your last stubborn breath, and you will certainly perish with this dying world. Turn to me while there is still yet time so that I may save you and your families from the coming calamity. Just as a multitude received salvation on the day of Pentecost many years ago in the first few minutes of this age, so too shall a multitude be saved in the last few minutes of this age, and my invitation still stands for a very short time longer.
 The evil that is coming will not respect women or children or the elderly or the infirm. No, that evil will consume all it can into great perdition and agony. Run to me while there is still yet time, as the clock is almost ready to stop, and there will be time no more. Satan will be cast into the earth shortly, and his kingdom will be unleashed to the fullest on your world, and he has great wrath because he knows he has but a short time. Turn to me while you still can to escape the coming evil.
-I am the Lord of Lords and King of Kings.
-I am he that walks amongst the seven lampstands and commands the seven angels of the seven churches.
-I am he that commands the armies of heaven, as my Father has put their command in my hands.
-I am the Word made flesh who dwelt among you.
-I am the root of Jesse, and my kingdom has no end.
-I am the son of God come in the flesh to atone for the sins of all, if only all would accept.
+I am the Lord of Lords and King of Kings.
+I am he that walks amongst the seven lampstands and commands the seven angels of the seven churches.
+I am he that commands the armies of heaven, as my Father has put their command in my hands.
+I am the Word made flesh who dwelt among you.
+I am the root of Jesse, and my kingdom has no end.
+I am the son of God come in the flesh to atone for the sins of all, if only all would accept.
 Those who have accepted my grace and have been faithful will rule with me in my kingdom and partake of my throne, as I have made you kings and priests before our God. There is great reward for you treasured in the heavens; only stand firm and faithful just a few minutes more.
 
 175
@@ -3096,10 +3096,10 @@ ways of the Lord; in my knowledge, I am superior, for my technologies are mighti
 Who is he among you that falsely speaks in my name? You claim to know me, to represent me; some of you even think you can command me to do your very bidding and bring material gain to yourselves by your own good works, which are nothing more than filthy rags. How can you speak for me when you know me not? How can you speak for me when I have not given you the words? How can you speak for me to my people when I have not sent you? No, you have sent yourselves, peddling your corrupt wares for greedy base gain and for the adoration of men that you so desperately crave. You fool! Depart from me, as I never knew you!
 You false prophets, who declare me Lord in name only; you false prophets, who speak great lies against your own souls; you shall utterly perish, and I will spew you out of my mouth. Therefore, repent! Return to me and I will return to you. Come out from among your idols and depart from your accursed cults and come to me and make me your Lord! Oh, that you would accept my salvation; yet you persist in your sins and excuse your own guilt as you quote my sacred Word from an empty heart, a heart full of adultery and fornication as you run to your idols. Who will save you from my wrath when you have led astray my people for your own base gain? Had you made me Lord as your lying mouths have declared, I would have saved you from your sins and made you whole in me. I would have pastored the hurts the evil one inflicts on you. I would have given you a path and a purpose and sent you on the earth with mouths full of blessings and truth as you would have led my people to me.
 Think not that I need your help, as I am the true Lord of heaven and earth, and I am King of Kings and Lord of Lords. Those I have ordained in ministry are given a great honor to speak for me and care for my flock, an honor that I will reward with eternal treasures; yet, you have exchanged me for a false version of Christ. Another Jesus have you made for yourselves; you have loved the spirit of antichrist, and you have sinned eternally against your own souls by declaring me absent from my own Church that I purchased with my own blood, a sin you shall not recover from. Truly, all of these things and more will come on you in my wrath unless you humble yourselves before me and truly make me Lord by repenting in sackcloth and ashes. Do not rationalize away my words as you play semantics with my speech! Repent! Seat yourself in sackcloth and ashes and weep over your iniquities, and I will receive you to me and restore you to your reward that I would otherwise bestow on another.
-I am the righteous Lord.
-I am the savior of the world, even King of Kings and Lord of Lords.
-I am he who walks among the seven lampstands and who commands the seven angels of the seven churches.
-I am the lamb who was slain from the foundation of the world, and in me is life eternal.
+I am the righteous Lord.
+I am the savior of the world, even King of Kings and Lord of Lords.
+I am he who walks among the seven lampstands and who commands the seven angels of the seven churches.
+I am the lamb who was slain from the foundation of the world, and in me is life eternal.
 
 177
 
@@ -3112,16 +3112,16 @@ The BITTER SWEET
 
 I hold the keys to death and hell, and my Father has shared his throne with me, that I may share my throne with my faithful, called, and chosen. I walk with my people and I talk with my people, and I am the true shepherd who shepherds that flock my Father has given me. You are the apple of my eye, my faithful, and you are the apple of my Father’s eye, and for this time and hour have you been restored to righteousness and true holiness.
 The hour approaches, and you should cease from your own works and watch for my appearing, for it is about to come on the world as I gather you from the four corners of the earth. Truly, truly, I will gather my true sheep into my barn before the storms come that will destroy this present evil world, for Satan’s kingdom will be torn asunder and totally destroyed to make way for the righteous Lord who will rule the earth from the throne of David in righteousness and true holiness, and I will greatly empower my bride in the coming kingdom, for they are my kings and priests, and they shall rule in true righteousness and holiness, for my reward is in my hand for the faithful.
-I am your strength and salvation, and you are sealed in me.
-I am the bread of life!
-I am worthy to open the books and loose the seals.
-I am the true lord of heaven and earth.
-I am the King of Kings and Lord of Lords.
-I am the righteous Lord.
-I am the savior of the world, the King of Kings and Lord of Lords.
-I am he who walks among the seven lampstands and who commands the seven angels of the seven churches.
-I am the lamb who was slain from the foundation of the world.
-I am the true shepherd who shepherds that flock my Father has given me.
+I am your strength and salvation, and you are sealed in me.
+I am the bread of life!
+I am worthy to open the books and loose the seals.
+I am the true lord of heaven and earth.
+I am the King of Kings and Lord of Lords.
+I am the righteous Lord.
+I am the savior of the world, the King of Kings and Lord of Lords.
+I am he who walks among the seven lampstands and who commands the seven angels of the seven churches.
+I am the lamb who was slain from the foundation of the world.
+I am the true shepherd who shepherds that flock my Father has given me.
 
 178
 
@@ -3169,7 +3169,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-of their salvation is at hand, as Jacob shall be saved and a remnant of Jacob will accept me as their Lord, as all the chosen become one new man. I have sent many across the earth, heralding my arrival. Though many of my people have been deceived and are lukewarm, my spirit shall awaken in many, and many shall return to me. My appearing is at hand. Stand strong and shout my arrival and shout my words of salvation to all. The time is almost at hand, and silence is on the deep as the hosts of heaven await the trumpet blast that is nearer than you can imagine. Yet, a very short time remains, and many more shall yet be saved, so faint not. I am he who pastors my church and has given gifts unto men. I am the great and mighty Lord, slain from the foundations of the world. I am he who gave his life for the flock, the living Christ whom God has raised from the dead. I am the Word made flesh who dwells among you. I am the only begotten son of God come in the flesh, even the mighty Messiah of the Israel of God. I am near, and my appearing is at hand. I am the righteous judge who is worthy to open the seals. I am the lamb of God, slain for the sins of my people. I am the sinless savior who saves to the uttermost. I am a man acquainted with much grief and sorrows, yet my joy remains full. I am the living Lord, the righteous shepherd. I am the one prophesied of by all the prophets and I have the keys to death and hell, and the Father has put
+of their salvation is at hand, as Jacob shall be saved and a remnant of Jacob will accept me as their Lord, as all the chosen become one new man. I have sent many across the earth, heralding my arrival. Though many of my people have been deceived and are lukewarm, my spirit shall awaken in many, and many shall return to me. My appearing is at hand. Stand strong and shout my arrival and shout my words of salvation to all. The time is almost at hand, and silence is on the deep as the hosts of heaven await the trumpet blast that is nearer than you can imagine. Yet, a very short time remains, and many more shall yet be saved, so faint not. I am he who pastors my church and has given gifts unto men. I am the great and mighty Lord, slain from the foundations of the world. I am he who gave his life for the flock, the living Christ whom God has raised from the dead. I am the Word made flesh who dwells among you. I am the only begotten son of God come in the flesh, even the mighty Messiah of the Israel of God. I am near, and my appearing is at hand. I am the righteous judge who is worthy to open the seals. I am the lamb of God, slain for the sins of my people. I am the sinless savior who saves to the uttermost. I am a man acquainted with much grief and sorrows, yet my joy remains full. I am the living Lord, the righteous shepherd. I am the one prophesied of by all the prophets and I have the keys to death and hell, and the Father has put
 all things in heaven and earth into my mighty hands.
 
 181
@@ -3188,17 +3188,17 @@ The Word of the Lord came upon me. Hear my voice, my little ones, and come to my
 Oh, man, why do you forsake your Lord? Why have you turned from my ways? Yet, you will say, I have not turned from your ways; I am he the Lord has called. Verily, I have called, and you did respond for a season, a season of youth with great excitement. Some of you were taken to where the wolves dwell, and many of you have been led astray through good words, fair speeches, and lying tongues that are soon to be stopped.
 Remember your first love, and repent; confess your sins to me, as I am always ready to cleanse your sins in my atoning blood.
 Hear my voice, my children, as many voices sound similar and many false Christs try to counterfeit my voice. Verily, I do care for and pastor my church with my own hand, that I may present you to God pure as a virgin and dressed in fine white linen, with the stains of your sins forgiven, removed, and forgotten as I have cast them into the deepest depths, never to rise again. Yet, many of you are distracted and even enchanted by this present evil world. They have attacked with their sorceries through the serpent’s bite, but understand that though a serpent bite you, no harm shall come to you, for my Father’s seal cannot be broken. Focus your attention on me, his only begotten son, whom he gave willingly to atone for your sins that we may be reunited, never to separate again. Let me heal you; let me heal you to the uttermost and remove your scars so that you are sound and whole before me. Follow my ways and follow my Word, for:
-I am the Word made flesh who dwells amongst you.
-I am the bread of life, and whosoever eats thereof shall never hunger again.
-I am he whose kingdom is not of this world, and my reward is with me for my faithful and chosen.
-I am he who walks amongst the seven lampstands and commands the seven angels of the Church.
-I am the holy one of God.
-I am your intercessor.
-I am he who tries the hearts of man.
-I am always ready to cleanse your sins in my atoning blood.
-I am the righteous judge.
-I am the very Christ foretold from the beginning.
-I am the son of God come in the flesh.
+I am the Word made flesh who dwells amongst you.
+I am the bread of life, and whosoever eats thereof shall never hunger again.
+I am he whose kingdom is not of this world, and my reward is with me for my faithful and chosen.
+I am he who walks amongst the seven lampstands and commands the seven angels of the Church.
+I am the holy one of God.
+I am your intercessor.
+I am he who tries the hearts of man.
+I am always ready to cleanse your sins in my atoning blood.
+I am the righteous judge.
+I am the very Christ foretold from the beginning.
+I am the son of God come in the flesh.
 
 182
 
@@ -3209,12 +3209,12 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he who gave my sinless blood for the sinners, that they may inherit eternal life.
-I am the son of God come in the flesh.
-I am the good shepherd.
-I am he who came to my own and was rejected by my own.
-I am the very Christ, chosen by my Father from the foundations of the world.
-I am that I am.
+I am he who gave my sinless blood for the sinners, that they may inherit eternal life.
+I am the son of God come in the flesh.
+I am the good shepherd.
+I am he who came to my own and was rejected by my own.
+I am the very Christ, chosen by my Father from the foundations of the world.
+I am that I am.
 My children, I tell you truly that I have outstretched my hand to a dying world for many Jubilees now, and my hand shall not always be outstretched in mercy and grace, though mercy and grace are ever with me. I have called many and many have refused. However, the ones I have called and chosen and sanctified and washed and cleansed and healed, those very ones will stand before my judgment seat and carry away great reward for their faithfulness.
 Though I have many works for you yet to accomplish and though you have done much for me and my name, I desire your full heart over your works. I desire that you turn to me and depart from your sins. Come clean to me as your Lord is at the ready with my healing hand outstretched that I may make you clean as the fresh snow. Though my hands were pierced, my atoning blood poured from them and from my body to the last drop. I gave my all so that you may live before our Father for all eternity.
 Verily, I didn’t atone for one sin, verily I didn’t atone for a few sins, verily I didn’t atone for many sins, but I atoned for all sins for all time. If you will but respond to me when I convict your hearts through my mighty spirit. Do you not understand that I have no desire to condemn you? There is one who has that desire and lusts for your demise and accuses you day and night before my Father, though I am your intercessor. He is cast down and defeated, yet why do you elevate the thief to a lofty place in your hearts when I have complete and utter victory over him and his kingdom that is soon to come to naught. Be still and be at peace and come to me with a humble heart. Know ye not that if you would judge yourselves, you would not be judged? Ask me to show you your life, as I will reveal many things to you so you may confess your faults and be made whole.
@@ -3277,11 +3277,11 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am the King of King and Lord of Lords, and a name has been given me above every name, that at the name of Jesus Christ should all heaven and earth bow the knee.
-I am the Prince of Peace, and outside of me there is no peace.
-I am he who has given you rest, that you may rest in me and find shelter in my grace.
-I am he who walks among the seven candlesticks, who commands my Father’s angels, and all things in heaven and earth are in my hands, as my Father gave them to me in my victory over the evil one until my enemies be made my footstool.
-I am your Lord and your redeemer, and I am the good shepherd that has been crowned with all glory, and I hold life eternal in my hands for those who will but humble themselves and ask.
+I am the King of King and Lord of Lords, and a name has been given me above every name, that at the name of Jesus Christ should all heaven and earth bow the knee.
+I am the Prince of Peace, and outside of me there is no peace.
+I am he who has given you rest, that you may rest in me and find shelter in my grace.
+I am he who walks among the seven candlesticks, who commands my Father’s angels, and all things in heaven and earth are in my hands, as my Father gave them to me in my victory over the evil one until my enemies be made my footstool.
+I am your Lord and your redeemer, and I am the good shepherd that has been crowned with all glory, and I hold life eternal in my hands for those who will but humble themselves and ask.
 Declare me Lord! Fear not, my little children, as it is the last times and a great multitude shall be saved out of the coming tribulation. Whosoever calls on the name of Jesus Christ shall be saved, and I will heal them and reward them for their faithfulness. Truly, I walk among you, and what great thing has the Lord planned that he has not told his prophets before they come to pass? I tell you plainly, hearken to my voice, as very little time remains before the sound of the last trump. Even the angels stand ready in the heavens above, waiting on the trumpet blast! Your full redemption is at your door, so fear not and cleave to me, for your life is hid in me and is about to be revealed.
 
 187
@@ -3300,9 +3300,9 @@ The faithful shepherd says to the faithful: Verily, verily I say to you, depart 
 For my Father is a loving God and my Father’s love cannot be conquered. In me, the righteous Lord, resides all fullness that the Father has given me. He has given all things into my hands and as Pharaoh elevated Joseph and gave into his hands all of Egypt, so my Father has elevated me and given all things in heaven and in earth into my hands. He has given me a name above all names, that at the name of Jesus should every knee bow, both on heaven and earth and every tongue shall confess my Lordship both in heaven and earth.
 I have given you eternal life and I have made a path for you to escape the wilderness and to escape that approaching great day of wrath, so faint not! Do not grow weary in well doing, yet stand before me, and I will continue to draw you into my presence. You are seated in the heavenlies and will take part in my throne as I take part in my Father’s throne. I have many crowns and many blessings that are stored up for you, my faithful people. Stand before me and be perfect in me. Depart from your sins and allow the times of refreshing to blow the chaff from your life. In me is eternal life and in me is the new creation, the new man, even Christ in you the hope of Glory! Depart from evil and depart from sin. Continue to declare me among the heathen, as there are still people to save in this final hour. Continue to declare my name, for there is no other name under heaven where men may be saved. Take comfort in the rest that I have given you and lay your burdens at my feet, for my burden is easy, and my yoke is light.
 For the faithful (those who have overcome sin and adversity by my atoning blood) to the faithful, I say: I have great reward treasured up for you in my Father’s house. Eye has not seen, ear has not heard, and neither has it entered into the hearts of men the things that are prepared for them. I will reward you richly with many crowns so stand for me and be faithful to my voice and my words for in those words you will find life, am I not the Word made flesh who has dwelt among you?
-I am the righteous judge
-I am the good shepherd who shepherds the flock
-I am your healing and I will heal you to the uttermost
+I am the righteous judge
+I am the good shepherd who shepherds the flock
+I am your healing and I will heal you to the uttermost
 I was born of a woman and made flesh, though no sin is in me.
 I was crucified for your sins and truly, no man took my life, but I willingly laid it down for the love I have for my Father’s sons and daughters.
 
@@ -3316,7 +3316,7 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 I was raised to life the third day, for it was impossible that death should hold me. My Father broke the bonds of death with the power of my resurrection
-I am the first fruits of the dead.
+I am the first fruits of the dead.
 Soon you will meet me in the air and the very pains of death will release those who have fallen asleep and then you which are alive and remain shall be caught up together and forevermore will you be with me. I am the Son of God and in my hand is my reward for my faithful. Stand strong, my children, and faint not. Be strong in the Lord and the power of my might, for only my Father is greater than I. I have heard your petitions, and I have received you as my own.
 Be patient and continue to labor for me. For soon you will be home with me, and forevermore we will be about our Father’s business. Be strong and be of good cheer. I know many of you see the tribulation and calamity approaching and many of you have seen the armies of the wicked one crossing your borders. Fear them not! Fear them not, even though they would destroy you if only they could, but they are not here for my faithful, as the great escape and the great gathering will yet save my faithful ones from the hour of trying and temptation that is about to come on the entire world. Rest in my Love, knowing that I will never leave you or forsake you, just as my Father never left me or forsook me in my hour of sacrifice. For your salvation is secure in me, therefore push into me as I will strengthen you yet even more than I have. Great is the Mystery of godliness!
 
@@ -3348,9 +3348,9 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am the Lord of Lord and King of Kings.
-I am the Son of Man, the righteous Lord, the true Lord who is faithful and true, and not one of you can be plucked from my hands.
-I am the good shepherd, and none is able to pluck my sheep from my hand.
+I am the Lord of Lord and King of Kings.
+I am the Son of Man, the righteous Lord, the true Lord who is faithful and true, and not one of you can be plucked from my hands.
+I am the good shepherd, and none is able to pluck my sheep from my hand.
 All that the Father has given to me, I shall present to him, and I desire to present you to the Father without fault, blemish, or blame, clothed in white linen dipped in my blood. The only way any man can stand before me is to accept my sacrifice for your sins. Tarry not with the sinners! Tarry not; tarry not! Come out from among them and separate yourselves from their sins. Confess your own sins to me and confess the sins of your fathers to me, for they pass on to you. Live the life I have given you, and walk the path I have laid for you, as I have called you by name. Turn not to the left and turn not to the right, but give attention and singleness of mind to my words. Yet, many shall refuse my invitation, and many shall perish. Have faith in me, as the love of God shall save all who call on the name of the Lord. Have faith in me, and rivers of living waters shall flow from your belly as your sins are washed clean and your spirit is made whole. Come to me while there is yet time; confess my name; make me Lord, for there is salvation in no other name given under heaven whereby men may be saved.
 
 191
@@ -3379,11 +3379,11 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am the son of God who was made after the flesh yet took only part as I remained sinless. I was crucified under Pontius Pilate and died as your sinless Passover. No man took my life, but I gave it freely. I was raised the third day and ascended into the heavens. I am the Son of God who came in the flesh. I am the righteous Shepherd who has lost none given to me. Hear my words and doubt them not. Do not set my words aside as if that is a light thing. As many as I love, I chasten. As many as I love, I rebuke. If the Father deals with you as sons, then blessed you are, because a father chastens his children so that they may stand firm and upright and may receive great reward. Rewards of faithfulness and many crowns shall be placed on their heads for obedience. Turn to me with your whole heart and hear my words. I see your works, yet I desire your full heart over your works. Warn my people of the coming storm, that they may make themselves ready and pure for my impending great escape, when I will gather my Body to me and hide them in my Father’s house from the day of trouble. Depart from sin and return to me, Jesus Christ, my people, as I have called you and desire to make your election sure.
-I am the merciful Lord, and I have been given a name above every name. I am the preeminent one, slain from before the foundations of the world. I am the righteous judge, your Lord and redeemer, Christ Jesus!
-I am the Son of God who was made after the flesh yet took only part as I remained sinless.
-I am the Son of God who came in the flesh.
-I am the righteous Shepherd who has lost none given. I am all of these and much more.
+I am the son of God who was made after the flesh yet took only part as I remained sinless. I was crucified under Pontius Pilate and died as your sinless Passover. No man took my life, but I gave it freely. I was raised the third day and ascended into the heavens. I am the Son of God who came in the flesh. I am the righteous Shepherd who has lost none given to me. Hear my words and doubt them not. Do not set my words aside as if that is a light thing. As many as I love, I chasten. As many as I love, I rebuke. If the Father deals with you as sons, then blessed you are, because a father chastens his children so that they may stand firm and upright and may receive great reward. Rewards of faithfulness and many crowns shall be placed on their heads for obedience. Turn to me with your whole heart and hear my words. I see your works, yet I desire your full heart over your works. Warn my people of the coming storm, that they may make themselves ready and pure for my impending great escape, when I will gather my Body to me and hide them in my Father’s house from the day of trouble. Depart from sin and return to me, Jesus Christ, my people, as I have called you and desire to make your election sure.
+I am the merciful Lord, and I have been given a name above every name. I am the preeminent one, slain from before the foundations of the world. I am the righteous judge, your Lord and redeemer, Christ Jesus!
+I am the Son of God who was made after the flesh yet took only part as I remained sinless.
+I am the Son of God who came in the flesh.
+I am the righteous Shepherd who has lost none given. I am all of these and much more.
 
 193
 
@@ -3433,13 +3433,13 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 with all your heart, soul, mind, and strength and your neighbor as yourself? Why do you set at naught your neighbor and erroneously judge them unworthy of eternal life as you stand there in silence? Have I not given you my mysteries to declare to all? Stand strong in me, and I will empower you to reach those whom the evil one would yet try to hide from my saving hand. Open your mouth and declare all the words of this life and the very words to speak I will give you. Share your love until the last second, for that last second steadily approaches as the trumpet is about to call my children home.
-I am the faithful Lord who fails not.
-I am the light of the world, and whosoever calls on my mighty name shall not perish in the unquenchable flames; on such, the second death has no power.
-I am the mightiest among the mighty, and all things in heaven and earth are given into my hands until restoration is complete, when my enemies are my footstool. I am the way, the truth, and the life.
-I am King of Kings and Lord of Lords.
-I am the Son of God, the Son of Man, the Christ: Jesus the Nazarene. I am holy, so be ye holy.
-I am the high priest forever after the order of Melchizedek. I am he who kept himself pure in the face of all temptation.
-I am the eternal Lord, and there is salvation in none other but me!
+I am the faithful Lord who fails not.
+I am the light of the world, and whosoever calls on my mighty name shall not perish in the unquenchable flames; on such, the second death has no power.
+I am the mightiest among the mighty, and all things in heaven and earth are given into my hands until restoration is complete, when my enemies are my footstool. I am the way, the truth, and the life.
+I am King of Kings and Lord of Lords.
+I am the Son of God, the Son of Man, the Christ: Jesus the Nazarene. I am holy, so be ye holy.
+I am the high priest forever after the order of Melchizedek. I am he who kept himself pure in the face of all temptation.
+I am the eternal Lord, and there is salvation in none other but me!
 
 196
 
@@ -3473,14 +3473,14 @@ you as a wolf in sheep’s clothing, waiting for his satanic kingship to come in
 Run to me, my children, as great wrath and great destruction shall come upon your nation, and many nations shall soon be shaken to the ground. Oh, that you would turn to me and understand your times. Out of the coming destruction the false one will rise, as he seduces many with a lying tongue and will show many false wonders and lying signs. Even now his armies have walked into your cities and filled your streets. Fear them not. Some of them will achieve salvation. The chaff shall be given to the fires. Great trouble shall come on this world suddenly. Suddenly shall their calamity fall on them, and they shall not escape. It is the last hour. Be ye not partakers of her plagues; come out of her, my people, as the great whore has been judged, and her calamity shall come upon her in one hour. The great merchants who trafficked her sorceries shall fall into great distress, and the smoke of her burning will be for all to see. The world’s merchants will bewail her calamity from afar off.
 But I have plans for you, my people. Your life is hid in me. Though I have tested you for a season, I have refined you as gold in a refiner’s fire. Come out of her! Awake to righteousness and sin not. Purify yourselves in my atoning blood. Weep and howl over your transgressions; turn from your sins with your full heart. I am he that tries the hearts of men; you can hide nothing from me. Come to me without deceit. Come to me honestly and openly, and I will sup with you and will set a place at my table for you. Soon the Bride shall be gathered, sooner than you may think.
 When my Bride is caught up in the air, the restrainer shall be loosed, and no evil thing shall be withheld from natural man. And they will openly follow the lusts and evils in their hearts; therefore, great judgment shall come upon them, and it shall not be remedied. Turn to me, Jesus Christ! Call upon my name while I may be found! Even during the great day of destruction, my name will bring salvation to those who call. Come to me now and come out from her, as time is almost out. The armies of heaven are readied, waiting for the trumpet.
-I am the chief cornerstone they reject, thinking they are free.
-I am the way, the truth and the life: the true way to the Father that brings salvation and freedom.
-I am he that tries the hearts of men; you can hide nothing from me.
+I am the chief cornerstone they reject, thinking they are free.
+I am the way, the truth and the life: the true way to the Father that brings salvation and freedom.
+I am he that tries the hearts of men; you can hide nothing from me.
 ACTS
 2:16 But this is that which was spoken by the Prophet Joel,
-2:17 A nd it shall come to pass in the last days (saith God) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
-2:18 And on my servants, and on my handmaidens, I will pour out in those days of my Spirit, and they shall prophesy:
-2:19 A nd I will shew wonders in heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke.
+2:17 A nd it shall come to pass in the last days (saith God) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+2:18 And on my servants, and on my handmaidens, I will pour out in those days of my Spirit, and they shall prophesy:
+2:19 A nd I will shew wonders in heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke.
 
 198
 
@@ -3491,8 +3491,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-2:20 The Sun shall be turned into darkness, and the Moon into blood, before that great and notable day of the Lord come.
-2:21 And it shall come to pass, that whosoever shall call on the Name of the Lord, shall be saved.
+2:20 The Sun shall be turned into darkness, and the Moon into blood, before that great and notable day of the Lord come.
+2:21 And it shall come to pass, that whosoever shall call on the Name of the Lord, shall be saved.
 
 199
 
@@ -3552,9 +3552,9 @@ Though the Lord will send his prophets during the time of Jacob’s trouble, whe
 The spirit of prophecy has descended on my people over the world, as I promised in holy scripture.
 ACTS
 2:16 But this is that which was spoken by the Prophet Joel;
-2:17 A nd it shall come to pass in the last days (saith God) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
-2:18 And on my servants and on my handmaidens I will pour out in those days of my Spirit, and they shall prophesy:
-2:19 A nd I will shew wonders in heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke:
+2:17 A nd it shall come to pass in the last days (saith God) I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+2:18 And on my servants and on my handmaidens I will pour out in those days of my Spirit, and they shall prophesy:
+2:19 A nd I will shew wonders in heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke:
 
 202
 
@@ -3565,8 +3565,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-2:20 The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come.
-2:21 And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
+2:20 The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come.
+2:21 And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
 
 203
 
@@ -3654,8 +3654,8 @@ JUNE 28, 2024
 Hear my words and gather yourselves to the voice of your Lord, King, Messiah, and High Priest, even Yeshua HaMashiach. Why do you doubt my words and their order of events, even the rhema details of my words? For I have clearly stated regarding mystery Babylon and her approaching end:
 REVELATION
 17:13 These have one mind, and shall give their power and strength unto the beast.
-17:16 And the ten horns which thou saw upon the beast, these shall hate the whore, and shall make her desolate, and naked, and shall eat her flesh, and burn her with fire.
-17:17 F or God hath put in their hearts to fulfill his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
+17:16 And the ten horns which thou saw upon the beast, these shall hate the whore, and shall make her desolate, and naked, and shall eat her flesh, and burn her with fire.
+17:17 F or God hath put in their hearts to fulfill his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
 Yet so many of you lack proper scriptural discernment and many of you still have faith in natural man. You have faith in natural man’s abilities, natural man’s power, natural man’s solutions, and natural man’s lies, have you not read that all men are liars my children? Hear me and understand: There is no solution given by natural man that does not lead to the dragon, and the dragon will rule the earth for a short time once the restrainer is removed, and even now is the god of this world, is this not written plainly in scripture?
 Why do you still doubt my words, my loved ones and those for whom I long? Believe my words and understand that natural man is powerless, natural man has no abilities of himself to fight Satan, natural man’s solutions end in futility and serve Satan’s purposes, and there is no truth in natural man and your world leaders. For natural man has been corrupted since the beginning at the Garden of Eden by the serpent and goes astray from the womb even born dead in trespasses and sins, and for such a purpose was I, Jesus the Nazarene, manifested that I might undo the works of the devil in those who accept my offer of peace and salvation.
 Behold! All world leaders work together behind the scenes, and they all serve Satan. You do not have elected leaders, but you are given a false choice because you never selected those you think you elect by vote, but they are presented to you for your vote that they may gain your consent and your consent is sin because you cannot willingly choose the lesser evil and stand for me at the same time, that is delusion. Repent! Come out from among her and be ye separate! I, even the Lord Jesus Christ in the English tongue and Yeshua HaMashiach in Hebrew, have not provided a political solution and no world leader will arise for I have given none, and those who believe otherwise are sadly deceived. World leaders are all in collusion, and they will not break rank because your leaders all serve Satan either secretly, or openly. Do you still desire good words and fair speeches? Have you not been lied to enough, having lived lives of satanic deception since birth? Why do you yet seek world leaders instead of me, Christ Jesus? For I am your Lord, King, Messiah, and High Priest that Yahweh has provided, and I have purchased the earth and even the lives of the redeemed in my atoning sinless blood. For as your High Priest, I gave myself as your sinless and perfect Passover lamb. And I am Lord of Lords and King of Kings, and I am coming as the Lion of the
@@ -3733,14 +3733,14 @@ The BITTER SWEET
 Judean or Gentile, (whether bond or free) will be fully recreated as one new man in me Christ Jesus and will stand in glorified liberty for eternity! For I am a life giving spirit, for so has my Father made me. And I am that the great I AM has made me forevermore. And now so to you will be made like me in a glorified body, a body fashioned in reward that will embody your accomplishments in your stand for me in this evil day. Not one of your efforts will go unrewarded: For God is not unrighteous, that he should forget your work, and labor of love, which you showed toward his Name, in that you have ministered to the Saints, and yet minister.
 Your true selves are hidden in me, even your savior and Messiah. Forevermore will you be with me, and you will be of one mind and heart with me Yeshua HaMashiach and even with Yahweh, for the Great El Shaddai, even the Almighty God will be all in all for his purposes will be fulfilled in you, my called, chosen and faithful. I am coming for you, my Bride, are you ready? Do you have oil in your lamps? Have you washed yourselves fully in my atoning blood? Have you stopped washing one another’s feet?
 Watch! Look! Listen! Watch for my appearing and encourage each other because Satan would hide my appearing if such a thing were possible. Look to me, the author and finisher of your faith, for in the twinkling of an eye will you be changed and fashioned like me forevermore. Listen to my Words and be ready for my appearing and above all be obedient out of Love for Yahweh and for me to keep my holy Word in pureness of heart, knowing that your redemption no longer draws near but is here.
-I am one in unity and purpose with my Father, and soon you will be one with us
-I am the perfect Passover Lamb for all time
-I am approaching. Do not listen to the scoffers who mock you
-I am coming for you, only remain steadfast another second or two
-I am your eternal sacrifice
-I am a life giving spirit, for so has my Father made me
-I am that the great I AM has made me forevermore
-I am coming for you, my Bride, are you ready?
+I am one in unity and purpose with my Father, and soon you will be one with us
+I am the perfect Passover Lamb for all time
+I am approaching. Do not listen to the scoffers who mock you
+I am coming for you, only remain steadfast another second or two
+I am your eternal sacrifice
+I am a life giving spirit, for so has my Father made me
+I am that the great I AM has made me forevermore
+I am coming for you, my Bride, are you ready?
 
 213
 
@@ -3865,14 +3865,14 @@ The BITTER SWEET
 
 are ten kings who will receive power to rule for one hour, for so it is given, will give their power and consent to this beastly trio.
 Behold! I will give you a basic order of events so you will know the times you live. Some of these events happen in succession, and some happen simultaneously, and they are as follows!
-• Mystery Babylon is destroyed as world war breaks across the earth, and even now they are staging their militaries and are planning a very well coordinated attack on Mystery Babylon. Do not believe your leaders, nor the media, for they are a pulpit of liars who are part of the attack.
-• The beast from the sea, and the beast from the earth, and the dragon will rise from the ashes of war.
-• These two evil beasts will stand in opposition to the 2 witnesses who will prophesy for 42 months, at which time they will be killed and will ascend into the heavens in three and a half days and so their resurrection will be.
-• A s the temple is built, war on the saints continues 42 months and the mark of the beast is established, administered and enforced under pain of death. Then the turning point, when the abomination of desolation is carried out and the beast from the earth will seek to kill all who would come to me, even Yeshua HaMashiach during this time.
-• The beast from the earth declares himself God and turns against the people to kill them, for he betrays the people in similar fashion as Antiochus Epiphanes.
-• A nd I looked, and lo, a Lamb stood on the mount Zion, and with him a hundred and forty-four thousand, having his Father’s Name written in their foreheads. (Blessed are the dead which die in the Lord, from henceforth, yea, saith the Spirit, that they may rest from their labors, and their works do follow them.)
-• M y 144,000 will shelter my people and take them to places of safety to weather the storm as the land is cleansed from all unrighteousness, even the evil tares. For had I not shortened the days no flesh would survive, and so I will shelter many in the wilderness. This will happen in part so that a remnant of mankind is saved.
-• T he 144,000 come to earth clothed in garments that I will specifically tailor for them, and they are unbreakable and will be mighty and powerful and no element of the enemy will gain ascendancy, and so the purposes of Yahweh will be fulfilled.
+• Mystery Babylon is destroyed as world war breaks across the earth, and even now they are staging their militaries and are planning a very well coordinated attack on Mystery Babylon. Do not believe your leaders, nor the media, for they are a pulpit of liars who are part of the attack.
+• The beast from the sea, and the beast from the earth, and the dragon will rise from the ashes of war.
+• These two evil beasts will stand in opposition to the 2 witnesses who will prophesy for 42 months, at which time they will be killed and will ascend into the heavens in three and a half days and so their resurrection will be.
+• A s the temple is built, war on the saints continues 42 months and the mark of the beast is established, administered and enforced under pain of death. Then the turning point, when the abomination of desolation is carried out and the beast from the earth will seek to kill all who would come to me, even Yeshua HaMashiach during this time.
+• The beast from the earth declares himself God and turns against the people to kill them, for he betrays the people in similar fashion as Antiochus Epiphanes.
+• A nd I looked, and lo, a Lamb stood on the mount Zion, and with him a hundred and forty-four thousand, having his Father’s Name written in their foreheads. (Blessed are the dead which die in the Lord, from henceforth, yea, saith the Spirit, that they may rest from their labors, and their works do follow them.)
+• M y 144,000 will shelter my people and take them to places of safety to weather the storm as the land is cleansed from all unrighteousness, even the evil tares. For had I not shortened the days no flesh would survive, and so I will shelter many in the wilderness. This will happen in part so that a remnant of mankind is saved.
+• T he 144,000 come to earth clothed in garments that I will specifically tailor for them, and they are unbreakable and will be mighty and powerful and no element of the enemy will gain ascendancy, and so the purposes of Yahweh will be fulfilled.
 I Am Yeshua HaMashiach and I have sent these words by my servant, and by my servant have my words been sent
 Look to the skies my faithful Church for I am approaching and will take you into my Father’s house where I have prepared a place for you and you rule with me as Kings and Priests, of which my Kingdom knows no end, so comfort yourselves with these Words.
 
@@ -4029,10 +4029,10 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-end. I will give to him that is a thirst, of the well of the water of life freely. He that overcometh, shall inherit all things, and I will be his God, and he shall be my son I am he whom Yahweh has given all things in heaven and earth I am he who shall rule them with a rod of iron I am he treads in fury the wine press of the fierceness and wrath of El Shaddai I am he who has on my vesture, and on my thigh a name written, King Of Kings, And Lord Of Lords, and
-my time has COME I am your strong tower and rock of defense, for I am the Rock of Ages, even your Lord and savior. I am the refiner who sits with billow and hammer in hand to stoke the fires of purification removing the
-dross I am he who hammers and folds the precious metals of Yahweh’s treasure house, of which his many
-treasures are the priceless treasures that are the sons of God into glorious perfection I am he in whom you have believed I am he who is faithful and true, who has kept that which you have committed to me against this day I, Yeshua HaMashiach have sent these Words by my servant, and by my servant have these Words been sent. Hearken to my Words for in them are eternal life.
+end. I will give to him that is a thirst, of the well of the water of life freely. He that overcometh, shall inherit all things, and I will be his God, and he shall be my son I am he whom Yahweh has given all things in heaven and earth I am he who shall rule them with a rod of iron I am he treads in fury the wine press of the fierceness and wrath of El Shaddai I am he who has on my vesture, and on my thigh a name written, King Of Kings, And Lord Of Lords, and
+my time has COME I am your strong tower and rock of defense, for I am the Rock of Ages, even your Lord and savior. I am the refiner who sits with billow and hammer in hand to stoke the fires of purification removing the
+dross I am he who hammers and folds the precious metals of Yahweh’s treasure house, of which his many
+treasures are the priceless treasures that are the sons of God into glorious perfection I am he in whom you have believed I am he who is faithful and true, who has kept that which you have committed to me against this day I, Yeshua HaMashiach have sent these Words by my servant, and by my servant have these Words been sent. Hearken to my Words for in them are eternal life.
 
 231
 
@@ -4118,11 +4118,11 @@ Why do you seek to return to sleep my called and chosen? What I have promised I 
 I Yeshua HaMashiach have sent these words by my servant, and by my servant have these words been sent!
 I counsel all of the unrepentant to accept salvation by grace before the door to the Ark is sealed shut. You have no time, so make me Lord now knowing that Yahweh raised me from the dead!
 And all who are left to the refiners fire I counsel to call on my name to the end and accept not their mark, and you will be saved into everlasting joy!
-I am he who is coming in fiery vengeance
-I am he who is worthy to loosen the seals.
-I am he who protects, fights for, and resurrects those who never had a voice
-I am sent by the great I AM
-I am coming in the clouds and all shall see my glory
+I am he who is coming in fiery vengeance
+I am he who is worthy to loosen the seals.
+I am he who protects, fights for, and resurrects those who never had a voice
+I am sent by the great I AM
+I am coming in the clouds and all shall see my glory
 Time is up!
 
 236
@@ -4225,13 +4225,13 @@ And when the times are accomplished so it will be, even as it is written and as 
 And so I, even Jesus the Nazarene, even the Lamb of God, even Christ Jesus who is also the Lion of the Tribe of Judah will come to judge and make war on the Dragon and all his kingdom will be utterly smashed never to rise again. And the beast and the false prophet will be cast alive into the lake of fire and Satan will be chained with a great chain in the bottomless pit for a thousand years and so my millennial reign will begin and in righteousness will my rule be. Behold! I bring my bride and a host of kings and priests with whom I will rule the earth in righteousness and I will rule the nations with a rod of iron. So have great hope my children for the consummation of all things is at hand and this seven year period of great trouble, even Jacob’s trouble will be followed by my righteous rule and Yahweh will be all in all.
 And I saw a new heaven, and a new earth: for the first heaven, and the first earth were passed away, and there was no more sea. And I John saw the holy City, new Jerusalem coming down from God out of heaven, prepared as a bride adorned for her husband. And I heard a great voice out of heaven, saying, Behold, the Tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
 I Yeshua HaMashiach have sent these Words by my servant, and by my servant have these Words been sent!
-I am the Lion of the Tribe of Judah
-I am King of Kings and Lord of Lords!
-I am he who speaks of things to come as if they have already occurred
-I am the Word made flesh who dwells among you by my holy spirit that is born within you forevermore
-I am forevermore the high priest after the order of Melchizedek
-I am he who is a light to the Gentiles and is the savior of the nations for all who have made me Lord
-I am he whom the Great I AM has sent for the salvation of Israel, for a remnant of Jacob will yet be saved.
+I am the Lion of the Tribe of Judah
+I am King of Kings and Lord of Lords!
+I am he who speaks of things to come as if they have already occurred
+I am the Word made flesh who dwells among you by my holy spirit that is born within you forevermore
+I am forevermore the high priest after the order of Melchizedek
+I am he who is a light to the Gentiles and is the savior of the nations for all who have made me Lord
+I am he whom the Great I AM has sent for the salvation of Israel, for a remnant of Jacob will yet be saved.
 
 242
 
@@ -4311,11 +4311,11 @@ The BITTER SWEET
 
 multitude of multitudes, will come to me through Jacob’s trouble, and they will reap great reward, and they are heirs of eternal salvation and into eternal joy will they go and Israel will be saved! So fear not my children, and worry not for your loved ones and have faith in me Christ Jesus, for I am able to save to the uttermost all who call on my name, and not one who is ordained to eternal life can be plucked from my hand, and I will save many from the eternal fires, even pulling them from the flames.
 I Yeshua HaMashiach have sent these words by my servant, and by my servant have these words been sent!
-I am he who gives wisdom to the wise, that the wise man may yet be wiser
-I am the Lamb of God who is coming as the Lion of the Tribe of Judah
-I am sinless, and yet I paid an unimaginable price for your deliverance and freedom
-I am he who sits as the smith who folds and forges the precious metals of Yahweh’s treasures
-I am able to save to the uttermost all who call on my name, and not one who is ordained to eternal life can be plucked from my hand
+I am he who gives wisdom to the wise, that the wise man may yet be wiser
+I am the Lamb of God who is coming as the Lion of the Tribe of Judah
+I am sinless, and yet I paid an unimaginable price for your deliverance and freedom
+I am he who sits as the smith who folds and forges the precious metals of Yahweh’s treasures
+I am able to save to the uttermost all who call on my name, and not one who is ordained to eternal life can be plucked from my hand
 Watch for my appearing, for the times are here. The time remaining is given only to serve Yahweh’s purposes my children, so do not allow yourselves to be soothed to sleep yet once more, even ignoring my words of wisdom and many warnings.
 A wise man sees the plague and will hide him self, as for fools they go on still, and suffer harm. Have I not called you to Yahweh’s ever enduring wisdom?
 And I am he who will hide you where you could never hide yourselves, for I will hide you away in Yahweh’s throne room even in the heaven of heavens where you will enter into the pleasure of your Lord and the banquet halls of the heavens will celebrate you all, for sooner than you imagine you will see with your own eyes the majestic, eternal splendor that awaits you in your inheritance. Continue still in my love, for you are greatly beloved of my Father and you are the apple of my eye, of whom I am not ashamed to call you my brethren.
@@ -4414,13 +4414,13 @@ The BITTER SWEET
 for in truth the fallen ones do tremble and fear grips their vile hearts for they know their long coming judgment is upon them. For you Secret Babylon in your fornication and whoredoms, you sleep with the enemy.
 Behold! The great whore, even Secret Babylon a nation of many states, is that woman showed to John the Revelator, even that woman drunken with the blood of the Saints, and with the blood of my Martyrs and your judgment is upon you. For in such manner, you have lived deliciously while your leaders destroyed other nations with your consent and with your money you are as guilty as these Edomite tares you have sold your posterity for the pleasures of sin. You financed and supported and secretly coordinated the overthrow of many nations! And all nations who have been overthrown by the red armies with the backing of the Red Shield have been culled and persecuted and tortured and starved and murdered in the most grievous manner. The saints who were in these lands you have martyred even untold millions. And all the while you danced and used Satans sorceries in celebration thinking it will never come to you, even the drugs given you for your deaths. Secret Babylon, you have sacrificed an entire generation of children who are now military aged men who could have defended you but instead now live on the streets of your disgusting cities and are hopelessly addicted to these sorceries and they have become zombies of the walking dead as these drugs rot their flesh even while they are still alive.
 Now comes your judgment in full Secret Babylon and you are a spectacle for all to see, yet you continue in ignorance and blindness saying in your hearts that calamity will never come on you, even though you have cheered as your leaders brought calamity to the shores of countless nations in their unjust wars of which you were entertained as you watched on television. And so you have been divided amongst your enemies and they already enjoy the spoils of war even before the missiles have fallen. For Secret Babylons defeat is guaranteed and given by Yahweh himself and nothing will stop her utter ruin and never again will she rise.
-I am calling, I am calling, will you hear me?
-I am he who sheds many tears in utter heartbreak for what will come of those who ignore my voice
-I am Jesus the Nazarene
-I am he whom the eternal God has sent to rescue you before calamity and judgment strikes
-I am that great Lord of Lords and King of Kings!
-I am coming to save the faithful from wrath for so are the promises of Yahweh in my peace treaty
-I am he who is coming for my faithful, called, and chosen, even my Body and my Church and even my Bride
+I am calling, I am calling, will you hear me?
+I am he who sheds many tears in utter heartbreak for what will come of those who ignore my voice
+I am Jesus the Nazarene
+I am he whom the eternal God has sent to rescue you before calamity and judgment strikes
+I am that great Lord of Lords and King of Kings!
+I am coming to save the faithful from wrath for so are the promises of Yahweh in my peace treaty
+I am he who is coming for my faithful, called, and chosen, even my Body and my Church and even my Bride
 I, Yeshua HaMashiach have sent these words by me servant and by my servant have these words been sent.
 Hear my voice my children and heed my call and learn of me and accept my wisdom. Do not despair for the birth pangs are non-stop now, but this judgment is not for you. I am nearer than your next breath and my appearing is here. Suddenly will you find yourselves in Yahweh’s throne room where you will be fully recreated in your Lord, Christ Jesus, and you will forever be like me and will forever be with me and I love you greatly my called, chosen, and faithful. Prepare yourselves to come to your full inheritance that is in my hand, only faint not and watch always and then suddenly I AM!
 
@@ -4503,11 +4503,11 @@ And so the eternal God, even Yahweh who needs no counselor and in his everlastin
 I counsel one and I counsel all, even Christ Jesus your eternal Lord! Receive my Words and gain wisdom and understanding, for your true selves are an eternal mystery hid in God himself that is about to be fully revealed. You will very soon find yourself standing in the very throne room of Yahweh, even our Father, and he eagerly awaits and longs for your presence right now, even from eternities past. And the great halls in heaven are prepared for your arrival and the tables are set and the wedding of the Bridegroom to his Bride is at hand and my bride has made herself ready and I will receive them to myself and forevermore will they ever be with me in everlasting covenant and they will do many mighty works of which has not entered into the hearts of men at this time.
 And so Yahweh the great eternal and everlasting God has readied and prepared many things for you, and I, Christ Jesus the elevated and ascended Lord have your reward in my hand even for my faithful. And the host of heaven eagerly await your presence and into heavenly and everlasting reward you will now go. So fear not because your lives are now to be revealed and at any second now the last trumpet will sound, are you ready for my appearing my little ones? For it is nearer than you imagine and time between then and now is inconsequential and serves the everlasting purposes of Yahweh the great eternal God!
 Do you not know? Or have you not heard, that the everlasting God, the Lord has created the ends of the earth? He neither faints, nor is weary and there is no searching of his understanding
-I am he who speak of things that are to come as if though they have happened
-I am he who has called you to eternal life and sealed you with the seal of the everlasting God!
-I am the chief cornerstone of which the entire building rests
-I am Yeshua HaMashiach and I will yet save Jacob!
-I am the just and justifier of all who believe on my mighty name!
+I am he who speak of things that are to come as if though they have happened
+I am he who has called you to eternal life and sealed you with the seal of the everlasting God!
+I am the chief cornerstone of which the entire building rests
+I am Yeshua HaMashiach and I will yet save Jacob!
+I am the just and justifier of all who believe on my mighty name!
 Behold! I have sent these Words by me servant and by my servant have these words been sent!
 Keep yourselves pure my faithful, and don’t allow your hands to get dirty! Continue to wash yourselves in my atoning blood that you may stand before me newly created and pure as a virgin for I have washed you in my atoning blood. Look to the skies! My signs are given worldwide now and they are in the heavens and they are all over the earth and the birth-pangs are non-stop. Your full redemption is here, only stand firm and faithful to the end, for yours is an everlasting end of which eternity await!
 
@@ -4588,14 +4588,14 @@ The BITTER SWEET
 times will sudden redemption fall on the redeemed so let the redeemed of the earth say so whom he has ransomed from the hand of the enemy. And do not allow the thief to steal your joy for what bride mourns the day of her wedding, even a glorious, holy wedding day of which none can corrupt nor trouble.
 So take comfort in my Words of comfort and quit living as those who are cast down in shame and guilt. For you my bride, are those whom I have made spotless and without fault before the very throne of Yahweh, and you are the first-fruits from the dead. Even though those of you who are alive and remain will never taste death, you were born dead in trespasses and sins. And you will have passed directly from death (of which in dying you would have died), straight into life eternal of which you already live the down payment, even that great seal of Yahweh wherewith you are sealed for that sudden day of redemption. For you are born again of incorruptible seed and you are the sons of the most High God, even sons of the Almighty God!
 Therefore, take comfort and be at rest and work with me in this victory lap of the ages. For there has never been a time on the earth such as this and never will there be a time such as this again. Even a time where the eternal sons of God consciously await their first breath of eternal life as babes of eternity into the everlasting presence of the everlasting God where they will marry their everlasting Lord in everlasting covenant, and... suddenly, shall it be!
-I am he who offered myself once, all, and forevermore as the perfect Passover Lamb
-I am about to gather the faithful to myself in the safety of the heavens in the throne room of Yahweh
-I am he who cares for your souls and he who tends to your continued growth that you may grow as a righteous plant
-I am he whom Yahweh has given as gardener and caretaker of his most sacred garden of the souls of the redeemed
-I am the great eternal Lord of Lords and King of Kings, even your righteous Lord
-I am he who will take my inheritance from the hands of the squatters who have no claim
-I am the Word of God made flesh and every Word of God will indeed come to pass
-I am Yeshua HaMashiach who is also your chief shepherd who is about to appear!
+I am he who offered myself once, all, and forevermore as the perfect Passover Lamb
+I am about to gather the faithful to myself in the safety of the heavens in the throne room of Yahweh
+I am he who cares for your souls and he who tends to your continued growth that you may grow as a righteous plant
+I am he whom Yahweh has given as gardener and caretaker of his most sacred garden of the souls of the redeemed
+I am the great eternal Lord of Lords and King of Kings, even your righteous Lord
+I am he who will take my inheritance from the hands of the squatters who have no claim
+I am the Word of God made flesh and every Word of God will indeed come to pass
+I am Yeshua HaMashiach who is also your chief shepherd who is about to appear!
 I, Yeshua HaMashiach have sent these Words by my servant, and by my servant have these Words been sent!
 And so I encourage you my loves to faint not and remain steadfast until the very sudden end that will forever make an end of your time on earth in your current state. Suddenly, and in the twinkling of an eye will you find yourselves standing in the throne room of Yahweh in everlasting joy and you will fully understand and know even as you are fully understood and known. And so promise will meet fulfillment in everlasting joy and everlasting glory that awaits you and all will be fulfilled in you in the twinkling of an eye, and suddenly shall it be. Remain in me my children for I love you greatly and am not ashamed to call you my brethren.
 
@@ -4692,14 +4692,14 @@ And many more will be raised to life at the conclusion of Daniels seventieth wee
 And so is the everlasting gospel and evermore will all things be fulfilled in righteousness, holiness, and truth. For nothing will enter the gates of my kingdom that is defiled or evil or that loves and makes lies but in truth and everlasting righteousness will my rule be. So hear the voice of Yeshua HaMashiach even all to whom these words are sent. Your everlasting Lord has not forgotten the promises of Old nor have any testaments come to nothing. But all will be fulfilled and indeed, much has already been fulfilled so look to those things for hope. For as it is written so shall it be done and so is the everlasting gospel in these times of fulfillment.
 I Yeshua HaMashiach have sent these Words by my servant and by me servant have these words been sent.
 
-I am the promised seed of the woman
-I am your peace treaty
-I am the ascended Lord of Lords who is the lamb of God
-I am he in whom the lion will lie down with the lamb
-I am the lion of the tribe of Judah
-I am the Lamb of God
-I am King of Kings and Lord of Lords
-I am the High Priest forever after the order of Melchizedek.
+I am the promised seed of the woman
+I am your peace treaty
+I am the ascended Lord of Lords who is the lamb of God
+I am he in whom the lion will lie down with the lamb
+I am the lion of the tribe of Judah
+I am the Lamb of God
+I am King of Kings and Lord of Lords
+I am the High Priest forever after the order of Melchizedek.
 So I give you to understand that the fulfillment of all things is here and is already underway. Those of my bride and body will serve and live newness of life alongside those who will be resurrected in righteousness at the resurrection of the just after Daniel’s seventieth week. And in righteousness and peace will we live in harmony with God’s creation and there will be an enduring and everlasting peace for the children of promise, and they shall serve one another, and they shall serve me, and they shall serve Yahweh and in peace and harmony will Yahweh’s creation be restored.
 
 269
@@ -4813,7 +4813,7 @@ And even though times of judgment, great destruction, war, famine, pestilence an
 For Yahweh is the great everlasting God who sits on high and will now move to reveal himself to his creation and I, Christ Jesus, am the everlasting Lord of Lords and King of Kings of whose kingdom there is never an end. And I will send my two prophets, even my two candlesticks who will prophecy, and I will send my 144,000 to save alive those to whom they are sent in the wilderness in a place chosen by Yahweh and of Yahweh will they be fed and cared for. And the everlasting God has so declared of old. For it is Yahweh who speaks of things that are yet to be as though they have already happened for so are the ways of The Everlasting God who has given me The Everlasting Gospel to be declared over the earth so that everlasting salvation may come to all who will call on my mighty, everlasting name.
 I Yeshua HaMashiach, even Christ Jesus, have sent these words by my servant and by my servant have these words been sent.
 
-I am the Word of God made flesh who dwells amongst you I am he who sits with billow in hand stoking the flames of purification I am he who removes the unbelief I am he who removes your faithless ways I am he who fully purifies you of all manner of fleshly corruption
+I am the Word of God made flesh who dwells amongst you I am he who sits with billow in hand stoking the flames of purification I am he who removes the unbelief I am he who removes your faithless ways I am he who fully purifies you of all manner of fleshly corruption
 
 276
 
@@ -4824,8 +4824,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he who has called you to virtue and truth
-I am standing over you, offering you a hand back on your feet. Will you accept my offer?
+I am he who has called you to virtue and truth
+I am standing over you, offering you a hand back on your feet. Will you accept my offer?
 And know that I am he whom the great everlasting and eternal God has given all things into my mighty hands and has given me a name above every name, that at the name of Jesus should all knees bow in heaven, in earth and under the earth. And I am he who is the Lion of the tribe of Judah and in righteousness I do come to judge and to make war and execute judgment on the fallen ones, and the hour of judgment is now here. And so I counsel those who dwell on the earth to follow Yahweh’s words and Kiss the Son, lest I become angry, and you perish from the way, when my wrath is kindled but a little.
 Blessed are all they who put their trust in me, even Yeshua HaMashiach and all who call on my name to the end shall be saved, even all those who are heirs of salvation from before the foundations of the earth were laid.
 
@@ -4873,7 +4873,7 @@ The BITTER SWEET
 faithful, even the first-fruits, for those whom I gather to myself at the sound of the last trump are the first fruits from the dead. And now it is time for them to fully know, even as all of you are fully known of me and my Father. And so I announce my appearing and I counsel you my faithful to continue to make yourselves ready for my appearing, for now are the times as judgment begins at the house of God. And suddenly, will it occur.
 Behold! Fear not the coming storms that many of you see gathering: storms of war, storms of approaching calamity, storms of natural disasters that are surely about to take place. Understand that nothing will in any way harm you, though many live in temptations and spiritual warfare that is won fully in me, Christ Jesus. Behold! The time of my appearing for my faithful is here and as the birth pangs are non-stop and suddenly will they be gathered and snatched from judgment that is not for them.
 
-I am calling you to your home in the heavens where your rewards await I am calling you home to stand before your Lord, so you may receive of the things done in the body I am Yeshua HaMashiach I am the bridegroom who is approaching to gather my bride for the day of marriage is at hand I am coming for you, my loves, and the time is now I am he has who empowered you to become heirs of salvation and heirs of eternal life I am coming for you to snatch you into the safety of the heavens and the times are now
+I am calling you to your home in the heavens where your rewards await I am calling you home to stand before your Lord, so you may receive of the things done in the body I am Yeshua HaMashiach I am the bridegroom who is approaching to gather my bride for the day of marriage is at hand I am coming for you, my loves, and the time is now I am he has who empowered you to become heirs of salvation and heirs of eternal life I am coming for you to snatch you into the safety of the heavens and the times are now
 
 I Yeshua HaMashiach have sent these words by my servant, and by my servant have these words been sent.
 Stay at the ready and do not leave your posts and continue to watch for me. Do not be faithless, but watch and understand that the signs of my appearing are worldwide, and then suddenly will you stand in the everlasting presence of the great I AM! Are you ready?
@@ -4962,7 +4962,7 @@ But many have turned to me, and it is to you, my Bride and my Church and my Body
 And so, my children, understand the times in which you live because you can no longer live careless lives. Events are already underway and the times are perilous. Hide yourselves, my little ones, from the judgments that are not for you, and understand that even the waters are starting to turn bitter. I ask you, my children, to remain in the safety that I have provided for you and come out from amongst them now and be fully separate so that you do not share in their plagues. These events I speak of are not for you, my children, but are given to wake the last of those who will come to salvation before Yahweh closes the door of the ark at the gathering of my Church at the last trumpet, and very few there are that remain.
 So hearken to my voice, my children, and come out, come out, come out from among her. Emergency 911 alert, for the day is at hand. Calamities are already unleashed on the earth, yet I have provided safety and peace for those who await my shout, and the trumpet is about to sound. Therefore, remain in the safety of the havens I have prepared for you, and calamity that is not intended for you will pass over you in the same way the angel of death passed over the children of Israel in Egypt. Except, suddenly on the earth you will no longer be, and in a fallen state will you never be again, for your redemption no longer draws near, but is fully upon you. Therefore, stay at the ready.
 
-I am speaking to the faithful and I ask your hearts in full obedience to my words. I am known after the flesh no more. I am the last Adam.
+I am speaking to the faithful and I ask your hearts in full obedience to my words. I am known after the flesh no more. I am the last Adam.
 
 285
 
@@ -4973,11 +4973,11 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am a life-giving spirit.
-I am Yeshua HaMashiach.
-I am Lord of Lords and King of Kings.
-I am your everlasting high priest forevermore after the order of Melchizedek.
-I am who the Great I AM has sent for the fulfillment of all things.
+I am a life-giving spirit.
+I am Yeshua HaMashiach.
+I am Lord of Lords and King of Kings.
+I am your everlasting high priest forevermore after the order of Melchizedek.
+I am who the Great I AM has sent for the fulfillment of all things.
 I have sent these words by my servant, and by my servant have these words been sent.
 I counsel all who hear these words to listen fully to my instruction and understand that now is the time and suddenly will fulfillment fully come. I require the full hearts of my faithful, so continue to purify yourselves in my atoning blood and confess your sins to me so that I may fully purify you in my atoning blood. Do not be fooled by your senses, because Secret Babylon is blind and deaf and willingly ignorant of her impending judgment, which is already underway and cannot be stopped. Therefore, share not in her blindness that you suffer not of her plagues, and be separate from among them so you are fully ready for the appearing of your everlasting Lord. Behold, my Bride! The Bridegroom approaches, so keep your lamps filled, wicks trimmed and lit, in earnest expectation of your approaching Lord, for now are the times of gathering, and the times of gathering are now.
 
@@ -5242,8 +5242,8 @@ The BITTER SWEET
 
 Shaddai, the Almighty God, will create a new heaven and a new earth wherein dwells righteousness, and you will be given access to that holy city prepared and adorned by Yahweh himself as a bride prepared for the bridegroom, and from the tree of life you will eat. And as it is written: He that overcomes, shall inherit all things, and I will be his God, and he shall be my son.
 I, Yeshua HaMashiach, am he who has sent my words by my servant, and by my servant have my words been sent for the obedience of all who read. And I have revealed the everlasting gospel, for the times of its revealing are now.
-I am he who is coming for those in Christ and will rescue the faithful in my church from the refiner’s fire and the wrath to come.
-I am he who separates the wheat from the tares, and not one of you can be plucked from my hand.
+I am he who is coming for those in Christ and will rescue the faithful in my church from the refiner’s fire and the wrath to come.
+I am he who separates the wheat from the tares, and not one of you can be plucked from my hand.
 Stand for me, my tribulation saints, and come to me, oh, Israel, for I am Yeshua HaMashiach, your true Messiah, and I have given you great hope and great strength. And many of you will do mighty works for me, and not one of you will go unrewarded, for even the tiniest things you do during times of great trouble bring eternal reward, of which glory your sufferings are not worthy to be mentioned; so call on my mighty name, my people! Salvation and great reward are in my hand for those who overcome, for so Yeshua HaMashiach promises for the faithful.
 Behold, the times are now!
 
@@ -5441,11 +5441,11 @@ The BITTER SWEET
 
 INTO THE SEA! And as you do so faithfully, I will grant many signs miracles and wonders to be done at the hands of the faithful.
 Be bold and courageous, for I am the Lion of the Tribe of Judah who fights for you. I implore you and constrain you by the love of God that is in Christ Jesus your Lord to willingly endure for my namesake and bring the lost home to our Father even in this last time. I implore you my chosen set the example for you are my faithful and chosen whom I have forged in affliction that in the weakness and brokenness of your flesh you might manifest the power of the great eternal God, even Yahweh himself as you go in service and great authority to those I send you to serve.
-I am with you every step of the way
-I am one in unity and purpose with my Father
-I am the everlasting Lord of salvation
-I am he whom Yahweh has made Lord of Lords and King of Kings
-I am the Lion of the Tribe of Judah who fights for you
+I am with you every step of the way
+I am one in unity and purpose with my Father
+I am the everlasting Lord of salvation
+I am he whom Yahweh has made Lord of Lords and King of Kings
+I am the Lion of the Tribe of Judah who fights for you
 I, Yeshua HaMashiach, have sent these words by my servant, and by my servant have my words been sent for the obedience and encouragement of all who these words find. And my Words will find the eyes, ears, and hearts of those they are sent. Stand strong my loves for your reward is at your doorstep, only faint not. Rest in my love and rest in my works, having ceased from your own and now is the time of your redemption and now is the time of your full salvation, and I am coming for you my loves. Hear me and hear my words, I will not leave you nor forsake you my faithful ones in Christ, even all those who are obedient to my voice. Look to the skies, for my appearing is about to break across the skies at a time and hour you least expect. I am coming for you my faithful, are you ready?
 
 315
@@ -5540,11 +5540,11 @@ The BITTER SWEET
 
 in holy perfection and you will never be corrupted again for you will be recreated incorruptible.
 And forevermore will you serve Yahweh, and forevermore will you be with me where ever I go. And I will restore to you all that the locust have eaten and all that Satan has stolen from you. You will be recompensed fully for your works and labor of love that you have showed to my name in that you have ministered to the saints and do minister. We will eat of the fat of the land during my millennial reign where you will rule with me as my kings and priests and a righteous rule will it be forevermore.
-I am he who has cleansed you fully from sin in my atoning blood
-I am your perfect Passover who has offered my self to Yahweh the great eternal God
-I am he who has opened the eyes of the humble in heart
-I am the smith who billows the coals that you may come to your full inheritance in me, Christ Jesus
-I am sent by the great I AM and I AM COMING FOR YOU!
+I am he who has cleansed you fully from sin in my atoning blood
+I am your perfect Passover who has offered my self to Yahweh the great eternal God
+I am he who has opened the eyes of the humble in heart
+I am the smith who billows the coals that you may come to your full inheritance in me, Christ Jesus
+I am sent by the great I AM and I AM COMING FOR YOU!
 I am he who has sent my words by my servant that I have raised from his youth and set apart for my purposes and hidden in my quiver for such a time as this and by my servant have my eternal words been sent. And the words of the everlasting gospel will be preserved through the coming calamities and will find the eyes, ears, and hearts of those they are sent because I, Yeshua HaMashiach, even Christ Jesus do declare these things with the full authority and power of Yahweh himself who has shared his throne with his only begotten son that by my mighty hand the creation may be restored forever more to it’s creator who is blessed forevermore, yea and Amen.
 
 321
@@ -5616,13 +5616,13 @@ And so I come to you my loves, even here in these last fleeting moments before I
 Understand that that great red dragon is allowed to set the stage and moves his pieces into place on the worlds board. Understand that events are already in play and that the current course of the world is unsustainable and will absolutely result in utter and sudden calamity and many of these events that are aligning will come together in perfect convergence.
 For so is the timing of Yahweh’s plans, and every Yod and thorn of a Yod will come together in perfect execution and harmony, for anything that Yahweh sets his hand results in eternal perfection and eternal righteousness because even those who choose corruption and the eternal flames of punishment are righteously and perfectly judged and sentenced.
 And so I say my loves, keep your wicks trimmed and maintain yourselves at the highest purity in my righteous and cleansing atoning blood. Keep your wicks trimmed by keeping yourselves in the purity of thought that my eternal scripture brings for the eternal God, even Yahweh himself is he who has sent his Word and healed them.
-I am he who has called you to glory and virtue
-I am he who has given you an everlasting purpose in me, your eternal Lord
-I am he who is in perfect unity and purpose with Yahweh, even the great I AM
-I am he who teaches you the ways of salvation whereby you are saved to the uttermost
-I am sinless for all times and forevermore because I always do my Father’s will
-I am the last Adam
-I am a life giving spirit who is also the captain of your salvation.
+I am he who has called you to glory and virtue
+I am he who has given you an everlasting purpose in me, your eternal Lord
+I am he who is in perfect unity and purpose with Yahweh, even the great I AM
+I am he who teaches you the ways of salvation whereby you are saved to the uttermost
+I am sinless for all times and forevermore because I always do my Father’s will
+I am the last Adam
+I am a life giving spirit who is also the captain of your salvation.
 And I am he who sends the words of my everlasting gospel by my messenger who I have raised and commissioned for this very purpose and by my messenger have the words of my everlasting gospel been sent.
 Truly, truly, I am he whom Yahweh has shared his throne until my enemies be made my footstool, even until I hand the fully redeemed creation back into the hands of the everlasting God of righteousness, that truly Yahweh may be all in all and that all may be yea and amen.
 And it is I, Yeshua HaMashiach who has sent the words of the everlasting gospel for the obedience of
@@ -5740,9 +5740,9 @@ And we will enjoy the fat of the land and the wolf will lie down with the lamb a
 And so it will be that the earth will be repopulated after Daniel’s seventieth week, for had the times not been shortened no flesh would survive. And a remnant of Jacob who will come to me and make me their Messiah and I will eternally receive them to myself as Yahweh has promised and foretold. And so the earth will be repopulated in righteousness and the fullness of Yahweh’s kingdom will be restored where the eternal will dwell amongst the mortal and where the angels will freely move and where the veil and curse of the law are removed forevermore. Many feasts will there be, and many Sabbaths will we celebrate, and the nations will pour into my Kingdom to honor their creator and eternal Lord and the great Eternal God, because the earth will be ruled in righteousness and will stand in honor and love to Yahweh who has created all in the manners of creation he has chosen for each of his creations. And in love and righteousness will the earth be ruled.
 And yet the corruption of natural man will remain and some will depart from the ways of Yahweh and the currents of rebellion will begin to show themselves yet once again. And Satan will be loosed from his prison of torment at the end of my day of rest, for one day with Yahweh is as a thousand years and a thousand years as a day. And Satan will go to gather them together, of whose number will be as the sand of the sea. And they will compass the breadth of the earth, and fire will come down from Yahweh himself to devour all those who would yet once again choose evil and who would attack the camp of the saints.
 But understand that evil will not triumph nor will Satans kingdom come into being ever again and all those who follow his evil ways yet once again will find themselves in that great white throne judgment. Where they will be utterly judged and sentenced forevermore to that eternal lake of torment where Satan himself will be forever bound and cast to the flames in his eternal kingdom of rolling burning putrid brimstone for so are they worthy. They are no kings and they are no gods because they are not able to deliver themselves from my mighty hand and I will bruise Satans head utterly and forevermore and my overcomers will trample on every aspect of the enemies kingdom as it is utterly destroyed.
-I am King of Kings and Lord of Lords.
-I am he who has sent The Everlasting Gospel, having revealed it to my messenger and servant, and by my messenger and servant have the words of The Everlasting Gospel been sent for the obedience of all who will obey the everlasting covenant that I have ratified in my own blood, even The New Testament which encompasses in full all promises and covenants of old that will be fully fulfilled.
-I am he who has been sent by Yahweh himself for the fulfillment of all things and my times have come, and I will save Israel fully and purge them fully from The Synagogue of Satan whose times of judgment, calamity, and distress has come.
+I am King of Kings and Lord of Lords.
+I am he who has sent The Everlasting Gospel, having revealed it to my messenger and servant, and by my messenger and servant have the words of The Everlasting Gospel been sent for the obedience of all who will obey the everlasting covenant that I have ratified in my own blood, even The New Testament which encompasses in full all promises and covenants of old that will be fully fulfilled.
+I am he who has been sent by Yahweh himself for the fulfillment of all things and my times have come, and I will save Israel fully and purge them fully from The Synagogue of Satan whose times of judgment, calamity, and distress has come.
 
 332
 
@@ -5753,11 +5753,11 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am Yeshua HaMashiach whom the Father has sent, commissioned, authorized, and of whom he has shared his throne and authority!
-I am he who sends the Words of my everlasting gospel for obedience of all to whom these Words are sent for in these are words are life and peace to the redeemed, and eternal life are found therein.
+I am Yeshua HaMashiach whom the Father has sent, commissioned, authorized, and of whom he has shared his throne and authority!
+I am he who sends the Words of my everlasting gospel for obedience of all to whom these Words are sent for in these are words are life and peace to the redeemed, and eternal life are found therein.
 And the righteous Judgments of Yahweh and Yeshua HaMashiach have been declared and what has been declared by Yahweh and Yeshua HaMashiach can no one change because these declarations are backed by the throne of Yahweh himself.
 Behold! I am coming in the power and authority of the great I AM and I will rule the kingdom of God until my enemies have been made my footstool at which time I will present the subjected Kingdom to the Father of Lights, that El Shaddai may be all in all and that The Almighty God may make his everlasting abode amongst men and rule supreme in harmony, love and peace forevermore over his creation, and of my rule shall there never be an end for Yahweh has so declared and promised to the Fathers of old, and as it is written so shall it be eternally done in everlasting perfection and splendor.
-I am that the great I AM has made me and all shall be Yea and Amen forevermore, even an eternal Amen where Yahweh creates a new heaven and a new earth and of which the former things will not be mentioned nor come to mind. Amen and AMEN!
+I am that the great I AM has made me and all shall be Yea and Amen forevermore, even an eternal Amen where Yahweh creates a new heaven and a new earth and of which the former things will not be mentioned nor come to mind. Amen and AMEN!
 From Yahweh the Great Eternal God!
 Hear, hear oh Israel, hear the voice of Yahweh, the great and everlasting God of righteousness whom your Father’s knew and of whom they rejected when they rejected my beloved son who was sent for their salvation and even the entire salvation of Adam, my prodigal son, who have multiplied as the sand of the sea. Hear my voice and understand that I AM he who is eternal and changes not, and I AM he with whom all of my promises are always Yea and Amen for there is none greater than your Everlasting God of Righteousness with whom you have to do.
 So understand that although your Father’s rejected their true Messiah whom I sent to them when Judea was ruled by Pontius Pilate preferring instead that he release to them Barabbas. Yet, I am still calling you to accept my beloved son because I AM sending him to you yet once again for your full salvation and now are the times of Jacob’s trouble that shall absolutely issue in Jacob being freed from the Synagogue of Satan whose judgment lingers not.
@@ -5794,10 +5794,10 @@ Nazarene my stumbling block of which all who are faithless shall stumble. And in
 Therefore, Israel harden not your hearts at the sound and sight of my words and let them penetrate deeply into your hearts and depth of being and make not the same mistake your Fathers made of which they will be held to account. Reject not my offer of eternal life that I now extend to you personally yet once again. Come fully to Yeshua HaMashiach in full obedience and wait on your everlasting Lord. For he it is that will come to your rescue and lead you to safety with his mighty host of 144,000 Israelites who are born again amongst the tribes and will have the seal of theLliving God in their foreheads.
 Therefore, my loves, I implore you to turn to your true Messiah for there is no more need of sacrifice because Jesus the Nazarene is also the Lamb of God who is coming as the Lion of the Tribe of Judah and many great and righteous judgments have I given into his hands to accomplish.
 And so understand, that I, Yahweh, the great Eternal God am he who is calling Israel to repentance that they may embrace their true Messiah and that I may yet save you by his mighty hand. Hear my Words Israel and choose life that both you and your seed after you may prosper. And so I counsel you yet once again in my love for you my children: Kiss the Son lest he be angry, and you perish from the way, when his wrath is kindled but a little.
-I AM t he great eternal and everlasting God of Righteousness, even Yahweh the creator of the heavens and earth and there is none like me.
-I AM h e who has sent these words to my beloved people by my mighty messenger of whom I have revealed and sent The Everlasting Gospel to the intent that these Words will find the eyes, ears, and hearts to all those to whom they are sent. And I have chosen my messenger before the foundations of the earth were laid, and I have called, and sanctified, and commissioned him for the revealing of the everlasting gospel that has been revealed in its time.
-I AM t he everlasting God of Righteousness who will save my beloved creation and my beloved people from the fallen ones and into eternity and everlasting peace and joy will they go and a new heaven and new earth will I make for them. And I will make my dwelling amongst them and they shall see my face, and they will walk with me in my fields of safe pasture, and I will hold their hand as they walk with me into all eternity.
-I AM h e who will be all in all. And I will give them to eat of the tree of life and to walk the streets of New Jerusalem and in complete joy and perfection will they forevermore be. And I will wipe away all tears from their eyes: and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things will pass.
+I AM t he great eternal and everlasting God of Righteousness, even Yahweh the creator of the heavens and earth and there is none like me.
+I AM h e who has sent these words to my beloved people by my mighty messenger of whom I have revealed and sent The Everlasting Gospel to the intent that these Words will find the eyes, ears, and hearts to all those to whom they are sent. And I have chosen my messenger before the foundations of the earth were laid, and I have called, and sanctified, and commissioned him for the revealing of the everlasting gospel that has been revealed in its time.
+I AM t he everlasting God of Righteousness who will save my beloved creation and my beloved people from the fallen ones and into eternity and everlasting peace and joy will they go and a new heaven and new earth will I make for them. And I will make my dwelling amongst them and they shall see my face, and they will walk with me in my fields of safe pasture, and I will hold their hand as they walk with me into all eternity.
+I AM h e who will be all in all. And I will give them to eat of the tree of life and to walk the streets of New Jerusalem and in complete joy and perfection will they forevermore be. And I will wipe away all tears from their eyes: and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things will pass.
 
 335
 
@@ -5860,23 +5860,23 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I AM E lohim! Even your mighty creator!
-I AM E l Elyon! Even the Most High God!
-I AM E l Olam! Even The Everlasting God!
-I AM E l Shaddai! Even The Almighty God!
-I AM E l Roi! Because there is nothing hidden from my sight!
-I AM Y HVH Jireh! Because I AM he who provides!
-I AM Y HVH Rapha! The Lord your healer!
-I AM Y HVH Nissi! Because I AM Your Banner!
-I AM Y HVH Shalom! And I have sent Yeshua HaMashiach as your peace treaty between you and I!
-I AM Y HVH Raah! For I AM he who has provided my perfect shepherd, even Yeshua HaMashiach!
-I AM Y HVH Tsidkenu! I am the Lord of Righteousness!
-I AM Y HVH Shammah! Because I am the Lord your God who is forever there for my creation.
-I AM A donai! Because I AM Sovereign over ALL!
-I AM Y HVH because I AM who I AM!
+I AM E lohim! Even your mighty creator!
+I AM E l Elyon! Even the Most High God!
+I AM E l Olam! Even The Everlasting God!
+I AM E l Shaddai! Even The Almighty God!
+I AM E l Roi! Because there is nothing hidden from my sight!
+I AM Y HVH Jireh! Because I AM he who provides!
+I AM Y HVH Rapha! The Lord your healer!
+I AM Y HVH Nissi! Because I AM Your Banner!
+I AM Y HVH Shalom! And I have sent Yeshua HaMashiach as your peace treaty between you and I!
+I AM Y HVH Raah! For I AM he who has provided my perfect shepherd, even Yeshua HaMashiach!
+I AM Y HVH Tsidkenu! I am the Lord of Righteousness!
+I AM Y HVH Shammah! Because I am the Lord your God who is forever there for my creation.
+I AM A donai! Because I AM Sovereign over ALL!
+I AM Y HVH because I AM who I AM!
 And many more names and attributes do I have, so hear my voice that roars as the thunders in the heavens, O’ Israel, because I AM the God of your Fathers that you falsely worship in stubbornness.
-I AM t he God of Abraham that you have forsaken!
-I AM t he God of Jacob even whom you have left to go into the arms of another, and you have run to your false gods even proud of your rebellion. Understand Israel that you are in the grips of the Synagogue of Satan even those who say they are of Israel who lie and are not.
+I AM t he God of Abraham that you have forsaken!
+I AM t he God of Jacob even whom you have left to go into the arms of another, and you have run to your false gods even proud of your rebellion. Understand Israel that you are in the grips of the Synagogue of Satan even those who say they are of Israel who lie and are not.
 Hear my voice O’ Israel, and come to Yeshua HaMashiach in this last time because I am calling you in my love for you and I do extend my grace and mercy to you in this time. But you are a stubborn nation and the stubbornness and hardheartedness of your Fathers you have made your own, and you have rejected the God of your Fathers whom you worship in an unlearned and false manner because my people are destroyed for lack of knowledge, so come to Yeshua HaMashiach and learn of him so that you may yet achieve salvation at his mighty hand.
 O’ Israel, how my heart breaks for you because I took you like a tender plant in a barren wilderness ready to perish and wither away evermore and gave you life and made you a peculiar people unto myself. I entered into many covenants with your Fathers, even covenants they were unable to keep because of the sin and corruption inherent in the blood of Adam. But I AM the Lord Your God who remembers and who has kept my promises and covenants and I will yet fulfill every promise and covenant ever made to mankind even in the face of Yeshua HaMashiach, who is my beloved son Jesus the Christ.
 O’ Israel, will you remain faithless and disobedient? Will you forever join your enemies in their eternal punishment? And so it is that you have been disobedient and you have walked in partial blindness, and I have taken your nation from you and you are no longer led by Yahweh The Great Eternal God. But in your
@@ -5931,10 +5931,10 @@ Any and all who take the mark of the beast, will have forevermore altered the im
 Understand, that my intent is not to be cruel nor unjust to my creation, but my laws of justice are unchanging and unalterable. And so the creation groans and cries to me mightily under the weight of the fallen ones sins and the sins of mankind, and the times to purge and cleanse the earth in judgment from evil has come; although the seeds of rebellion will remain but never again will the enemies kingdom rise. Although Satan will try his last attack in his little season before he is cast evermore to the fires because he is no king, yet his throne will be unquenchable flames of the hottest purity, and they will have no mercy.
 For what do my eternal laws dictate for the disobedient, so call to remembrance that the wages of sin is death, and so Adam sinned and ended his own life in the wages of sin, which is death. Yet the burnt offerings and the sacrifices of old were not enough to fully redeem my prodigal son, and so a perfect sinless man is the only acceptable sacrifice because Adam was perfect and sinless when he sinned.
 So I, even Yahweh the Great I AM, has sent Yeshua HaMashiach as promised as the lamb of God who shed his sinless blood voluntarily to pay the penalty of Moses by shedding his own sinless blood in utter agony that mankind might be redeemed from the curse of the law, even all those who choose to become a new creation in Christ Jesus eternally more because this same Christ Jesus is Yeshua HaMashiach!
-I AM Y ahweh the great eternal God, and I AM that I AM.
-I AM h e who has sent Jesus the Christ, even Yeshua HaMashiach, for the salvation of my creation so hear him and obey his Words as Moses commanded.
-I AM h e who has sent these Words by my messenger and servant that my son Christ Jesus has commissioned and raised for such a purpose at my command because Yeshua HaMashiach always does the will of his Father and we are one in unity and purpose.
-I AM t he Living God who is calling you, O’ Israel, even so that all who are ordained to eternal life may come to the safety of their Chief Shepherd.
+I AM Y ahweh the great eternal God, and I AM that I AM.
+I AM h e who has sent Jesus the Christ, even Yeshua HaMashiach, for the salvation of my creation so hear him and obey his Words as Moses commanded.
+I AM h e who has sent these Words by my messenger and servant that my son Christ Jesus has commissioned and raised for such a purpose at my command because Yeshua HaMashiach always does the will of his Father and we are one in unity and purpose.
+I AM t he Living God who is calling you, O’ Israel, even so that all who are ordained to eternal life may come to the safety of their Chief Shepherd.
 
 342
 
@@ -5946,8 +5946,8 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 So hear my words O’ Israel and come to my son in full repentance and accept his sacrifice, for of a truth should you reject his call there remains no more sacrifice for sin but eternal judgment because you will have willingly and eternally chosen evil over righteousness, and I will give all who make such a choice the full consequences of their decision, yet understand all are free to choose.
-I AM h e who will make all things new!
-I AM T he Father of Lights who will make his abode with men in the new heavens and new earth that I will fully create in righteousness and nothing that is evil will ever enter therein. And I will give that holy city New Jerusalem to my overcomers and all those who come to Yeshua HaMashiach, who is also Jesus the Christ and they will eat of the tree of life and they will have entrance into that holy and perfect city and I will be there God, and they shall be my people forevermore, Yea and Amen.
+I AM h e who will make all things new!
+I AM T he Father of Lights who will make his abode with men in the new heavens and new earth that I will fully create in righteousness and nothing that is evil will ever enter therein. And I will give that holy city New Jerusalem to my overcomers and all those who come to Yeshua HaMashiach, who is also Jesus the Christ and they will eat of the tree of life and they will have entrance into that holy and perfect city and I will be there God, and they shall be my people forevermore, Yea and Amen.
 Kiss the Son, lest he be angry and you perish from the way.
 The times are now.
 
@@ -6031,9 +6031,9 @@ So understand my loves that the hour has come for the dragon to fully rise and f
 Because I am Yeshua HaMashiach who will fully remove peace and safety from the earth until the end of Daniels seventieth week when I establish my Kingdom fully on the earth. Therefore, do not fall for their delusion.
 And I am he who does send these Words by my messenger and servant and by my messenger and servant have these Words been sent.
 Behold! The time has come for your Lord to shine his glory and majesty across the skies for all to see and I will gather all of my faithful in Christ even from the ends of the earth as I appear in the air to gather the faithful in Christ and my appearing will be seen in the skies in like manner as lightning comes out of the East, and is seen into the west, and I will not be denied!
-I am Yeshua Hamashiach who will come to judge and make war on the earth and of my kingdom there will be no end.
-I am that the great I AM has made me and the times has come.
-I am The Lion of the Tribe of Judah and my times have come.
+I am Yeshua Hamashiach who will come to judge and make war on the earth and of my kingdom there will be no end.
+I am that the great I AM has made me and the times has come.
+I am The Lion of the Tribe of Judah and my times have come.
 All will forevermore be, Yea and Amen!
 From Yahweh the great Eternal God:
 Hear, Hear the words of The Everlasting and Eternal God! The times of Jacob's trouble have come on the earth and the times of harvest have arrived. Then suddenly and unexpectedly will my son, Christ Jesus, who is also Yeshua HaMashiach appear in the clouds so both the dead and living in Christ rise from the earth in immortality and incorruption to stand freshly created into all eternity even when they will stand in my very own throne room, even a time that I have yearned and longed for in eternities past.
@@ -6144,9 +6144,9 @@ And so I swear by my own name yet once again that, I YHVH The Great I AM, do swe
 The beast from the earth has enchanted you as your false prophet and he will rise and come to you as your sacrificial lamb who sacrificed himself for Israel and will pretend to be your true Moshiach. When in fact he is polluted by Esau and no Moshiach will ever rise from Dan. Indeed, he comes for Jacob’s destruction but the trap he sets will ensnare those who willingly follow him and so they will be taken forevermore by his lies and they will accept his mark that he will seek to force on the world for its enslavement and destruction.
 And so I say to you O’ Israel bow the knee in obedience to your true Messiah who came to you as the Lamb of God, whom your Father’s rejected on account of Esau. Bow the knee to your Lord of Lords and King of Kings and accept my salvation that I may yet redeem you from the curse of the law because no man is righteous who comes to me through Moses, except the man Christ Jesus who I have changed forevermore, and after the flesh he is no more known. Because, I have glorified him in similar fashion as Pharaoh glorified Joseph and shared his throne, except in the throne he was greater than Joseph and retained his authority.
 Because:
-I AM h e who is from everlasting to everlasting and there is none greater than the Great I AM!
-I AM h e who has sent these Words to my beloved people that I may come to you and remove your partial blindness when your hearts turn fully to your Messiah! Even your true Messiah, Christ Jesus the resurrected and glorified Lord!
-I AM T he Everlasting God of Righteousness who faints not, and I ask, is there anything too hard for my mighty hand to accomplish?
+I AM h e who is from everlasting to everlasting and there is none greater than the Great I AM!
+I AM h e who has sent these Words to my beloved people that I may come to you and remove your partial blindness when your hearts turn fully to your Messiah! Even your true Messiah, Christ Jesus the resurrected and glorified Lord!
+I AM T he Everlasting God of Righteousness who faints not, and I ask, is there anything too hard for my mighty hand to accomplish?
 So I implore you O’ Israel to obey the voice of YHVH even your Elohim who was shepherd to your Fathers by the hand of my servant Moses whom I had rescued when he was drawn from the waters of the Nile to the safety and kingly preparation in Pharaohs house of which he defeated in obedience YHVH!
 
 354
@@ -6158,8 +6158,8 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I AM h e, even YHVH The Great I AM, who swears by my own name and does certify fully in eternal truth that Yeshua HaMashiach did fulfill the law of Moses as the perfect Passover for all time that I provided perfectly with my own hand, so there is no more need for sacrifice.
-I AM Y HVH the great I AM and I swear by my own name that it is I who raised Jesus the Nazarene from the dead after he sacrificed of himself as the lamb of God, even a sacrifice that I accepted for all time and forever more for the redemption of Adam as a new man in Christ Jesus who is Yeshua HaMashiach your true Messiah!
+I AM h e, even YHVH The Great I AM, who swears by my own name and does certify fully in eternal truth that Yeshua HaMashiach did fulfill the law of Moses as the perfect Passover for all time that I provided perfectly with my own hand, so there is no more need for sacrifice.
+I AM Y HVH the great I AM and I swear by my own name that it is I who raised Jesus the Nazarene from the dead after he sacrificed of himself as the lamb of God, even a sacrifice that I accepted for all time and forever more for the redemption of Adam as a new man in Christ Jesus who is Yeshua HaMashiach your true Messiah!
 And I AM he who does certify the authenticity of these Words that I have sent in The Everlasting Gospel that has been revealed by myself, and Yeshua HaMashiach to our mighty messenger who has been prepared by Yeshua HaMashiach in much chastisement and purification for my eternal purposes and faithfully has he returned to Yeshua HaMashiach and so he is restored!
 And so I invite you my people, even Israel whom I do love with an eternal love, to join the Israel of God and come to Yahweh, even the God of Abraham, and of Isaac, and of Jacob by way of Yeshua HaMashiach that you may be gathered eternally in the Israel of God and return to me by way of your true Messiah, even Yeshua HaMashiach. And I will receive you to myself and restore you to your inheritance and reward that is in Christ Jesus mighty hand.
 There is no other name given whereby men may approach YHVH, The Great I AM for so have I declared, so kiss the son lest he be angry and you perish from the way.
@@ -6359,8 +6359,8 @@ And they will speak of many things and they will herald The Everlasting Gospel e
 So understand the deceit that has come to your doorstep Israel and understand the choice you must make. You will either accept Barabbas as your false Moshiach and take his mark thereby joining Esau as you liquidate your birthright for a morsel of bread for all eternity, or you will humble your hearts and become obedient to the voice of Yahweh the great eternal God even the great I AM in the face of Yeshua HaMashiach who is the same as Christ Jesus whom I raised from the dead and ascended in to the heavens, and have glorified in eternal splendor and of his rule and Kingdom there shall be no end, and no man may approach YHVH by any other name given whether they be on heaven or earth or under the earth for all time and forever more. Because In Christ will all be made alive and fashioned eternally as one new man forevermore because Christ Jesus is the last Adam.
 And they will make war with the saints and they will overcome them for power is given for them so to accomplish. But they will not overcome Israel, no a remnant of Israel is to be saved when they turn to Yeshua HaMashiach with their entire hearts.
 Therefore hear my Words O’ Israel that you may yet live before me and I will gather you to myself under the mighty authority of your true Messiah, even Yeshua HaMashiach. And it is written: Notwithstanding it cannot be that the word of God should take none effect: for all they are not Israel, which are of Israel: Neither are they all children, because they are the seed of Abraham: but, In Isaac shall thy seed be called: That is, they which are the children of the flesh, are not the children of God: but the children of the promise, are counted for the seed.
-I AM Y HVH, the Great I AM and I AM calling you Israel so that a faithful remnant will come to Yeshua HaMashiach that he may save you from the trap that Barabbas is working to set in the land for the final destruction of Jacob, even a destruction that I will not allow.
-I AM h e who sends these Words by the voice of one crying in the wilderness, who was redeemed from the gentiles by Christ Jesus and set apart for our eternal purposes, and to Yeshua HaMashiach does he serve YHVH, The Great I AM, because no man can come to me by any other name, not even by my beloved Moses alone, because Moses demands obedience to Jesus the Nazarene!
+I AM Y HVH, the Great I AM and I AM calling you Israel so that a faithful remnant will come to Yeshua HaMashiach that he may save you from the trap that Barabbas is working to set in the land for the final destruction of Jacob, even a destruction that I will not allow.
+I AM h e who sends these Words by the voice of one crying in the wilderness, who was redeemed from the gentiles by Christ Jesus and set apart for our eternal purposes, and to Yeshua HaMashiach does he serve YHVH, The Great I AM, because no man can come to me by any other name, not even by my beloved Moses alone, because Moses demands obedience to Jesus the Nazarene!
 
 366
 
@@ -6371,11 +6371,11 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I AM h e who will remove partial blindness from Israel who is blinded to the new testament that by the veil of Moses that is still draped over their hearts in partial blindness. And all of Israel who call on Yeshua HaMashiach will regain their sight and will see fully, even in the face of Jesus the Christ, your everlasting Messiah!
-I AM t he Almighty God of Abraham, and Of Isaac, and of Jacob and I do come to fulfill all or my promises many times over and I will do so wholly by the eternal works of my beloved Son of whom I do command your full loyalty, faith, love, and obedience, O’ Israel unless you intend to sell your birthright, joining Esau by default in those eternal flames of punishment and recompense of justice.
+I AM h e who will remove partial blindness from Israel who is blinded to the new testament that by the veil of Moses that is still draped over their hearts in partial blindness. And all of Israel who call on Yeshua HaMashiach will regain their sight and will see fully, even in the face of Jesus the Christ, your everlasting Messiah!
+I AM t he Almighty God of Abraham, and Of Isaac, and of Jacob and I do come to fulfill all or my promises many times over and I will do so wholly by the eternal works of my beloved Son of whom I do command your full loyalty, faith, love, and obedience, O’ Israel unless you intend to sell your birthright, joining Esau by default in those eternal flames of punishment and recompense of justice.
 Understand, O’ Israel that the earth will know that there is a God in Jacob and that the God of Jacob is forevermore and eternally Yahweh, even the Great I AM and it is in Christ Jesus that the Israel of God will be gathered and I will gather them to myself just as promised. That whether they be near or far, or whether they be Judean or gentile that all may be gathered in Christ who are heirs of eternal life and who are the true children on promise because the children of promise are the just who live by faith.
 And so it will be and YHVH has so declared and all will be yea and Amen and AMEN.
-I AM E lohim of the living, YHVH of Hosts your Elohim.
+I AM E lohim of the living, YHVH of Hosts your Elohim.
 
 367
 
@@ -6468,9 +6468,9 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 you to myself and I will send my two mighty witnesses and I do command you to hear them so you may receive their testimony for they will testify of many hidden things that have been concealed from the hearts of men but of which they will reveal and their testimonies will stand eternally and forevermore. Therefore, hearken to the voice of the true lamb of God, O’ Israel for there is salvation and redemption in no other name ever given, and truly, truly no other name will ever be given for this purpose, except Yeshua HaMashiach who is also Jesus the Nazarene although after the flesh I am known no more and I am Christ Jesus even he who is Lord of Lords and King of Kings.
-I am the Lion of the tribe of Judah and in righteousness I do come to judge and make war.
-I am he who has sent these Words by my servant and by my servant have these Words been sent, and I do testify and certify that the Words of The Everlasting Gospel that have been revealed by my own hand, and indeed by Yahweh himself, are true, and eternal, and my servant has spoken faithfully the Words that have been revealed to him in their time and they will be preserved through the coming calamities and will find the eyes, ears, and hearts of those to whom they are sent.
-I am your everlasting and eternal Messiah who longs for your salvation and redemption Israel, and truly, truly I am prepared to receive to myself any and all who respond to the sound of my voice and you will go into the millennial Kingdom and a peculiar people will you be and you will live lives eternal and you will find eternal pasture amongst the Israel of God, and never again will you be separated from the righteous rule of your King, Lord, High Priest, and Messiah and forever more will you be led in peace and righteousness and you will grow as calves of the stall.
+I am the Lion of the tribe of Judah and in righteousness I do come to judge and make war.
+I am he who has sent these Words by my servant and by my servant have these Words been sent, and I do testify and certify that the Words of The Everlasting Gospel that have been revealed by my own hand, and indeed by Yahweh himself, are true, and eternal, and my servant has spoken faithfully the Words that have been revealed to him in their time and they will be preserved through the coming calamities and will find the eyes, ears, and hearts of those to whom they are sent.
+I am your everlasting and eternal Messiah who longs for your salvation and redemption Israel, and truly, truly I am prepared to receive to myself any and all who respond to the sound of my voice and you will go into the millennial Kingdom and a peculiar people will you be and you will live lives eternal and you will find eternal pasture amongst the Israel of God, and never again will you be separated from the righteous rule of your King, Lord, High Priest, and Messiah and forever more will you be led in peace and righteousness and you will grow as calves of the stall.
 I am Yeshua HaMashiach and I am that the great I AM has made me and I am the Lamb of God given as your perfect and sinless passover forevermore and for all time.
 Which lamb will you choose, O Israel?
 
@@ -6695,9 +6695,9 @@ Even so, the earth will be restored to its former glory before the fallen ones p
 And it is I, Yeshua HaMashiach who will rule the nations with a rod of iron by the hands of many Kings and Priests of whom I will coronate and ordain to the highest service, and they are the first fruits of the dead, and they are immortal never to die again and of their reward is there no end, because they came to me willingly in the days of grace and I gathered them to myself in my body recreated as one new man whether they were Judean or Gentile, whether they were bond or free. They will have many enablements and abilities and attributes given them for their faithfulness because they are my over-comers who overcame all things by the blood of the lamb.
 Because it is the Lamb of God who overcame the fallen ones at calvary forevermore and it is the Lion of the Tribe of Judah who will utterly subjugate the creation to Yahweh, even so that Yahweh may be all in all when I will present to him the subjected creation because I must reign until all of my enemies are made my footstool, and it is the Lion of the Tribe of Judah that will trample every aspect of Satans kingdom under my mighty and eternal feet.
 Wherefore, I am he in whom the lamb shall unite in full peace and unity with the lion because my eternal purposes will be done forevermore and there is nothing and no one who can stand against Yeshua HaMashiach and my times have come where I will reveal myself to the inhabitants of the earth. Behold, I come with clouds, and every eye shall see me: yea, even they which pierced me through: and all kindreds of the earth shall wail before me, even so, Amen.
-I am Yeshua HaMashiach who is about to reveal himself to the earth and all the world will know that there is a God in heaven and the ways of Yahweh will fill the earth in holy righteousness.
-I am Christ Jesus, your ascended and resurrected Lord, King, High Priest, and Messiah!
-I am he who has sent my holy Words by my messenger and servant and by my messenger and servant have my holy Words been sent! Because my mighty messenger has faithfully returned to his eternal calling after much chastisement, repentance, and purification in my atoning blood; and I have received him to myself in my love for the penitent whoever they may be that come to me with a contrite heart. And to my messenger did I reveal The Little Book that John the Revelator was commanded to seal up so it could be revealed in its time, of which book contains the voice of the seven thunders even all of which is The Everlasting Gospel and he has announced my Words faithfully as commanded, of which testimony John the Revelator wrote and witnessed.
+I am Yeshua HaMashiach who is about to reveal himself to the earth and all the world will know that there is a God in heaven and the ways of Yahweh will fill the earth in holy righteousness.
+I am Christ Jesus, your ascended and resurrected Lord, King, High Priest, and Messiah!
+I am he who has sent my holy Words by my messenger and servant and by my messenger and servant have my holy Words been sent! Because my mighty messenger has faithfully returned to his eternal calling after much chastisement, repentance, and purification in my atoning blood; and I have received him to myself in my love for the penitent whoever they may be that come to me with a contrite heart. And to my messenger did I reveal The Little Book that John the Revelator was commanded to seal up so it could be revealed in its time, of which book contains the voice of the seven thunders even all of which is The Everlasting Gospel and he has announced my Words faithfully as commanded, of which testimony John the Revelator wrote and witnessed.
 
 386
 
@@ -6708,9 +6708,9 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he who is no respecter of persons, even Yeshua HaMashiach and any and all who come to me from the race of Adam in such manner I will receive, except those who foolishly take the mark of the beast, or who alter themselves in such manner. Truly, truly all who come to me in such manner who turn to live righteous lives will be rewarded forevermore and the weight of your reward is eternal.
+I am he who is no respecter of persons, even Yeshua HaMashiach and any and all who come to me from the race of Adam in such manner I will receive, except those who foolishly take the mark of the beast, or who alter themselves in such manner. Truly, truly all who come to me in such manner who turn to live righteous lives will be rewarded forevermore and the weight of your reward is eternal.
 And so it is my kinsman, that salvation is the gift of eternal life, that I Yeshua HaMashiach earned by my faithful adherence to the law of Moses and by my eternal sacrifice of myself as the sinless and perfect Lamb of God. Therefore, all who come to me in full repentance and humility and obedience I will restore to myself and to Yahweh and will give them many righteous works that Yahweh would have them accomplish in his everlasting and eternal purposes. Wherefore, the gift of eternal life is in my hands for all who ask in meekness and repentance and who come to me in the times given for repentance.
-I am Yeshua HaMashiach, and I do love you my countrymen and I am coming to your rescue and I will save the obedient among you to the uttermost, therefore obey the Words of the great I AM in obedience to your true Messiah, in whom the lamb walks hand in hand with the lion, for truly, I am.
+I am Yeshua HaMashiach, and I do love you my countrymen and I am coming to your rescue and I will save the obedient among you to the uttermost, therefore obey the Words of the great I AM in obedience to your true Messiah, in whom the lamb walks hand in hand with the lion, for truly, I am.
 Behold! The salvation of Israel is at hand and the lamb sings in unison with the lion who roars in fierce protection for his cubs, therefore, prepare yourselves O’ Israel because your redemption has come. Hear me in my love for you, my countrymen, because your true Messiah is at hand.
 
 387
@@ -6809,8 +6809,8 @@ So then, the greatest tribulation ever will occur, even a tribulation the likes 
 For these are those who are taken in the gathering of the saints to me, Christ Jesus, in the air at the sound of the last trumpet, and the trumpet is about to sound. These are my faithful, even those in whom was found no guile, for they have purified themselves as a chaste virgin in the blood of the Lamb; which I offered forevermore as their high priest, for I am forevermore the high priest after the order of Melchizedek. These are my Bride, and they will follow me wherever I go. Behold! I will make them powerful, and nothing has ever been seen on earth that can compare to the abilities with which I will clothe them. They will be clothed in fine, white, spotless linen, and their abilities will embody their accomplishments, and great abilities will they possess; for they are faithful, called, and chosen, even from before the foundations of the world by Yahweh for these purposes.
 My 144,000 will descend on Mount Sion, and I will lead them. They will take those to whom I lead them into the wilderness to be hidden away from the utter darkness and persecution of the enemies’ kingdom. They will be led to safety from the full indignation of the wrath of God contained in seven vials; for in these vials is the severity of the wrath of God to be poured out on the seat of the beast and to torment the kingdom of the Dragon, for great is their punishment. And the 144,000 will lead Jacob to safety; they will heal them from their wounds; they will succor them and give them great hope to call on the name of the Lord, even to the end if need be. For had I not shortened the days, no flesh should be saved. And so they will complete that in which I will lead them. And Jacob will be hidden safely away from the day of that great battle, even that great battle of Armageddon of which their utter destruction they shall not escape.
 Wherefore, understand my kinsman the times you live and the deception you face that will overtake the entire earth; of which deception will swallow alive in judgment those who hate and reject Yahweh in consequence and great punishment for their faithless ways.
-I am the Lamb of God who was given to take away the sins of the world in righteousness.
-I am the Lion of the Tribe of Judah and in righteousness I do come to judge and make war.
+I am the Lamb of God who was given to take away the sins of the world in righteousness.
+I am the Lion of the Tribe of Judah and in righteousness I do come to judge and make war.
 
 393
 
@@ -6821,9 +6821,9 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he who will yet save alive a mighty remnant from Jacob who will continue alive into my millennial kingdom, of which Kingdom your King of Kings and Lord of Lords will establish.
-I am Yeshua HaMashiach who is the promised seed of the woman who is made under the law and given in sacrifice for the penalty of Moses and for the remission of sins and full forgiveness and redemption of all who come to me in full repentance.
-I am he who has sent these words by my messenger and servant who has received The Everlasting Gospel which is that promised Little Book witnessed of by John the Revelator who was told seal up those things which the seven thunders have spoken, and write them not, and there in is the salvation of Jacob revealed!
+I am he who will yet save alive a mighty remnant from Jacob who will continue alive into my millennial kingdom, of which Kingdom your King of Kings and Lord of Lords will establish.
+I am Yeshua HaMashiach who is the promised seed of the woman who is made under the law and given in sacrifice for the penalty of Moses and for the remission of sins and full forgiveness and redemption of all who come to me in full repentance.
+I am he who has sent these words by my messenger and servant who has received The Everlasting Gospel which is that promised Little Book witnessed of by John the Revelator who was told seal up those things which the seven thunders have spoken, and write them not, and there in is the salvation of Jacob revealed!
 Truly, truly, I, Yeshua HaMashiach do testify that the Words of The Everlasting Gospel have been given and revealed by my own hand, and by the hand of Yahweh himself, even the Great I AM! And these Words of The Everlasting Gospel given are faithful and true and have been hidden in the heart of Yahweh himself until the proper time of their revealing; and are recorded accurately as given to my mighty messenger who has been purified in much chastisement and in my redeeming blood, and he has announced these Words as given, faithfully, for the obedience of all these Words are intended. The Words of The Everlasting Gospel will be preserved through the coming calamities and wars and will find the eyes, ears, and hearts to those to whom they are sent. Selah~
 Therefore, obey the Words of your true Messiah, even Yeshua HaMashiach, O’ Israel and return to Yahweh the Great I AM by accepting me as your true Messiah because, truly, truly you have no time remaining to argue with your creator nor your Messiah who is given in love for your salvation and truly the salvation of all those from Adam who accept my offer of eternal life.
 Behold! The times of fulfillment of all things have come and my times of grace and mercy have ended and in their place wrath and judgment will now stand. All those of Israel who accept chastisement and obey my voice, even the same will be saved alive into my millennial kingdom; where they will stand as a peculiar people to Yahweh and Israel’s true purpose as a peculiar treasure unto himself above all people and it will come to pass even as promised of old and I will bring a host of Kings and Priests who will rule at my command even from the throne of David and from that great holy city will the earth be ruled by Yeshua HaMashiach in righteousness.
@@ -6922,10 +6922,10 @@ The BITTER SWEET
 Therefore, hearken to my voice my countrymen, even all who read these words and separate your selves from the spider and its webs, because when anyone turns from their destruction to call on the name of the Lord, even Jesus the Nazarene who is also Yeshua HaMashiach who is Israel’s true Messiah; truly, truly that person shall be saved.
 Truly, truly, I command you one and all to fully repudiate and reject their blasphemous Talmud that is a book of great evil, filth, and deceit; even a book penned by Esau and adopted by the Synagogue of Satan, of which synagogue only evil and filth resides. Because the spider is the Synagogue of Satan, even born of the tribe of Ashkenaz of Japheth who have neither part nor lot in the inheritance of Shem, and especially that of righteous Jacob of whom I will save alive a mighty remnant.
 Wherefore, come out from amongst them and be ye separate and turn to Yeshua HaMashiach that you may learn of me and that you may learn to live the righteous ways of Yahweh of whose ways I am and of whom I am the Word made flesh, because Moses is alive fully in Yeshua HaMashiach and in my New Testament are all the promises and covenants of old, which promises will be fulfilled fully and in full in my millennial reign and Kingdom that I will establish in righteousness on the earth.
-I am Yeshua HaMashiach who is the true Messiah of Israel, and truly I am your King, Lord, High priest and Messiah forevermore and of my Kingdom and rule there shall be no end.
-I am he who comes to warn my countrymen of this great deception and destruction that surely has engulfed the earth in its web because the spiders have woven their webs worldwide now.
-I am Christ Jesus, and I have sent these Words by my messenger and servant and by my messenger and servant have these words been sent.
-I am Jesus the Christ, who also is Yeshua HaMashiach who has revealed the Words of The Everlasting Gospel along with Yahweh himself in the times of revealing which are now. Even the times of revealing before Jacob’s trouble begins in full that Jacob may yet be saved.
+I am Yeshua HaMashiach who is the true Messiah of Israel, and truly I am your King, Lord, High priest and Messiah forevermore and of my Kingdom and rule there shall be no end.
+I am he who comes to warn my countrymen of this great deception and destruction that surely has engulfed the earth in its web because the spiders have woven their webs worldwide now.
+I am Christ Jesus, and I have sent these Words by my messenger and servant and by my messenger and servant have these words been sent.
+I am Jesus the Christ, who also is Yeshua HaMashiach who has revealed the Words of The Everlasting Gospel along with Yahweh himself in the times of revealing which are now. Even the times of revealing before Jacob’s trouble begins in full that Jacob may yet be saved.
 Therefore, understand the gravity of my Words and be not faithless but only believe my testimony and hear my Words and depart from stubborn unbelief and rebellion because now are the times to return to Yahweh by way of Yeshua HaMashiach even in times of trouble of which times have come.
 And all who come to their Everlasting Messiah and accept me and my New Testament will achieve salvation in their own orders. Those who call on the name of the Lord Jesus Christ in the honors of martyrdom will be resurrected at the resurrection of the just and the weight of their eternal reward will far surpass their struggles and troubles of which I will strengthen them to overcome just as Yahweh strengthened me to overcome.
 And those from Jacob whom I will hide away in the wilderness from the times of the greatest tribulation ever; after which they will be taken alive into my millennial Kingdom even that they may be fruitful and multiply, and we will live the ways of Yahweh because in righteousness will the earth be ruled, and no evil thing will enter therein.
@@ -6993,11 +6993,11 @@ unto them after those days, says Elohim, I will put my laws in their heart, and 
 Therefore, understand what rejecting Yeshua HaMashiach eternally means for you Israel so you may understand the seriousness of said rejection. For if you sin willingly after that you have received and acknowledged that truth, there remains no more sacrifice for sins, but a fearful looking for of judgment, and violent fire, which shall devour the adversaries. He that despised Moses Law, died without mercy under two, or three witnesses: Of how much sorer punishment suppose you shall be worthy, which treads under foot the Son of God, and counts the blood of the New Testament as an unholy thing. Therefore, accept my sacrifice and confess your sins to me so I may forgive you for I am faithful and just to forgive you your sins that you may be purified in my atoning blood and confess your faults one to another.
 Therefore, I do come to you in my mercy and grace so that I may lead you away from your partial blindness, O’ Israel, even that you may yet obtain salvation by your obedience to my voice and so that you may depart from the rejection of your Fathers that is enshrined forevermore in your filthy Talmud and in your filthy religion that Esau has made for your destruction, but of which you cling as if his wisdom was given by Yahweh himself, and not Satan. O’ Israel, hear my saving voice and accept my love for you and come to me with your full hearts open and ready to receive that you may yet be filled with all glory and virtue.
 I give you to understand the complete forgiveness and restoration my atoning blood does bring to all who accept me as their saving Lord, and also as their true Messiah, for so I am. And as Adam was created, formed, and made sinless and in full perfection up until the day he sinned willfully, so too does payment for Adam’s sin require sinless blood, even an impossible requirement for all those who dwell on the earth in corruption to provide. And in Yahweh’s love he did provide such perfection and sinless blood in the body of his only begotten son who is given in sacrifice for the sins of Adam, therefore there remains no more sacrifice for sin.
-I am he who gave himself in full for the sins of fallen Adam
-I am he who offered myself fully in everlasting atonement that all who submit themselves to eternal salvation may be purified thereby.
-I am he who is your High Priest forevermore after The Order of Melchizedek, even he who offered myself as the perfect Passover once, all, and forever more.
-I am Yeshua HaMashiach, even he who is your true Messiah and of my rule there is never an end.
-I am Christ Jesus, and I have sent my Words by my messenger and servant and by my messenger and servant have my Words been sent.
+I am he who gave himself in full for the sins of fallen Adam
+I am he who offered myself fully in everlasting atonement that all who submit themselves to eternal salvation may be purified thereby.
+I am he who is your High Priest forevermore after The Order of Melchizedek, even he who offered myself as the perfect Passover once, all, and forever more.
+I am Yeshua HaMashiach, even he who is your true Messiah and of my rule there is never an end.
+I am Christ Jesus, and I have sent my Words by my messenger and servant and by my messenger and servant have my Words been sent.
 
 404
 
@@ -7105,11 +7105,11 @@ The BITTER SWEET
 even a sin that they will not recover. But so will be the final separation of the times that no evil thing may enter my millennial Kingdom but only those who come to Yeshua HaMashiach who is Jesus the Christ in repentance during the times of salvation because no man can come to Yahweh by any other name nor is there any other way, because I am the true and living way.
 These are the times you live, O’ Israel, and you cannot reside in their cities and you cannot join their society because to join them requires the mark and all who take the mark of the beast never have forgiveness. Nevertheless, mankind has been indoctrinated through his ever prized spurious education, even an indoctrination sold as education and the masses are conditioned thereby, and they will accept their lies and the vast majority of natural man will join themselves to the fallen ones forevermore.
 Yet so it will be, that all who willingly believe a lie and have pleasure in unrighteousness may be bound to everlasting punishment forevermore for joining the fallen ones, and all who join the fallen ones will share fully in their inheritance that is given without mercy because they have shown no mercy but only cruel hatred to all things of Yahweh.
-I am Christ Jesus who is also Jesus the Christ who is also Yeshua HaMashiach and I do come as the lion of the tribe of Judah and in righteousness I do come to judge and make war.
-I am he who will destroy the great delusion and false reality of the fallen ones, and into the glorious liberty of truth and righteousness will the creation be delivered into the glorious liberty of the sons of Yahweh.
-I am he who is calling those of Israel, and truly all of Adam to salvation that they might be reconciled fully to Yahweh by way of the blood of the lamb, for so I am.
-I am Christ Jesus your ascended and resurrected Lord and I have been made a life giving spirit that all who come to me with open heart and open face may come fully to salvation in their everlasting Lord!
-I am Yeshua HaMashiach who along with Yahweh the Great I AM have sent the Words of The Everlasting Gospel by my mighty messenger and servant who has overcome all things by coming fully to his Everlasting Lord and Savior in humility and sorrowful repentance and by my mighty messenger and servant have the Words of The Everlasting Gospel been sent for the obedience of all those these Words are hereby sent.
+I am Christ Jesus who is also Jesus the Christ who is also Yeshua HaMashiach and I do come as the lion of the tribe of Judah and in righteousness I do come to judge and make war.
+I am he who will destroy the great delusion and false reality of the fallen ones, and into the glorious liberty of truth and righteousness will the creation be delivered into the glorious liberty of the sons of Yahweh.
+I am he who is calling those of Israel, and truly all of Adam to salvation that they might be reconciled fully to Yahweh by way of the blood of the lamb, for so I am.
+I am Christ Jesus your ascended and resurrected Lord and I have been made a life giving spirit that all who come to me with open heart and open face may come fully to salvation in their everlasting Lord!
+I am Yeshua HaMashiach who along with Yahweh the Great I AM have sent the Words of The Everlasting Gospel by my mighty messenger and servant who has overcome all things by coming fully to his Everlasting Lord and Savior in humility and sorrowful repentance and by my mighty messenger and servant have the Words of The Everlasting Gospel been sent for the obedience of all those these Words are hereby sent.
 Therefore, understand the treacherous times you live where the entire earth will be carried away in insanity and delusion and evil will be completely unrestrained and yet a great, great multitude will achieve eternal salvation by calling on the name of their Lord Jesus to the end. And in like manner I, Yeshua HaMashiach who is Jacob’s true Messiah, will save alive a mighty remnant of Israel who will be taken and given entry into my millennial Kingdom where every promise will be yea and amen!
 Wherefore, O’ Israel, repudiate their technologies and do not become further enchanted by their black mirrors, even their screens where people are currently enslaved as they spend their lives in futility going from screen to screen as they are captivated and entertained by sin. Even a fake reality that seems real but in truth, is a false narrative and nothing more than cleverly interwoven fables intended for mankind’s destruction.
 
@@ -7222,10 +7222,10 @@ The BITTER SWEET
 saving those who take the mark of their own destruction, even the mark of the beast because all who do will be altered and will be used in their mesh technologies and they will serve the purposes of the dragon and evil will be fully unrestrained in their hearts and they will have no conscience neither knowledge nor understanding of Yahweh, in whose image they were once created and from whose image they will be forever altered forevermore.
 Therefore, understand O’ Israel that you are now warned fully of the fate of all those who reject Yeshua HaMashiach, who is also Jesus the Christ, who is also Jesus the Nazarene, who is also Christ Jesus! And all who make such a rejection will be subject to the second death and will be harvested as grapes in the winepress of the wrath of God that will kill from the earth all who partake in their society and will be given fully to the harvest of the damned in the second death where their worm dies not and of which they will never escape. And so will they be preserved in torment at the end of their natural lives, even reserved in death for everlasting punishment at that great white throne judgment, where all whose names are not found written in the Lamb’s book of life will be cast to the lake of fire, which is the second death and they will never escape.
 So understand Israel, that you will have to live separate from their society and they will seek, and hunt all who refuse their abominable society and all who refuse their beastly mark and all who turn to Yeshua HaMashiach or who call on the name of the Lord Jesus to the end. Even all of these will be fugitives in the earth, and I will hide away in the wilderness by the hands of my 144,000 all those of Jacob, which is Israel, who will have accepted me as their true Messiah.
-I am Yeshua HaMashiach, even Israel’s true Messiah who has come to save a remnant of Israel alive through Daniel’s seventieth week into my millennial Kingdom that is so soon to be established on the earth. Even all those who accept me as their Messiah and who join themselves forevermore to my New Testament.
-I am Jesus the Christ, even he that is sent to the nations to gather the lost sheep of the house of Israel, and even all whosoever decides to accept eternal salvation by making me Lord and calling on my name to their end.
-I am Jesus the Nazarene, even he who gave himself as the lamb of God in sacrifice for the sins of mankind.
-I am Christ Jesus, even your resurrected and ascended Lord who does come as the Lion of the Tribe of Judah in righteousness to judge and make war.
+I am Yeshua HaMashiach, even Israel’s true Messiah who has come to save a remnant of Israel alive through Daniel’s seventieth week into my millennial Kingdom that is so soon to be established on the earth. Even all those who accept me as their Messiah and who join themselves forevermore to my New Testament.
+I am Jesus the Christ, even he that is sent to the nations to gather the lost sheep of the house of Israel, and even all whosoever decides to accept eternal salvation by making me Lord and calling on my name to their end.
+I am Jesus the Nazarene, even he who gave himself as the lamb of God in sacrifice for the sins of mankind.
+I am Christ Jesus, even your resurrected and ascended Lord who does come as the Lion of the Tribe of Judah in righteousness to judge and make war.
 And so I counsel you O’ Israel, whom I love and of whom I am calling in this very hour that you may come to everlasting salvation by way of Yeshua HaMashiach, who truly truly, is the only way for anyone to come to Yahweh, the great I AM, therefore respond in obedience to my instructions and teaching that you may inherit all things from my merciful hands.
 Therefore, come to me in obedience and submit yourselves in love to the voice of your true Messiah, even Yeshua HaMashiach that you may understand your times and that you may have the wisdom and knowledge to navigate and survive the very times that are designed to cleanse evil from the earth and purge the righteous of dead works by fire. Truly, truly, Israel I am he who is given for your eternal salvation even a priceless price that I paid in my sinless and ever atoning blood.
 
@@ -7352,16 +7352,16 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am Jesus the Nazarene, who is calling you ever closer to me my church, my body, and even my bride.
-I am Jesus the Christ, who is calling you closer still in these times right before you are taken into the rewards of your inheritance that I will give you shortly in the heavens after you are taken.
-I am Christ Jesus, who truly, truly is your sufficiency in all things, therefore rest in my works and righteousness and ask of me in humility and depart from all boastful ways of self sufficiency, because you are about to be fully united with your Bridegroom who will evermore supply you an abundance and wealth of all things in your inheritance in Christ.
-I am Yeshua HaMashiach, who is calling and begging you to come fully to me in my love for you my children, that your full salvation may be realized fully in these times of full redemption for the faithful in Christ, whether they are at rest in the heart of the earth as they peacefully sleep in righteousness, or whether they are alive and remain on the face of the earth at my appearing, whose time has come.
+I am Jesus the Nazarene, who is calling you ever closer to me my church, my body, and even my bride.
+I am Jesus the Christ, who is calling you closer still in these times right before you are taken into the rewards of your inheritance that I will give you shortly in the heavens after you are taken.
+I am Christ Jesus, who truly, truly is your sufficiency in all things, therefore rest in my works and righteousness and ask of me in humility and depart from all boastful ways of self sufficiency, because you are about to be fully united with your Bridegroom who will evermore supply you an abundance and wealth of all things in your inheritance in Christ.
+I am Yeshua HaMashiach, who is calling and begging you to come fully to me in my love for you my children, that your full salvation may be realized fully in these times of full redemption for the faithful in Christ, whether they are at rest in the heart of the earth as they peacefully sleep in righteousness, or whether they are alive and remain on the face of the earth at my appearing, whose time has come.
 
 Therefore, understand the importance and urgency of the times because there is no time remaining for disobedience and truly it has come almost fully now, that at my appearing he who is faithful in Christ will be taken to safety in the heavens where great reward will be theirs and they will have been rescued from the coming wrath, and judgment that is about to crash onto the earth in great calamity. And so in like manner at my appearing he who is unfaithful and not in Christ will be left to the refiners fire, where they will be saved should they call on the name of Jesus their Lord until their end and there is no other choice remaining for those of the nations who have rejected their full salvation at the time of my appearing.
 And so it is, my loves that I do come to tell you once again, to turn not to the left, neither to the right but keep your feet firmly fixed on that straight and narrow path where I do cause the meek and humble in heart to have full victory as they overcome the fallen ones by my mighty power, and righteousness that I have freely given to the obedient. Therefore, keep your eyes fixed in single minded focus on your Everlasting Lord of Righteousness that you may come to your full reward and that you may rest fully in the peace and comfort that I do bring as I shower you in my peace and comfort in my love for you. That even in the face of adversity and trials you may stand eternally strong in your brokenness and affliction as you rest in my strength that cannot be overcome.
 
-I am Yeshua HaMashiach who, along with Yahweh, The Great I AM, have sent the Words of The Everlasting Gospel by my mighty messenger and servant who has faithfully recorded and read these Words for the obedience and salvation of all these Words are sent. And by my mighty messenger and servant have the Words of The Everlasting Gospel been sent. Truly, truly, the Words of The Everlasting Gospel will be preserved through the coming calamities and judgments that are about to explode across the earth. Understand that further testimonies will given and recorded and scribed into the books in the heavens and the Words of Adonai Yahweh will fill the earth in all righteousness and true holiness!
-I am coming so soon for the faithful in Christ, and truly their times have come! Times where the first fruits of harvest will meet fulfillment of promise and reward in the presence of Yahweh himself (even a moment Yahweh has longed for since ancient times), and Yeshua HaMashiach and an innumerable
+I am Yeshua HaMashiach who, along with Yahweh, The Great I AM, have sent the Words of The Everlasting Gospel by my mighty messenger and servant who has faithfully recorded and read these Words for the obedience and salvation of all these Words are sent. And by my mighty messenger and servant have the Words of The Everlasting Gospel been sent. Truly, truly, the Words of The Everlasting Gospel will be preserved through the coming calamities and judgments that are about to explode across the earth. Understand that further testimonies will given and recorded and scribed into the books in the heavens and the Words of Adonai Yahweh will fill the earth in all righteousness and true holiness!
+I am coming so soon for the faithful in Christ, and truly their times have come! Times where the first fruits of harvest will meet fulfillment of promise and reward in the presence of Yahweh himself (even a moment Yahweh has longed for since ancient times), and Yeshua HaMashiach and an innumerable
 
 426
 
@@ -7373,7 +7373,7 @@ The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
 host of angels of whom there is joy in their mighty presence when just one person attains eternal salvation. Yet, so will it be when I call the faithful in Christ home to their eternal reward that they will take their places amongst the tribes because they are the Israel of God and they will fill the ranks of their orders and a mighty host of kings and priests will I coronate and consecrate for eternal service in my eternal kingdom, of which there is never an end.
-I am Yeshua HaMashiach, who is also The Lord of Harvest, and truly, truly the times of the harvest of firstfruits has come, and the first-fruits of harvest time for reward has in like manner also come.
+I am Yeshua HaMashiach, who is also The Lord of Harvest, and truly, truly the times of the harvest of firstfruits has come, and the first-fruits of harvest time for reward has in like manner also come.
 The times are now. Selah!
 
 427
@@ -7438,9 +7438,9 @@ The BITTER SWEET
 the wilderness, even so that they may be fruitful and multiply and enjoy the fat of the land in my millennial kingdom that is so soon to come upon the earth in fulfillment of promise, covenant, and testament.
 So will it be for natural man, that they will either accept the lamb of God as their savior or they will have chosen their own eternal judgment in that ever-burning lake of fire because there is no other choice, and nowhere else can they go because Yahweh will never allow evil to overtake and destroy his creation and their days of willful rebellion are coming to an end.
 
-I am the lamb of God, given for the sins of the world.
+I am the lamb of God, given for the sins of the world.
 I am the lion of The Tribe of Judah, and in righteousness I do come to judge and make war.
-I am he in whom the lamb of God and the lion of the tribe of Judah are fully united in my eternal purposes and rule as the King of Kings and Lord of Lords, so who is there who can stand against Yeshua HaMashiach who is the holy one of Adonai, even he whom Yahweh has sent to execute eternal judgment on the fallen ones and all who chose to join their ways.
+I am he in whom the lamb of God and the lion of the tribe of Judah are fully united in my eternal purposes and rule as the King of Kings and Lord of Lords, so who is there who can stand against Yeshua HaMashiach who is the holy one of Adonai, even he whom Yahweh has sent to execute eternal judgment on the fallen ones and all who chose to join their ways.
 
 And so I counsel the faithful in Christ to remain faithful still because the day of your redemption has come and is nearly upon you. Look only to your Everlasting Lord of Righteousness because the fallen ones have flooded the earth in a great deluge of lies and falsehoods designed to deceive the very elect if such a thing were possible. Therefore, understand many false prophets have been sent who prophesy in the ways of Balaam and who are taken by spirits of Jezebel and who speak by spirits of anti-Christ who teach another Jesus who falsely stands in place of and is in opposition to Jesus the Christ who is Yeshua HaMashiach in the hearts of the deceived. All who are taken in such deception will bear their judgment should they refuse to repent from their ways when they are confronted by their Lord in the mouths of the faithful in Christ. Truly, truly, some false prophets are sincere and deceived and can be reached with the truth spoken on lips of love, but only truth will set them free and only the blunt truth of their sins and false prophesies that they may indeed recover themselves in repentance.
 Then there are those who prophesy for money, and filthy lucre, and to achieve acclaim and attention and to bask fully in this evil worlds goods. No matter who it is who prophesies falsely, rebuke them and repudiate their Words, even Words that are designed by the fallen ones to ensnare the very elect in deception if possible. Why do you run to and fro, my faithful Church? Have I not commanded and counseled and empowered you to be my overcomers? Even those who overcome every aspect of the enemies kingdom in like manner as I overcame? Therefore, come to Christ Jesus and I will confirm in your hearts my true prophets because my true prophets do speak in unison with the heart of their Lord who is the Word made flesh. Therefore, Christ Jesus can never contradict scripture, for so I am!
@@ -7477,9 +7477,9 @@ Therefore, I command you to have faith in your Everlasting Lord and allow the Ev
 Therefore, understand the power you are to walk in my faithful in Christ, and my restrainer does restrain until the faithful in Christ are taken at which time there will be no restrainer to restrain the fallen ones any longer. At the time you are taken into the heavens so suddenly now my Church, my body, and even my bride; the fallen ones will be fully released without restraint in judgment on Secret Babylon and shortly thereafter, will the seals be loosed, and the trumpets will sound, and in time the vials of the wrath of Yahweh will be poured. Because the day of the Lord has come upon the earth and the times of Jacob's trouble have arrived, and who shall be able to stand?
 Therefore, it will so suddenly come to pass that the final separation will commence. And those who are ordained to eternal salvation will call on the name of Jesus the Nazarene to the end, and those of Israel who accept Yeshua HaMashiach as their true Messiah will be taken into the wilderness and hidden away from the wrath of Yahweh and the battle of that great day and from the dragon, beast, and false prophet. And in relative peace and safety will they be kept from harm and will be fed and cared for where they are hidden away and they shall not be found.
 
-I am Jesus the Christ who is ever calling the faithful in Christ ever closer in saving relationship with their Lord and redeemer who truly, truly cares for their souls.
-I am Yeshua HaMashiach and I am calling Jacob to accept me as their true Messiah, for no other Messiah will Yahweh ever send.
-I am he in whom the lamb of God and the Lion of the tribe of Judah are united forevermore because I am your Lord and redeemer and in righteousness I do come to judge and make war, and who can stand against the power of my might!
+I am Jesus the Christ who is ever calling the faithful in Christ ever closer in saving relationship with their Lord and redeemer who truly, truly cares for their souls.
+I am Yeshua HaMashiach and I am calling Jacob to accept me as their true Messiah, for no other Messiah will Yahweh ever send.
+I am he in whom the lamb of God and the Lion of the tribe of Judah are united forevermore because I am your Lord and redeemer and in righteousness I do come to judge and make war, and who can stand against the power of my might!
 
 433
 
@@ -7490,14 +7490,14 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I am he who upholds and strengthens the faithful in Christ, even so that the purposes of Yahweh and Yeshua HaMashiach may live in their lives and ministries and so they may trample every aspect of the enemies kingdom underfoot if need be!
-I am he who will judge any individual who has ever claimed to speak for me as my holy prophets, and of my true prophets the spirit of prophecy does reside in them and they do speak in unison with one another, and especially with their Lord who gives them the Words to speak because the spirit of prophecy is the testimony of Jesus. And my true prophets will receive the eternal rewards reserved for faithful prophets who are faithful and true to give the Words of their Lord and they will be given great honor and responsibilities when I will coronate and ordain them kings and priests to serve under their King of Kings and Lord of Lords!
-I am he who will cause all false prophets to fall into complete silence in their judgments and a harsh penalty will they pay for leading the righteous astray and for joining the rebellion of the fallen ones, and for thinking it but a light thing to speak lies in hypocrisy claiming their lying words are given by the Word made flesh, for truly I am! And all those who speak falsely in such manner will suffer eternal judgment, loss, and punishment should they refuse to repent from their evil ways. And of those who refuse to repent and continue therein will have their portion in that ever-burning and hottest burning lake of fire where their worm dies not.
+I am he who upholds and strengthens the faithful in Christ, even so that the purposes of Yahweh and Yeshua HaMashiach may live in their lives and ministries and so they may trample every aspect of the enemies kingdom underfoot if need be!
+I am he who will judge any individual who has ever claimed to speak for me as my holy prophets, and of my true prophets the spirit of prophecy does reside in them and they do speak in unison with one another, and especially with their Lord who gives them the Words to speak because the spirit of prophecy is the testimony of Jesus. And my true prophets will receive the eternal rewards reserved for faithful prophets who are faithful and true to give the Words of their Lord and they will be given great honor and responsibilities when I will coronate and ordain them kings and priests to serve under their King of Kings and Lord of Lords!
+I am he who will cause all false prophets to fall into complete silence in their judgments and a harsh penalty will they pay for leading the righteous astray and for joining the rebellion of the fallen ones, and for thinking it but a light thing to speak lies in hypocrisy claiming their lying words are given by the Word made flesh, for truly I am! And all those who speak falsely in such manner will suffer eternal judgment, loss, and punishment should they refuse to repent from their evil ways. And of those who refuse to repent and continue therein will have their portion in that ever-burning and hottest burning lake of fire where their worm dies not.
 
 Therefore, stand immovable my faithful ones whom I love and will so suddenly fully redeem! Understand that I will cause you to fully overcome should you remain obedient to my voice, and to those who have overcome I command you to continue in the works I have given you to do and keep yourself in all purity by always keeping yourselves in a state of repentance that I may evermore cleanse you fully in my ever atoning blood.
 
-I am he, along with Yahweh The Great I AM who has revealed the Words of The Everlasting Gospel to our messenger and servant, and by our messenger and servant have the Words of The Everlasting Gospel been revealed for obedience for all those to whom they are sent! The Words of The Everlasting Gospel will find the eyes, ears, and hearts of all those to whom they are sent! Selah!
-I am coming for you my loves, so suddenly now, so keep your full hearts fixed on Christ Jesus your Lord. Selah!
+I am he, along with Yahweh The Great I AM who has revealed the Words of The Everlasting Gospel to our messenger and servant, and by our messenger and servant have the Words of The Everlasting Gospel been revealed for obedience for all those to whom they are sent! The Words of The Everlasting Gospel will find the eyes, ears, and hearts of all those to whom they are sent! Selah!
+I am coming for you my loves, so suddenly now, so keep your full hearts fixed on Christ Jesus your Lord. Selah!
 
 Behold! I am coming for you my loves and I will recreate you in righteousness and true holiness and I am he who will clothe you in righteous perfection and I will restore to you a bright nature yet once again that will be more glorious than Adam was initially created. Therefore, look up! Because I come at an hour you do not expect, even an hour of which not many seconds remain between when your promised redemption meets fulfillment in the times of now. Are you listening? The last trumpet is about to sound! Selah!
 
@@ -7596,10 +7596,10 @@ Because the Order of Melchizedek is a priestly order, of which mantle will not p
 Because the Order of Melchizedek is an order of Kings for the righteous rule of my creation.
 Because the Order of Melchizedek is an order for Prophets who speak and teach the history, ways, and future of Yahweh’s plans of perfection given in the face of Jesus the Christ.
 
-I AM YHVH, even the Great I AM and I have sent these Words by my messenger and servant and by my messenger and servant have these Words been sent. Of a truth, to my Messenger and servant who serves under Christ Jesus his eternal Lord by way of the spirit of prophecy has Yahweh and Christ Jesus revealed to our messenger and servant The Everlasting Gospel for the obedience and salvation of all these Words are sent. And the Words of The Everlasting Gospel will find the eyes ears, and hearts of all to whom they are sent.
-I AM YHVH, even he who has created, made and sent my only begotten Son, Yeshua HaMashiach who is Jesus the Messiah for the salvation of all who are born of Adam and accept full redemption should those who are called answer their savior when he calls. Therefore, understand that it is I, YHVH, the Great I AM who reveals Jesus the Nazarene to the lost, even so that their Chief Shepherd may find and recover all of my lost sheep into my barns of safety and refuge eternally and forevermore.
-I AM YHVH, even he who divided the eternal priesthood of Melchizedek into three separate and distinct offices of King, Priest, and Prophet under Jacob in his times.
-I AM YHVH, even he who has restored the eternal Priesthood of Melchizedek in Christ Jesus, of whom it is written: For it is evident, that your Lord sprung out of Judah, concerning the which tribe Moses spake nothing, touching the Priesthood. And it is yet a more evident thing, because that after the similitude of Melchizedek, there is risen up another Priest, which is not made priest after the Law of the carnal commandment of old, but after the power of the endless life. For he testifies thus, You are a Priest for ever, after the order of Melchizedek.
+I AM YHVH, even the Great I AM and I have sent these Words by my messenger and servant and by my messenger and servant have these Words been sent. Of a truth, to my Messenger and servant who serves under Christ Jesus his eternal Lord by way of the spirit of prophecy has Yahweh and Christ Jesus revealed to our messenger and servant The Everlasting Gospel for the obedience and salvation of all these Words are sent. And the Words of The Everlasting Gospel will find the eyes ears, and hearts of all to whom they are sent.
+I AM YHVH, even he who has created, made and sent my only begotten Son, Yeshua HaMashiach who is Jesus the Messiah for the salvation of all who are born of Adam and accept full redemption should those who are called answer their savior when he calls. Therefore, understand that it is I, YHVH, the Great I AM who reveals Jesus the Nazarene to the lost, even so that their Chief Shepherd may find and recover all of my lost sheep into my barns of safety and refuge eternally and forevermore.
+I AM YHVH, even he who divided the eternal priesthood of Melchizedek into three separate and distinct offices of King, Priest, and Prophet under Jacob in his times.
+I AM YHVH, even he who has restored the eternal Priesthood of Melchizedek in Christ Jesus, of whom it is written: For it is evident, that your Lord sprung out of Judah, concerning the which tribe Moses spake nothing, touching the Priesthood. And it is yet a more evident thing, because that after the similitude of Melchizedek, there is risen up another Priest, which is not made priest after the Law of the carnal commandment of old, but after the power of the endless life. For he testifies thus, You are a Priest for ever, after the order of Melchizedek.
 
 For the commandment that went before, is disanulled, because of the weakness thereof, and unprofitableness.
 For the Law made nothing perfect, but the bringing in of a better hope made perfect, whereby we draw near to Yahweh. And for as much as it is not without an oath (for these are made Priests without an oath: But this is made with an oath by him that said to him, Yahweh has sworn, and will not repent, You are a Priest for ever, after the order of Melchizedek) By so much is Jesus made a surety of a better Testament. And among them many were made Priests, because they could not continue, by the reason of their death.
@@ -7721,11 +7721,11 @@ The BITTER SWEET
 for the inheritance of the meek. They will use their CGI technologies to make their images so lifelike that those who are bound to stare at their mirrors by way of the mark of the beast will utterly live a false reality, very similar to the false reality brought about by the mystery of iniquity currently where people go from screen to screen, even holding the digital chains of their bondage happily in hand as they are inundated with useless knowledge that utterly results in arrogant delusion, even separated from reality for all eternity should the not repent!
 Their AI will rise fully, and is nothing more than demons working through their technologies, even built by the hands of the children of men. Yet, artificial intelligence it is not, but a vehicle for disembodied spirits to thrive, and a means of control and deception wherewith to make it appear that their lying signs and wonders are divine power given to support their lies.
 
-I am Christ Jesus and I do come to tell you of these deceptions even that you are not ensnared thereby.
-I am Christ Jesus and I am he, who along with Yahweh, has revealed and sent these Words to our messenger and servant and by our messenger and servant have these words been revealed and sent. Truly, truly, these Words are part of The Everlasting Gospel that has been revealed in it’s time, and the Words of The Everlasting Gospel will find the eyes, ears, and hearts of all to whom they are sent.
-I am Jesus the Christ who is sent for the salvation of Adam, who truly truly is the last Adam, even that last kind of man to be made and truly, truly, I will change the faithful in Christ at my appearing (whether they be living or dead) to be fashioned in like manner as my glorified body. Because Adam was created with the intent that he would rule according to The Order of Melchizedek that has been preserved for Christ Jesus for all times even so that I may coronate and consecrate a host of Kings and Priests to rule along with me, even under my mighty and perfect command.
-I am he whom Yahweh, The Great I AM, has sworn forever and will not repent, that I am forever and forevermore, High Priest after The Order of Melchizedek and from my eternal shoulders the mantle of Melchizedek will never pass but will rest on Christ Jesus forevermore.
-I am The Lion of the Tribe of Judah and in righteousness I do come to judge and make war.
+I am Christ Jesus and I do come to tell you of these deceptions even that you are not ensnared thereby.
+I am Christ Jesus and I am he, who along with Yahweh, has revealed and sent these Words to our messenger and servant and by our messenger and servant have these words been revealed and sent. Truly, truly, these Words are part of The Everlasting Gospel that has been revealed in it’s time, and the Words of The Everlasting Gospel will find the eyes, ears, and hearts of all to whom they are sent.
+I am Jesus the Christ who is sent for the salvation of Adam, who truly truly is the last Adam, even that last kind of man to be made and truly, truly, I will change the faithful in Christ at my appearing (whether they be living or dead) to be fashioned in like manner as my glorified body. Because Adam was created with the intent that he would rule according to The Order of Melchizedek that has been preserved for Christ Jesus for all times even so that I may coronate and consecrate a host of Kings and Priests to rule along with me, even under my mighty and perfect command.
+I am he whom Yahweh, The Great I AM, has sworn forever and will not repent, that I am forever and forevermore, High Priest after The Order of Melchizedek and from my eternal shoulders the mantle of Melchizedek will never pass but will rest on Christ Jesus forevermore.
+I am The Lion of the Tribe of Judah and in righteousness I do come to judge and make war.
 
 So understand the times you live my loves, and stand firm wherever it is that you stand, and in whatever courses I have set your feet to run, because the hour of your redemption has come and will break across the earth so suddenly and unexpectedly now. And yet I send this message not only for my Church, my Body, and even my Bride but also to Jacob, even Israel my kinsman of who I am kinsman redeemer, of whom I will save alive to myself a mighty remnant! Because my two olive trees represent the natural olive tree, and also the wild olive tree from which the gentiles were grafted into the root and fatness of the natural olive tree. Even so that Yahweh would be able to save the lost tribes of the house of Israel eternally and forevermore into the Israel of God, thereby being adopted as Sons of God, and also being eternally grafted into the natural olive tree, and of the two there shall eternally remain one! Even the Israel of God!
 Therefore, understand that in like fashion as my two olive trees will become one by grafting in the wild branches to partake of the root and fatness of the of the natural olive tree. And so too will those redeemed
@@ -8201,7 +8201,7 @@ Are you watching my loves? Is your expectation fervent and alive?
 I do command you to receive my Words in full and watch, and wait, and be at the ready.
 Until suddenly... On earth... You are not.
 Behold! The exact second of redemption approaches and is in sight.
-	Consider my Words and blessings of benediction that surely will endure into the eternity of eternities forevermore. Selah!
+	Consider my Words and blessings of benediction that surely will endure into the eternity of eternities forevermore. Selah!
 Receive my Love Letter my Bride for I have delivered it for your comfort and expectation.
 In the Love of Yahweh given to me to you-ward,
 Yeshua HaMashiach: The Everlasting Lord of Righteousness.
