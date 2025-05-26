@@ -8283,7 +8283,7 @@ Everlasting Gospel
 The LITTLE BOOK of Revelation Chapter 10
 The BITTER SWEET
 
-I AM, and I have sent these Words of love to the condemned by my messenger and servant, and by my messenger and servant have I sen these Words to those who will shortly be judged.
+I AM, and I have sent these Words of love to the condemned by my messenger and servant, and by my messenger and servant have I sent these Words to those who will shortly be judged.
 Understand all who hear these Words, that this is not a final pronouncement of judgment, that brings finality to natural man. On the contrary, this message serves to warn the disobedient and unrighteous of Secret Babylon and even all to whom these Words are sent, (and some will come to salvation in these last seconds) but also as a final testimony of warning given before judgment falls fully on Secret Babylon.
 Understand, that my Words will find the eyes, ears, and hearts of those to whom they are sent, and no effort from the fallen ones, their abominations, nor their worthless and ignorant technologies can stop that which the Great I AM intends to accomplish.
 And so I sign my personal love letter to the judged in hopes that by obedience to my Words sent in my love for them they would escape their judgments before that final hand strikes that final second.
