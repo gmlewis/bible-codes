@@ -1,6 +1,6 @@
 module github.com/gmlewis/bible-codes
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/gmlewis/advent-of-code-2021 v0.0.36

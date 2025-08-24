@@ -15,7 +15,6 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"regexp"
 	"runtime"
 	"strings"
 )
@@ -66,10 +65,15 @@ type SkipWriter interface {
 }
 
 func genSkips(text string, skipNum, offset int, w SkipWriter) {
-	skipRE := fmt.Sprintf("%v(.)%v", strings.Repeat(".", offset), strings.Repeat(".", skipNum-1-offset))
-	re := regexp.MustCompile(skipRE)
-	out := re.ReplaceAllString(text, "$1")
-	w.writeSkip(out)
+	var out strings.Builder
+	for len(text) > offset {
+		out.WriteString(text[offset : offset+1])
+		if len(text) <= skipNum {
+			break
+		}
+		text = text[skipNum:]
+	}
+	w.writeSkip(out.String())
 }
 
 type skipWriterT struct {
