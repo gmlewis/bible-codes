@@ -52,6 +52,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"io/fs"
 	"log"
 	"os"
 	"path/filepath"
@@ -62,7 +63,8 @@ import (
 
 const (
 	kjvBaseFilename = "kjv-bag-of-words.txt"
-	minPrintWordLen = 4
+	minWords        = 7
+	minPrintWordLen = 7
 )
 
 func main() {
@@ -84,7 +86,21 @@ func main() {
 	trie := buildTrie(words)
 
 	for _, arg := range flag.Args() {
-		processFile(arg, trie)
+		fi, err := os.Stat(arg)
+		must(err)
+		if fi.IsDir() {
+			fileSystem := os.DirFS(arg)
+			fs.WalkDir(fileSystem, ".", func(path string, d fs.DirEntry, err error) error {
+				must(err)
+				if strings.HasSuffix(path, ".txt") {
+					fullPath := filepath.Join(arg, path)
+					processFile(fullPath, trie)
+				}
+				return nil
+			})
+		} else {
+			processFile(arg, trie)
+		}
 	}
 
 	log.Printf("Done.")
@@ -139,7 +155,7 @@ func findWordSequences(text string, trie *trieNode) []*WordSequence {
 	// For each starting position, find the longest sequence of words
 	for i := 0; i < textLen; i++ {
 		sequence := findSequenceAtPosition(text, i, trie)
-		if sequence != nil && sequence.WordCount >= 2 {
+		if sequence != nil && sequence.WordCount >= minWords {
 			allSequences = append(allSequences, sequence)
 		}
 	}
@@ -197,7 +213,7 @@ func findSequenceAtPosition(text string, startPos int, trie *trieNode) *WordSequ
 		pos = endPos
 	}
 
-	if len(foundWords) < 2 {
+	if len(foundWords) < minWords {
 		return nil
 	}
 
