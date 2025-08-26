@@ -6,6 +6,19 @@
 // it to generate the `trie` once before calling `findWordSequences` multiple times
 // with different text (generated with different offsets).
 //
+// Original prompt:
+//
+//	Using the Go programming language, write a single function that uses the most
+//	efficient algorithm for the following requirements:
+//	* the function signature is: `func findWordSequences(text string, words map[string]struct{}) []*WordSequence`
+//	* the `text` param strictly consists of ASCII lower-case letters from 'a' to 'z' and nothing
+//	  else - no spaces, no punctuation, nothing else - and its length can be up to 3 million characters
+//	* the `words` map consists of 12828 lower-case words
+//	* the function returns all word sequences of 2-or-more words, and the `WordSequence` structs are
+//	  sorted (descending) by the total number of immediately-sequential words found
+//	* the `WordSequence` struct must contain the starting and ending offsets of the sequence of words,
+//	  the number of words found, and the actual sequence of words found (as a slice of strings)
+//
 // claude.ai wrote the following:
 // I'll write an efficient Go function to find word sequences in text.
 // This requires careful algorithm design given the large input sizes (3M characters, 12K+ words).
