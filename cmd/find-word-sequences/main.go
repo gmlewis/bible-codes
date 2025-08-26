@@ -47,13 +47,13 @@ type WordSequence struct {
 	Words       []string
 }
 
-func findWordSequences(text string, words map[string]struct{}) []*WordSequence {
-	if len(text) == 0 || len(words) == 0 {
+func findWordSequences(text string, trie *trieNode) []*WordSequence {
+	if len(text) == 0 {
 		return nil
 	}
 
 	// Build trie for efficient prefix matching
-	trie := buildTrie(words)
+	// trie := buildTrie(words)
 
 	var sequences []*WordSequence
 	textLen := len(text)
