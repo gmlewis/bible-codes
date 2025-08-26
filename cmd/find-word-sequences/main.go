@@ -1,4 +1,4 @@
-// -*- compile-command: "go run main.go"; -*-
+// -*- compile-command: "go run main.go ../../skips-77777/skip-77777/skip-77777-00*.txt"; -*-
 
 // find-word-sequences searches a string of ASCII lower-case letters
 // for consecutive words and returns the results.
@@ -50,8 +50,73 @@
 package main
 
 import (
+	"flag"
+	"fmt"
+	"log"
+	"os"
+	"path/filepath"
+	"runtime"
 	"sort"
+	"strings"
 )
+
+const (
+	kjvBaseFilename = "kjv-bag-of-words.txt"
+	minPrintWordLen = 4
+)
+
+func main() {
+	log.SetFlags(0)
+	flag.Parse()
+
+	_, mainDir, _, _ := runtime.Caller(0)
+	kjvFilename := filepath.Join(filepath.Dir(filepath.Dir(filepath.Dir(mainDir))), kjvBaseFilename)
+	buf, err := os.ReadFile(kjvFilename)
+	must(err)
+
+	words := map[string]struct{}{}
+	for _, line := range strings.Split(strings.TrimSpace(string(buf)), "\n") {
+		word := line[6:] // skip count before word, e.g. "63919 the"
+		words[word] = struct{}{}
+	}
+
+	log.Printf("Loaded %v words", len(words))
+	trie := buildTrie(words)
+
+	for _, arg := range flag.Args() {
+		processFile(arg, trie)
+	}
+
+	log.Printf("Done.")
+}
+
+func processFile(filename string, trie *trieNode) {
+	buf, err := os.ReadFile(filename)
+	must(err)
+
+	ws := findWordSequences(string(buf), trie)
+	if len(ws) == 0 {
+		return
+	}
+	msg := fmt.Sprintf("%v: Found %v word sequences:", filename, len(ws))
+
+	for _, seq := range ws {
+		var hitMinPrintWordLen bool
+		for _, w := range seq.Words {
+			if len(w) >= minPrintWordLen {
+				hitMinPrintWordLen = true
+				break
+			}
+		}
+		if hitMinPrintWordLen {
+			if msg != "" {
+				log.Printf("%v", msg)
+				msg = "" // Only print this once per file
+			}
+			log.Printf("%v words: '%v'", seq.WordCount, strings.Join(seq.Words, " "))
+		}
+	}
+}
 
 type WordSequence struct {
 	StartOffset int
@@ -164,4 +229,10 @@ func findWordAtPosition(text string, pos int, trie *trieNode) (string, int) {
 	}
 
 	return lastWord, lastWordEnd
+}
+
+func must(err error) {
+	if err != nil {
+		log.Fatal(err)
+	}
 }
