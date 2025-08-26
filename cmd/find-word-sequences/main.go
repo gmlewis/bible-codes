@@ -133,16 +133,19 @@ func findWordSequences(text string, trie *trieNode) []*WordSequence {
 	// Build trie for efficient prefix matching
 	// trie := buildTrie(words)
 
-	var sequences []*WordSequence
+	var allSequences []*WordSequence
 	textLen := len(text)
 
 	// For each starting position, find the longest sequence of words
 	for i := 0; i < textLen; i++ {
 		sequence := findSequenceAtPosition(text, i, trie)
 		if sequence != nil && sequence.WordCount >= 2 {
-			sequences = append(sequences, sequence)
+			allSequences = append(allSequences, sequence)
 		}
 	}
+
+	// Remove subsequences - keep only maximal sequences
+	sequences := removeSubsequences(allSequences)
 
 	// Sort by word count descending, then by start position ascending for stability
 	sort.Slice(sequences, func(i, j int) bool {
@@ -229,6 +232,50 @@ func findWordAtPosition(text string, pos int, trie *trieNode) (string, int) {
 	}
 
 	return lastWord, lastWordEnd
+}
+
+func removeSubsequences(sequences []*WordSequence) []*WordSequence {
+	if len(sequences) == 0 {
+		return sequences
+	}
+
+	// Sort by start position for efficient comparison
+	sort.Slice(sequences, func(i, j int) bool {
+		if sequences[i].StartOffset != sequences[j].StartOffset {
+			return sequences[i].StartOffset < sequences[j].StartOffset
+		}
+		return sequences[i].EndOffset > sequences[j].EndOffset // longer first for same start
+	})
+
+	var filtered []*WordSequence
+
+	for i := 0; i < len(sequences); i++ {
+		current := sequences[i]
+		isMaximal := true
+
+		// Check if this sequence is contained within any other sequence
+		for j := 0; j < len(sequences); j++ {
+			if i == j {
+				continue
+			}
+
+			other := sequences[j]
+
+			// Check if current is a subsequence of other
+			if other.StartOffset <= current.StartOffset &&
+				other.EndOffset >= current.EndOffset &&
+				other.WordCount > current.WordCount {
+				isMaximal = false
+				break
+			}
+		}
+
+		if isMaximal {
+			filtered = append(filtered, current)
+		}
+	}
+
+	return filtered
 }
 
 func must(err error) {
