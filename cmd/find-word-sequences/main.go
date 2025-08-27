@@ -59,12 +59,14 @@ import (
 	"runtime"
 	"sort"
 	"strings"
+	"sync"
 )
 
 const (
 	kjvBaseFilename = "kjv-bag-of-words.txt"
 	minWords        = 7
 	minPrintWordLen = 7
+	numWorkers      = 10
 )
 
 func main() {
@@ -85,6 +87,20 @@ func main() {
 	log.Printf("Loaded %v words", len(words))
 	trie := buildTrie(words)
 
+	workers := make(chan struct{}, numWorkers)
+	releaseWorker := func() { <-workers }
+	var wg sync.WaitGroup
+
+	runWorker := func(fullPath string) {
+		workers <- struct{}{} // block until a worker is available
+		wg.Add(1)
+		go func(fullPath string) {
+			defer wg.Done()
+			defer releaseWorker()
+			processFile(fullPath, trie)
+		}(fullPath)
+	}
+
 	for _, arg := range flag.Args() {
 		fi, err := os.Stat(arg)
 		must(err)
@@ -94,14 +110,16 @@ func main() {
 				must(err)
 				if strings.HasSuffix(path, ".txt") {
 					fullPath := filepath.Join(arg, path)
-					processFile(fullPath, trie)
+					runWorker(fullPath)
 				}
 				return nil
 			})
 		} else {
-			processFile(arg, trie)
+			runWorker(arg)
 		}
 	}
+
+	wg.Wait()
 
 	log.Printf("Done.")
 }
